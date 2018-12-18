@@ -7,7 +7,7 @@ publishDir = "../futres.github.io"
 
 [[menu.main]]
   name = "About"
-  weight = -6 
+  weight = -6
   identifier = "about"
   url = "/about/"
 
@@ -30,13 +30,13 @@ publishDir = "../futres.github.io"
   url = "/usecases/"
 
 [[menu.main]]
-  name = "API"
+  name = "Data"
   weight = -2
-  identifier = "api"
-  url = "/api/"
+  identifier = "data"
+  url = "/data/"
 
-[[menu.main]]
-  name = "Query"
-  weight = -1
-  identifier = "query"
-  url = "/query/"
+#[[menu.main]]
+#  name = "Query"
+#  weight = -1
+#  identifier = "query"
+#  url = "/query/"
