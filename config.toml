@@ -1,0 +1,42 @@
+baseURL = "https://futres.org/"
+languageCode = "en-us"
+title = "FuTRES"
+theme = "kube"
+homepageText = "FuTRES"
+publishDir = "../futres.github.io"
+
+[[menu.main]]
+  name = "About"
+  weight = -6 
+  identifier = "about"
+  url = "/about/"
+
+[[menu.main]]
+  name = "Team"
+  weight = -5
+  identifier = "team"
+  url = "/team/"
+
+[[menu.main]]
+  name = "Workshop"
+  weight = -4
+  identifier = "workshop"
+  url = "/workshop/"
+
+[[menu.main]]
+  name = "Use Cases"
+  weight = -3
+  identifier = "usecases"
+  url = "/usecases/"
+
+[[menu.main]]
+  name = "API"
+  weight = -2
+  identifier = "api"
+  url = "/api/"
+
+[[menu.main]]
+  name = "Query"
+  weight = -1
+  identifier = "query"
+  url = "/query/"
