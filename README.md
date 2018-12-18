@@ -1,4 +1,4 @@
-# futres_website
+# FuTRES Website Source Files
 
 This repository contains the source files for generating the [FuTRES website](http://futres.org/).
 To make changes to the FuTRES website, fork this repository and edit the files in the ```content``` directory corresponding
