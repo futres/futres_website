@@ -1,11 +1,9 @@
 # futres_website
 
-This repository contains the source files for generating the FuTRES website, 
-which is stored at futres.github.io.  To make changes to content, you can fork
-this repository and edit the files in the ```content``` directory corresponding
-to each of the sections on the [FuTRES website](http://futres.org/).  Then, make
-a Pull Request and John will review change suggestions and make it go live to the 
-site itself.
+This repository contains the source files for generating the [FuTRES website](http://futres.org/).
+To make changes to content, fork this repository and edit the files in the ```content``` directory corresponding
+to each of the sections on the [FuTRES website](http://futres.org/).  When you are done, make
+a Pull Request and John will review change suggestions and use the following process to make it live.
 
 ## Process for making changes go live
 
