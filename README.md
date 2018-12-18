@@ -6,7 +6,7 @@ to each section (e.g. about.md, team.md, etc...).  All content is written in Mar
 be able to get a reasonable fascimile of your changes as you edit in github.  When you are done, make
 a Pull Request and John will review change suggestions and use the following process to make it live.
 
-## Process for making changes go live
+## Process for making changes go live (For Developer use only)
 
  * Pull this repository into ```{MYREPOS}/futres_website```
  * Pull futres.github.io repository into ``` {MYREPOS}/futres.github.io```
