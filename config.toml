@@ -1,7 +1,7 @@
 baseURL = "https://futres.org/"
 languageCode = "en-us"
 title = "FuTRES"
-theme = "kube"
+theme = ["futres","kube"]
 homepageText = "FuTRES"
 publishDir = "docs"
 
