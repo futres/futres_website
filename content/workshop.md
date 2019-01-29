@@ -5,7 +5,7 @@ slug: workshop
 ---
 
 # FuTRES Workshop
-The first workshop for FuTRES will be held at the University of Oregon on July 15-17, 2019.
+The first workshop for FuTRES will be held at the University of Oregon, on July 15-17, 2019.
 
 FuTRES workshops are an opportunity for members of the research community to both learn about the capabilities of the database and shape the development of the structure and tools of FuTRES.
 
