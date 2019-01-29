@@ -3,7 +3,7 @@ title: Team
 language: en
 slug: team 
 ---
-Following are our team members:
+Following are our FuTRES team members:
 <figure><img src="/media/ed.jpg"/><figcaption>Edward Davis</figcaption></figure>
 <figure><img src="/media/kitty150.jpg"/><figcaption>Kitty Emery</figcaption></figure>
 <figure><img src="/media/meghan150.jpg"/><figcaption>Meghan Bal</figcaption></figure>
