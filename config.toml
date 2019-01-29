@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "FuTRES"
 theme = "kube"
 homepageText = "FuTRES"
-publishDir = "../futres.github.io"
+publishDir = "docs"
 
 [[menu.main]]
   name = "About"

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>/media/logo200.jpg on FuTRES</title>
+    <link>https://futres.org/</link>
+    <description>Recent content in /media/logo200.jpg on FuTRES</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://futres.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://futres.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://futres.org/about/</guid>
+      <description>Coming soon, about text&amp;hellip;.</description>
+    </item>
+    
+    <item>
+      <title>Data</title>
+      <link>https://futres.org/data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://futres.org/data/</guid>
+      <description>FuTRES will deliver all processed trait data via an application programming interface (API), web interface, and R package. This page will display details about these data access points by May of 2019</description>
+    </item>
+    
+    <item>
+      <title>Query</title>
+      <link>https://futres.org/query/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://futres.org/query/</guid>
+      <description>This page will be a redirect when the query interface is available. Coming in 2019</description>
+    </item>
+    
+    <item>
+      <title>Team</title>
+      <link>https://futres.org/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://futres.org/team/</guid>
+      <description>Edward Davis Kitty Emery Meghan Bal Ramona Wall Ray Berno Robert Guralnick John Deck </description>
+    </item>
+    
+    <item>
+      <title>Use Cases</title>
+      <link>https://futres.org/usecases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://futres.org/usecases/</guid>
+      <description>The use cases we are considering &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Workshop</title>
+      <link>https://futres.org/workshop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://futres.org/workshop/</guid>
+      <description>FuTRES Workshop The first workshop for FuTRES will be held at the University of Oregon on July 15-17, 2019.
+FuTRES workshops are an opportunity for members of the research community to both learn about the capabilities of the database and shape the development of the structure and tools of FuTRES.
+Scheduled workshops  July 15-17, 2019: Established researchers guide database development Summer 2020: Established researchers critique database development Summer 2021: Early-career researchers evaluate database utility  Agenda for July 15-17, 2019, Workshop July 15 9AM: Lightning talks about use cases for a vertebrate trait database 10AM: Introduction to ontologies 11AM: Data sources already in place Noon: Lunch and discussion 1PM: Breakout groups by discipline to focus on developing use cases and datasets to target for FuTRES year 2 3PM: Regroup and read out 4PM: Group discussion of potential future research grants that could leverage FuTRES</description>
+    </item>
+    
+  </channel>
+</rss>
