@@ -7,5 +7,7 @@ To make changes to the FuTRES website, simply edit the files in the ```content``
 to each section (e.g. about.md, team.md, etc...).  All content is written in Markdown, and you should 
 be able to get a reasonable fascimile of your changes as you edit in github by using the "preview" button.  
 
-When you are done making changes, you will need to wait 10-30 minutes for netlify and github to work things out for you to view changes at the [FuTRES website](http://futres.org/).
+When you are done making changes, you will need to wait a couple of minutes for your changes to go live.
+
+How does this system work?  Pages on our site are first written in markdown, and when changes are committed to github, the build site netlify is notified, which then runs  "hugo" (a static site generator) to build the FuTRES website.   The site uses the "Kube" theme for Hugo, which we have written some additional small customizations to control rendering.
 
