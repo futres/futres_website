@@ -13,3 +13,4 @@ Edward Davis is an Assistant Professor of [Earth Sciences](https://earthsciences
 <figure><img src="/media/ray150.jpg"/><figcaption>Ray Berno</figcaption></figure>
 <figure><img src="/media/rob150.jpg"/><figcaption>Robert Guralnick</figcaption></figure>
 <figure><img src="/media/john150.jpg"/><figcaption>John Deck</figcaption></figure>
+John Deck is a programmer, farmer, and jack-of-all-trades variously working on biodiversity informatics projects, sample tracking software, and ontology driven data integration when he is not busy with his cows and co-managing [Deck Family Farm](https://deckfamilyfarm.com/).  He works for the [Berkeley Natural History Museums](https://bnhm.berkeley.edu/) and [Biocode, LLC](https://biocodellc.com/).
