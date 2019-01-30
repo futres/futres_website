@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://futres.org/</loc>
-  </url>
-  
-  <url>
     <loc>https://futres.org/about/</loc>
   </url>
   
@@ -38,6 +34,10 @@
   
   <url>
     <loc>https://futres.org/workshop/</loc>
+  </url>
+  
+  <url>
+    <loc>https://futres.org/</loc>
   </url>
   
 </urlset>
