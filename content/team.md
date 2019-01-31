@@ -7,9 +7,9 @@ slug: team
 Edward Davis is an Assistant Professor of [Earth Sciences](https://earthsciences.uoregon.edu/) at the University of Oreogn and the Curator of Fossil Collections for the [UO Museum of Natural and Cultural History](https://natural-history.uoregon.edu/). His research is focused on the effects of changing environments on the distributions and traits of fossil mammals. [Research Website](https://blogs.uoregon.edu/vertpaleo/)
 
 <figure><img src="/media/kitty150.jpg"/><figcaption>Kitty Emery</figcaption></figure>
-<figure><img src="/media/meghan150.jpg"/><figcaption>Meghan Bal</figcaption></figure>
-<figure><img src="/media/ramona150.jpg"/><figcaption>Ramona Wall</figcaption></figure>
-<figure><img src="/media/ray150.jpg"/><figcaption>Ray Berno</figcaption></figure>
+<figure><img src="/media/meghan150.jpg"/><figcaption>Meghan Balk</figcaption></figure>
+<figure><img src="/media/ramona150.jpg"/><figcaption>Ramona Walls</figcaption></figure>
+<figure><img src="/media/ray150.jpg"/><figcaption>Ray Bernor</figcaption></figure>
 <figure><img src="/media/rob150.jpg"/><figcaption>Robert Guralnick</figcaption></figure>
 <figure><img src="/media/john150.jpg"/><figcaption>John Deck</figcaption></figure>
 John Deck is a programmer, farmer, and jack-of-all-trades variously working on biodiversity informatics projects, sample tracking software, and ontology driven data integration when he is not busy with his cows and co-managing [Deck Family Farm](https://deckfamilyfarm.com/).  He works for the [Berkeley Natural History Museums](https://bnhm.berkeley.edu/) and [Biocode, LLC](https://biocodellc.com/).
