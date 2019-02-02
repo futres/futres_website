@@ -7,7 +7,7 @@ slug: team
 Edward Davis is an Assistant Professor of [Earth Sciences](https://earthsciences.uoregon.edu/) at the University of Oregon and the Curator of Fossil Collections for the [UO Museum of Natural and Cultural History](https://natural-history.uoregon.edu/). His research is focused on the effects of changing environments on the distributions and traits of fossil mammals. [Research Website](https://blogs.uoregon.edu/vertpaleo/)
 
 <figure><img src="/media/kitty150.jpg"/><figcaption>Kitty Emery</figcaption></figure>
-<figure><img src="/media/meghan150.jpg"/><figcaption>Meghan Balk</figcaption></figure>
+<figure><img src="/media/mabalk.png"/><figcaption>Meghan Balk</figcaption></figure>
 <figure><img src="/media/ramona150.jpg"/><figcaption>Ramona Walls</figcaption></figure>
 <figure><img src="/media/ray150.jpg"/><figcaption>Ray Bernor</figcaption></figure>
 <figure><img src="/media/rob150.jpg"/><figcaption>Robert Guralnick</figcaption></figure>
