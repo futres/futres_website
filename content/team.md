@@ -4,12 +4,12 @@ language: en
 slug: team 
 ---
 <figure><img src="/media/ed.jpg"/><figcaption>Edward Davis</figcaption></figure>
-Edward Davis is an Assistant Professor of [Earth Sciences](https://earthsciences.uoregon.edu/) at the University of Oregon and the Curator of Fossil Collections for the [UO Museum of Natural and Cultural History](https://natural-history.uoregon.edu/). His research is focused on the effects of changing environments on the distributions and traits of fossil mammals. [Research Website](https://blogs.uoregon.edu/vertpaleo/)
+Edward Davis is an Assistant Professor of <a href="https://earthsciences.uoregon.edu/">Earth Sciences</a> at the University of Oregon and the Curator of Fossil Collections for the <a href="https://natural-history.uoregon.edu/">UO Museum of Natural and Cultural History</a>. His research is focused on the effects of changing environments on the distributions and traits of fossil mammals. <a href="https://blogs.uoregon.edu/vertpaleo/">Research Website</a>
 
 <figure><img src="/media/kitty150.jpg"/><figcaption>Kitty Emery</figcaption></figure>
 
 <figure><img src="/media/mabalk.png"/><figcaption>Meghan Balk</figcaption></figure>
-[Meghan Balk](https://sites.google.com/view/megbalk) is the Postdoctoral Research Associate for the FuTRES team. Her interests include investigating how vertebrate traits facilitate adaptation to climate change, digging in the dirt, and climbing on rocks. 
+<a href="https://sites.google.com/view/megbalk">Meghan Balk</a> is the Postdoctoral Research Associate for the FuTRES team. Her interests include investigating how vertebrate traits facilitate adaptation to climate change, digging in the dirt, and climbing on rocks. 
 
 <figure><img src="/media/ramona150.jpg"/><figcaption>Ramona Walls</figcaption></figure>
 
