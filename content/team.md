@@ -13,6 +13,7 @@ Kitty Emery is an environmental archaeologist specializing in zooarchaeology (th
 <a href="https://sites.google.com/view/megbalk">Meghan Balk</a> is the Postdoctoral Research Associate for the FuTRES team. Her interests include investigating how vertebrate traits facilitate adaptation to climate change, digging in the dirt, and climbing on rocks. 
 </p>
 <p><figure><img src="/media/ramona150.jpg"/><figcaption>Ramona Walls</figcaption></figure>
+Ramona Walls is the Senior Science Informatician at [CyVerse](https://www.cyverse.org/) and a Research Associate at the [Bio5 Insitute](http://www.bio5.org/) at the University of Arizona. Her research focuses on ontology-based data integration, ontology design, and identifier services for large datasets, but she is a botanist by training as well.
 </p>
 <p><figure><img src="/media/ray150.jpg"/><figcaption>Ray Bernor</figcaption></figure>
 </p>
