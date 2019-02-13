@@ -13,16 +13,16 @@ Kitty Emery is an environmental archaeologist specializing in zooarchaeology (th
 <a href="https://sites.google.com/view/megbalk">Meghan Balk</a> is the Postdoctoral Research Associate for the FuTRES team. Her interests include investigating how vertebrate traits facilitate adaptation to climate change, digging in the dirt, and climbing on rocks. 
 </p>
 <p><figure><img src="/media/ramona150.jpg"/><figcaption>Ramona Walls</figcaption></figure>
-  Ramona Walls is the Senior Science Informatician at <a href="https://www.cyverse.org/"CyVerse</a>and a Research Associate at the <a href="http://www.bio5.org/">Bio5 Insitute</a> at the University of Arizona. Her research focuses on ontology-based data integration, ontology design, and identifier services for large datasets, but she is a botanist by training as well.
+  Ramona Walls is the Senior Science Informatician at <a href="https://www.cyverse.org/">CyVerse</a> and a Research Associate at the <a href="http://www.bio5.org/">Bio5 Insitute</a> at the University of Arizona. Her research focuses on ontology-based data integration, ontology design, and identifier services for large datasets, but she is a botanist by training as well.
 </p>
 <p><figure><img src="/media/ray150.jpg"/><figcaption>Ray Bernor</figcaption></figure>
 </p>
 <p><figure><img src="/media/rob150.jpg"/><figcaption>Robert Guralnick</figcaption></figure>
-Rob Guralnick is a hybrid biodiversity scientist and informatician, and the Curator of Biodiversity Informatics at the [Florida Museum of Natural History](https://www.floridamuseum.ufl.edu/).  He particularly values interdisciplinary work, and FuTRES certainly fits that bill.
+Rob Guralnick is a hybrid biodiversity scientist and informatician, and the Curator of Biodiversity Informatics at the <a href="https://www.floridamuseum.ufl.edu/">Florida Museum of Natural History</a>.  He particularly values interdisciplinary work, and FuTRES certainly fits that bill.
 </p>
 <p><figure><img src="/media/john150.jpg"/><figcaption>John Deck</figcaption></figure>
-John Deck is a programmer, farmer, and jack-of-all-trades variously working on biodiversity informatics projects, sample tracking software, and ontology driven data integration when he is not busy with his cows and co-managing [Deck Family Farm](https://deckfamilyfarm.com/).  He works for the [Berkeley Natural History Museums](https://bnhm.berkeley.edu/) and [Biocode, LLC](https://biocodellc.com/).
+John Deck is a programmer, farmer, and jack-of-all-trades variously working on biodiversity informatics projects, sample tracking software, and ontology driven data integration when he is not busy with his cows and co-managing <a href="https://deckfamilyfarm.com">Deck Family Farm</a>.  He works for the <a href="https://bnhm.berkeley.edu">Berkeley Natural History Museums</a> and <a href="https://biocodellc.com">Biocode, LLC</a>.
 </p>
 <p><figure><img src="/media/Laura1501.jpg"/><figcaption>Laura Brenskelle</figure>
-Laura Brenskelle is a PhD student at the [Florida Museum of Natural History](https://www.floridamuseum.ufl.edu/) studying biodiversity informatics. Her interests include developing standards and methods to integrate heterogeneous biodiversity data, making museum specimen data more widely accessible, and eating cheese (pictured).
+Laura Brenskelle is a PhD student at the <a href="https://www.floridamuseum.ufl.edu">Florida Museum of Natural History</a> studying biodiversity informatics. Her interests include developing standards and methods to integrate heterogeneous biodiversity data, making museum specimen data more widely accessible, and eating cheese (pictured).
 </p>
