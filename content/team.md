@@ -7,13 +7,13 @@ slug: team
 Edward Davis is an Assistant Professor of <a href="https://earthsciences.uoregon.edu/">Earth Sciences</a> at the University of Oregon and the Curator of Fossil Collections for the <a href="https://natural-history.uoregon.edu/">UO Museum of Natural and Cultural History</a>. His research is focused on the effects of changing environments on the distributions and traits of fossil mammals. <a href="https://blogs.uoregon.edu/vertpaleo/">Research Website</a>
 </p>
 <p><figure><img src="/media/kitty150.jpg"/><figcaption>Kitty Emery</figcaption></figure>
-Kitty Emery is an environmental archaeologist specializing in zooarchaeology (the study of old animal bits and pieces from archaeological sites), and curator of the [Environmental Archaeology Program](https://www.floridamuseum.ufl.edu/envarch/) at the [Florida Museum of Natural History](https://www.floridamuseum.ufl.edu/). She is passionate about adding zooarchaeological data to biodiversity data networks to trace the history of human-animal interactions. She's fairly clueless about informatics, ontologies, Slack and GitHub, but is excited to be learning from the FuTRES team!
+Kitty Emery is an environmental archaeologist specializing in zooarchaeology (the study of old animal bits and pieces from archaeological sites), and curator of the <a href="https://www.floridamuseum.ufl.edu/envarch/">Environmental Archaeology Program</a> at the <a href="https://www.floridamuseum.ufl.edu/">Florida Museum of Natural History</a>. She is passionate about adding zooarchaeological data to biodiversity data networks to trace the history of human-animal interactions. She's fairly clueless about informatics, ontologies, Slack and GitHub, but is excited to be learning from the FuTRES team!
 </p>
 <p><figure><img src="/media/mabalk.png"/><figcaption>Meghan Balk</figcaption></figure>
 <a href="https://sites.google.com/view/megbalk">Meghan Balk</a> is the Postdoctoral Research Associate for the FuTRES team. Her interests include investigating how vertebrate traits facilitate adaptation to climate change, digging in the dirt, and climbing on rocks. 
 </p>
 <p><figure><img src="/media/ramona150.jpg"/><figcaption>Ramona Walls</figcaption></figure>
-Ramona Walls is the Senior Science Informatician at [CyVerse](https://www.cyverse.org/) and a Research Associate at the [Bio5 Insitute](http://www.bio5.org/) at the University of Arizona. Her research focuses on ontology-based data integration, ontology design, and identifier services for large datasets, but she is a botanist by training as well.
+  Ramona Walls is the Senior Science Informatician at <a href="https://www.cyverse.org/"CyVerse</a>and a Research Associate at the <a href="http://www.bio5.org/">Bio5 Insitute</a> at the University of Arizona. Her research focuses on ontology-based data integration, ontology design, and identifier services for large datasets, but she is a botanist by training as well.
 </p>
 <p><figure><img src="/media/ray150.jpg"/><figcaption>Ray Bernor</figcaption></figure>
 </p>
