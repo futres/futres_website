@@ -4,7 +4,7 @@ language: en
 slug: team 
 ---
 <p><figure><img src="/media/ed.jpg"/><figcaption>Edward Davis</figcaption></figure>
-Edward Davis is an Assistant Professor of <a href="https://earthsciences.uoregon.edu/">Earth Sciences</a> at the University of Oregon and the Curator of Fossil Collections for the <a href="https://natural-history.uoregon.edu/">UO Museum of Natural and Cultural History</a>. His research is focused on the effects of changing environments on the distributions and traits of fossil mammals. <a href="https://blogs.uoregon.edu/vertpaleo/">Research Website</a>
+<a href="https://blogs.uoregon.edu/vertpaleo/">Edward Davis</a> is an Assistant Professor of <a href="https://earthsciences.uoregon.edu/">Earth Sciences</a> at the University of Oregon and the Curator of Fossil Collections for the <a href="https://natural-history.uoregon.edu/">UO Museum of Natural and Cultural History</a>. His research is focused on the effects of changing environments on the distributions and traits of fossil mammals.
 </p>
 <p><figure><img src="/media/kitty150.jpg"/><figcaption>Kitty Emery</figcaption></figure>
 Kitty Emery is an environmental archaeologist specializing in zooarchaeology (the study of old animal bits and pieces from archaeological sites), and curator of the <a href="https://www.floridamuseum.ufl.edu/envarch/">Environmental Archaeology Program</a> at the <a href="https://www.floridamuseum.ufl.edu/">Florida Museum of Natural History</a>. She is passionate about adding zooarchaeological data to biodiversity data networks to trace the history of human-animal interactions. She's fairly clueless about informatics, ontologies, Slack and GitHub, but is excited to be learning from the FuTRES team!
