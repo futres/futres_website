@@ -13,9 +13,10 @@ Kitty Emery is an environmental archaeologist specializing in zooarchaeology (th
 <a href="https://sites.google.com/view/megbalk">Meghan Balk</a> is the Postdoctoral Research Associate for the FuTRES team. Her interests include investigating how vertebrate traits facilitate adaptation to climate change, digging in the dirt, and climbing on rocks. 
 </p>
 <p><figure><img src="/media/Walls_gnu.jpg"/><figcaption>Ramona Walls</figcaption></figure>
-  Ramona Walls is the Senior Science Informatician at <a href="https://www.cyverse.org/">CyVerse</a> and a Research Associate at the <a href="http://www.bio5.org/">Bio5 Insitute</a> at the University of Arizona. An ecologist and evolutionary biologists by training, her current research focuses on ontology-based data integration, ontology design, metadata standards, and identifier services for large, distributed datasets.
+Ramona Walls is the Senior Science Informatician at <a href="https://www.cyverse.org/">CyVerse</a> and a Research Associate at the <a href="http://www.bio5.org/">Bio5 Insitute</a> at the University of Arizona. An ecologist and evolutionary biologists by training, her current research focuses on ontology-based data integration, ontology design, metadata standards, and identifier services for large, distributed datasets.
 </p>
 <p><figure><img src="/media/ray150.jpg"/><figcaption>Ray Bernor</figcaption></figure>
+Ray Bernor is Professor of Anatomy in the College of Medicine, Howard University.  His research is on Old World Neogene mammals with a particular emphasis on the evolution of Equidae.  Ray has been involved in founding the <a href="http://www.helsinki.fi/science/now/">New and Old World (NOW) Database</a> and has been developing an equid trait database since 1974 that will be ingested into FuTRES.
 </p>
 <p><figure><img src="/media/rob150.jpg"/><figcaption>Robert Guralnick</figcaption></figure>
 Rob Guralnick is a hybrid biodiversity scientist and informatician, and the Curator of Biodiversity Informatics at the <a href="https://www.floridamuseum.ufl.edu/">Florida Museum of Natural History</a>.  He particularly values interdisciplinary work, and FuTRES certainly fits that bill.
