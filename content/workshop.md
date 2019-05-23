@@ -16,23 +16,23 @@ FuTRES workshops are an opportunity for members of the research community to bot
 3. Summer 2021: Early-career researchers evaluate database utility
 
 ## Agenda for July 15-17, 2019, Workshop
-July 15 
-9AM: Lightning talks about use cases for a vertebrate trait database
-10AM: Introduction to ontologies
-11AM: Data sources already in place
-Noon: Lunch and discussion
-1PM: Breakout groups by discipline to focus on developing use cases and datasets to target for FuTRES year 2
-3PM: Regroup and read out
-4PM: Group discussion of potential future research grants that could leverage FuTRES
+<b>July 15</b></br>
+9AM: Lightning talks about use cases for a vertebrate trait database</br>
+10AM: Introduction to ontologies</br>
+11AM: Data sources already in place</br>
+Noon: Lunch and discussion</br>
+1PM: Breakout groups by discipline to focus on developing use cases and datasets to target for FuTRES year 2</br>
+3PM: Regroup and read out</br>
+4PM: Group discussion of potential future research grants that could leverage FuTRES</br>
 
-July 16
+<b>July 16</b>
 The second day will be spent in creating trait definition mappings in 3-4 small groups, to create the ontological linkages needed for the use cases defined on Day 1. 
 
-July 17
+<b>July 17</b>
 Return together to discuss insights from trait mappings. 
 Mix the groups from Day 2 to get synthetic insights and develop new research plans.
 
-Outcomes from July 15-17, 2019, Workshop:
+<b>Outcomes from July 15-17, 2019 Workshop:</b>
 - Meeting report published through PenSoft
 - Best practices paper for publishing vertebrate trait data
 - Research grant proposals to leverage tools from FuTRES
