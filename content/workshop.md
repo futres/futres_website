@@ -25,16 +25,16 @@ Noon: Lunch and discussion</br>
 3PM: Regroup and read out</br>
 4PM: Group discussion of potential future research grants that could leverage FuTRES</br>
 
-<b>July 16</b>
+<b>July 16</b></br>
 The second day will be spent in creating trait definition mappings in 3-4 small groups, to create the ontological linkages needed for the use cases defined on Day 1. 
 
-<b>July 17</b>
+<b>July 17</b></br>
 Return together to discuss insights from trait mappings. 
 Mix the groups from Day 2 to get synthetic insights and develop new research plans.
 
-<b>Outcomes from July 15-17, 2019 Workshop:</b>
-- Meeting report published through PenSoft
-- Best practices paper for publishing vertebrate trait data
-- Research grant proposals to leverage tools from FuTRES
-- New datasets added to FuTRES
+<b>Outcomes from July 15-17, 2019 Workshop:</b></br>
+- Meeting report published through PenSoft</br>
+- Best practices paper for publishing vertebrate trait data</br>
+- Research grant proposals to leverage tools from FuTRES</br>
+- New datasets added to FuTRES</br>
 - Coordination with other ongoing bioinformatics efforts
