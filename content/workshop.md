@@ -9,13 +9,13 @@ The first workshop for FuTRES will be held at the University of Oregon, on July 
 
 FuTRES workshops are an opportunity for members of the research community to both learn about the capabilities of the database and shape the development of the structure and tools of FuTRES.
 
-## Scheduled workshops
+## Scheduled Workshops
 1. July 15-17, 2019: Established researchers guide database development</br>
 2. Summer 2020: Established researchers critique database development</br>
 3. Summer 2021: Early-career researchers evaluate database utility</br>
 
-## Agenda for July 15-17, 2019, Workshop
-<b>July 15</b></br>
+## Agenda for July 15-17, 2019 Workshop
+</br><b>July 15</b></br>
 9AM: Lightning talks about use cases for a vertebrate trait database</br>
 10AM: Introduction to ontologies</br>
 11AM: Data sources already in place</br>
