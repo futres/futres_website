@@ -1,7 +1,7 @@
 ---
 title: Workshop
 language: en
-slug: data
+slug: workshop
 ---
 
 # FuTRES Workshop
