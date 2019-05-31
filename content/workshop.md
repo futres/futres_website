@@ -68,6 +68,5 @@ FuTRES workshops are an opportunity for members of the research community to bot
 
 **Directions**
 
-<div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=phoenix%20inn%2C%20eugene%2C%20or&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.pureblack.de"></a></div><style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div>
-
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2867.6704790774124!2d-123.08183858483429!3d44.048861934773804!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54c11e3d99b087c3%3A0xc244865c1730869a!2sPhoenix+Inn+Suites+Eugene!5e0!3m2!1sen!2sus!4v1559322049919!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
