@@ -1,9 +1,3 @@
----
-title: Workshop
-language: en
-slug: workshop 
----
-
 # FuTRES Workshop
 The first workshop for FuTRES will be held at the University of Oregon, on July 15-17, 2019.
 
