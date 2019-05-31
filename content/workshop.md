@@ -16,6 +16,8 @@ FuTRES workshops are an opportunity for members of the research community to bot
 
 ## Agenda for July 15-17, 2019 Workshop
 **July 15**
+
+
 | Time | Activity |
 | --- | --- |
 | 9 AM | Lightning talks about use cases for a vertebrate trait database |
