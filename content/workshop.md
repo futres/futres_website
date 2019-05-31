@@ -64,7 +64,7 @@ FuTRES workshops are an opportunity for members of the research community to bot
 - Coordination with other ongoing bioinformatics efforts
 
 ### Travel Information
+**Hotel:** 
 
-
-**Hotel:** [Phoenix Inn] (https://www.phoenixinn.com/eugene)
+[Phoenix Inn] (https://www.phoenixinn.com/eugene)
 
