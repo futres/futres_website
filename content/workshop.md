@@ -62,3 +62,7 @@ FuTRES workshops are an opportunity for members of the research community to bot
 - Research grant proposals to leverage tools from FuTRES
 - New datasets added to FuTRES
 - Coordination with other ongoing bioinformatics efforts
+
+### Travel Information
+**Hotel:** [Phoenix Inn] (https://www.phoenixinn.com/eugene)
+
