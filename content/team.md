@@ -1,5 +1,5 @@
 ---
-title: Data
+title: Team
 language: en
 slug: data
 ---
