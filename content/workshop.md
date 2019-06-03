@@ -22,7 +22,7 @@ FuTRES workshops are an opportunity for members of the research community to bot
 *Goal: Understand types of data and potential collaborations*
 
 | Time | Activity |
-| :--- | --- |
+| :--- | :--- |
 | 9:00&nbsp;AM | Lightning talks about use cases for a vertebrate trait database |
 | 10:00&nbsp;AM | Coffee break |
 | 10:15&nbsp;AM | Introduction to ontologies |
@@ -37,7 +37,7 @@ FuTRES workshops are an opportunity for members of the research community to bot
 *Goal: Figure out new mappings and standardizations for traits*
 
 | Time | Activity |
-| :--- | --- |
+| :--- | :--- |
 | 9:00 AM | Identify specific datasets |
 | 10:15 AM | Figure out groups & get acquainted |
 | 10:30 AM | Coffee break |
@@ -53,7 +53,7 @@ FuTRES workshops are an opportunity for members of the research community to bot
 *Goal: Determine future projects using the FuTRES pipeline*
 
 | Time | Activity |
-| :--- | --- |
+| :--- | :--- |
 | 9:00 AM | Switch up groups |
 | 9:45 AM | Coffee break |
 | 10:30 AM | Switch up groups |
