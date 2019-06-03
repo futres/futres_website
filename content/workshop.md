@@ -23,7 +23,7 @@ FuTRES workshops are an opportunity for members of the research community to bot
 
 | Time | Activity |
 | :---: | --- |
-| 9:00 AM | Lightning talks about use cases for a vertebrate trait database |
+| 9:00&nbsp;AM | Lightning talks about use cases for a vertebrate trait database |
 | 10:00 AM | Coffee break |
 | 10:15 AM | Introduction to ontologies |
 | 11:00 AM | Data sources already in place |
