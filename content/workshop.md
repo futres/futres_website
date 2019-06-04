@@ -39,7 +39,7 @@ FuTRES workshops are an opportunity for members of the research community to bot
 | Time | Activity |
 | :--- | :--- |
 | 9:00&nbsp;AM | Identify specific datasets |
-| 10:15&nbsp;AM | Figure out groups & get acquainted |
+| 10:15&nbsp;AM | Figure out groups & get acquainted&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | 10:30&nbsp;AM | Coffee break |
 | 10:45&nbsp;AM | Gather into groups |
 | 12:00&nbsp;PM | Lunch and discussion |
@@ -54,7 +54,7 @@ FuTRES workshops are an opportunity for members of the research community to bot
 
 | Time | Activity |
 | :--- | :--- |
-| 9:00&nbsp;AM | Switch up groups |
+| 9:00&nbsp;AM | Switch up groups&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | 9:45&nbsp;AM | Coffee break |
 | 10:30&nbsp;AM | Switch up groups |
 | 12:00&nbsp;PM | Lunch and discussion |
