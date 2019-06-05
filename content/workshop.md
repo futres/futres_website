@@ -10,7 +10,8 @@ FuTRES workshops are an opportunity for members of the research community to bot
 2. Summer 2020: Established researchers critique database development<br>
 3. Summer 2021: Early-career researchers evaluate database utility</p>
 <h3 style="text-align: center;" markdown="1">
-July 15-17, 2019 Workshop<br>
+First FuTRES Workshop<br>
+July 15-17, 2019<br>
 University of Oregon<br>
 Eugene, Oregon, United States<br>
 <a href="https://arizona.zoom.us/j/703642783">Zoom link</a><br>
