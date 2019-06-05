@@ -1,5 +1,5 @@
 ---
-title: Workshop
+title: Workshops
 language: en
 slug: workshop
 ---
