@@ -15,7 +15,7 @@ July 15-17, 2019 Workshop<br>
 University of Oregon<br>
 Eugene, Oregon, United States<br>
 <a href="https://arizona.zoom.us/j/703642783">Zoom link</a><br>
-</h>
+</h3>
 **July 15**
 *Goal: Understand types of data and potential collaborations*
 
