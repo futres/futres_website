@@ -6,10 +6,10 @@ homepageText = "FuTRES"
 publishDir = "docs"
 
 [[menu.main]]
-  name = "About"
+  name = "How It Works"
   weight = -6
-  identifier = "about"
-  url = "/about/"
+  identifier = "how"
+  url = "/how/"
 
 [[menu.main]]
   name = "Team"
