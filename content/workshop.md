@@ -6,7 +6,7 @@ slug: workshop
 FuTRES workshops are an opportunity for members of the research community to both learn about the capabilities of the database and shape the development of the structure and tools of FuTRES.
 
 ## Scheduled Workshops
-<p>1. July 15-17, 2019: Established researchers guide database development & determine projects using FuTRES<br>
+<p>1. July 2019: Established researchers guide database development & determine projects using FuTRES<br>
 2. Summer 2020: Established researchers critique database development<br>
 3. Summer 2021: Early-career researchers evaluate database utility</p>
 <h3 style="text-align: center;" markdown="1">
@@ -59,12 +59,12 @@ Eugene, Oregon, United States<br>
 | 3:00&nbsp;PM | Regroup and read out |
 | 4:00&nbsp;PM | Next steps |
 
-**Outcomes from July 15-17, 2019 Workshop:**
-- Meeting report published through PenSoft
-- Best practices paper for publishing vertebrate trait data
-- Research grant proposals to leverage tools from FuTRES
-- New datasets added to FuTRES
-- Coordination with other ongoing bioinformatics efforts
+**Outcomes from July 15-17, 2019 Workshop:**<br>
+- Meeting report published through PenSoft<br>
+- Best practices paper for publishing vertebrate trait data<br>
+- Research grant proposals to leverage tools from FuTRES<br>
+- New datasets added to FuTRES<br>
+- Coordination with other ongoing bioinformatics efforts<br>
 
 ### Travel Information
 **Hotel:** [Phoenix Inn] (https://www.phoenixinn.com/eugene)
