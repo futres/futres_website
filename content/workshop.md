@@ -14,7 +14,7 @@ First FuTRES Workshop<br>
 July 15-17, 2019<br>
 University of Oregon<br>
 Eugene, Oregon, United States<br>
-<a href="https://arizona.zoom.us/j/703642783">Zoom link</a><br>
+Remote Participation: <a href="https://arizona.zoom.us/j/703642783">Zoom</a><br>
 </h3>
 **July 15**<br>
 *Goal: Understand types of data and potential collaborations*
