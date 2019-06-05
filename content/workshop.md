@@ -32,12 +32,12 @@ Remote Participation: <a href="https://arizona.zoom.us/j/703642783">Zoom</a><br>
 | 4:00&nbsp;PM | Group discussion of potential future research <br> grants that could leverage FuTRES |
 
 **July 16**<br>
-*Goal: Figure out new mappings and standardizations for traits*
+*Goal: Develop new mappings and standardizations for traits*
 
 | Time | Activity |
 | :--- | :--- |
 | 9:00&nbsp;AM | Identify specific datasets |
-| 10:15&nbsp;AM | Figure out groups & get acquainted |
+| 10:15&nbsp;AM | Create groups & get acquainted |
 | 10:30&nbsp;AM | Coffee break |
 | 10:45&nbsp;AM | Gather into groups |
 | 12:00&nbsp;PM | Lunch and discussion |
