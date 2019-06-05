@@ -18,7 +18,7 @@ publishDir = "docs"
   url = "/team/"
 
 [[menu.main]]
-  name = "Workshop"
+  name = "Workshops"
   weight = -4
   identifier = "workshop"
   url = "/workshop/"
