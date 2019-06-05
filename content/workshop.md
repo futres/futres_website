@@ -3,12 +3,11 @@ title: Workshop
 language: en
 slug: workshop
 ---
-
 FuTRES workshops are an opportunity for members of the research community to both learn about the capabilities of the database and shape the development of the structure and tools of FuTRES.
 
 ## Scheduled Workshops
-<p>1. July 15-17, 2019: Established researchers guide database development & determine projects using FuTRES
-2. Summer 2020: Established researchers critique database development
+<p>1. July 15-17, 2019: Established researchers guide database development & determine projects using FuTRES<br>
+2. Summer 2020: Established researchers critique database development<br>
 3. Summer 2021: Early-career researchers evaluate database utility</p>
 <h3 style="text-align: center;" markdown="1">
 July 15-17, 2019 Workshop<br>
@@ -16,7 +15,7 @@ University of Oregon<br>
 Eugene, Oregon, United States<br>
 <a href="https://arizona.zoom.us/j/703642783">Zoom link</a><br>
 </h3>
-**July 15**
+**July 15**<br>
 *Goal: Understand types of data and potential collaborations*
 
 | Time | Activity |
@@ -31,7 +30,7 @@ Eugene, Oregon, United States<br>
 | 3:00&nbsp;PM | Regroup and read out |
 | 4:00&nbsp;PM | Group discussion of potential future research <br> grants that could leverage FuTRES |
 
-**July 16**
+**July 16**<br>
 *Goal: Figure out new mappings and standardizations for traits*
 
 | Time | Activity |
@@ -47,7 +46,7 @@ Eugene, Oregon, United States<br>
 | 4:00&nbsp;PM | Next steps |
 
 
-**July 17**
+**July 17**<br>
 *Goal: Determine future projects using the FuTRES pipeline*
 
 | Time | Activity |
