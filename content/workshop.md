@@ -19,17 +19,18 @@ Remote Participation: <a href="https://arizona.zoom.us/j/703642783">Zoom</a><br>
 **July 15**<br>
 *Goal: Understand types of data and potential collaborations*
 
-| Time | Activity |
-| :--- | :--- |
-| 9:00&nbsp;AM | Lightning talks about use cases for a vertebrate trait database |
-| 10:00&nbsp;AM | Coffee break |
-| 10:15&nbsp;AM | Introduction to ontologies |
-| 11:00&nbsp;AM | Data sources already in place |
-| 12:00&nbsp;PM | Lunch and discussion |
-| 1:00&nbsp;PM | Breakout groups by discipline to focus on <br> developing use cases and datasets to target for FuTRES year 2 |
-| 2:45&nbsp;PM | Snack break |
-| 3:00&nbsp;PM | Regroup and read out |
-| 4:00&nbsp;PM | Group discussion of potential future research <br> grants that could leverage FuTRES |
+| Time | Activity | Facilitator |
+| :--- | :--- | :--- |
+| 9:00&nbsp;AM | Ice Breaker | M.A. Balk |
+| 9:15&nbsp;AM | Lightning talks about use cases for a vertebrate trait database | Group |
+| 10:15&nbsp;AM | Coffee break | |
+| 10:30&nbsp;AM | Introduction to ontologies | R. Walls |
+| 11:15&nbsp;AM | Data sources already in place | R. Guralnick |
+| 12:00&nbsp;PM | Lunch and discussion | Catered |
+| 1:00&nbsp;PM | Breakout groups by discipline to focus on <br> developing use cases and datasets to target for FuTRES year 2 | Group |
+| 2:45&nbsp;PM | Snack break | |
+| 3:00&nbsp;PM | Regroup and read out | Group |
+| 4:00&nbsp;PM | Group discussion of potential future research <br> grants that could leverage FuTRES | Group |
 
 **July 16**<br>
 *Goal: Develop new mappings and standardizations for traits*
