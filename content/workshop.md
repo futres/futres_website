@@ -35,8 +35,8 @@ Remote Participation: <a href="https://arizona.zoom.us/j/703642783">Zoom</a><br>
 **July 16**<br>
 *Goal: Develop new mappings and standardizations for traits*
 
-| Time &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Activity |
-| :--- | :--- |
+| Time | Activity |
+| :-- | :---- |
 | 9:00 AM | Identify specific datasets |
 | 10:15 AM | Create groups & get acquainted |
 | 10:30 AM | Coffee break |
@@ -52,7 +52,7 @@ Remote Participation: <a href="https://arizona.zoom.us/j/703642783">Zoom</a><br>
 *Goal: Determine future projects using the FuTRES pipeline*
 
 | Time | Activity |
-| :--- | :--- |
+| :-- | :---- |
 | 9:00&nbsp;AM | Switch up groups |
 | 9:45&nbsp;AM | Coffee break |
 | 10:30&nbsp;AM | Switch up groups |
