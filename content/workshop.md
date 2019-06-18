@@ -37,6 +37,7 @@ Remote Participation: <a href="https://arizona.zoom.us/j/703642783">Zoom</a><br>
 
 | Time | Activity |
 | :--- | :--- |
+|<img width=50/>|<img width=500/>|
 | 9:00&nbsp;AM | Identify specific datasets |
 | 10:15&nbsp;AM | Create groups & get acquainted |
 | 10:30&nbsp;AM | Coffee break |
