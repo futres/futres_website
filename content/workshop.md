@@ -37,15 +37,15 @@ Remote Participation: <a href="https://arizona.zoom.us/j/703642783">Zoom</a><br>
 
 | Time | Activity |
 | :--- | :--- |
-| 9:00&nbsp;AM | Identify specific datasets |
-| 10:15&nbsp;AM | Create groups & get acquainted |
-| 10:30&nbsp;AM | Coffee break |
-| 10:45&nbsp;AM | Gather into groups |
-| 12:00&nbsp;PM | Lunch and discussion |
-| 1:00&nbsp;PM | Switch up groups |
-| 2:30&nbsp;PM | Snack break |
-| 3:00&nbsp;PM | Regroup and read out |
-| 4:00&nbsp;PM | Next steps |
+| 9:00 AM | Identify specific datasets |
+| 10:15 AM | Create groups & get acquainted |
+| 10:30 AM | Coffee break |
+| 10:45 AM | Gather into groups |
+| 12:00 PM | Lunch and discussion |
+| 1:00 PM | Switch up groups |
+| 2:30 PM | Snack break |
+| 3:00 PM | Regroup and read out |
+| 4:00 PM | Next steps |
 
 
 **July 17**<br>
