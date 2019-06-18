@@ -5,8 +5,7 @@ slug: how
 ---
 <p>The purpose of FuTRES is to make trait data from biological and paleontological specimens accessible in a format that improves discoverability and promotes novel research. By following a few steps and using new tools developed by the FuTRES team, these data can be shared on the FuTRES platform, which is backed by an ontological framework that enables logical reasoning.</p>
 
-<p><figure><img src="/media/FuTRESworkflow.pdf"/></figure></p>
-
+![alt text](https://www.lucidchart.com/publicSegments/view/db2d4804-efb1-4624-b9a7-bb4de20c1628)
 
 <h1><img src="/media/templateIcon.png"
 width="100"
