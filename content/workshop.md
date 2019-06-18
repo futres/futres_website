@@ -35,7 +35,7 @@ Remote Participation: <a href="https://arizona.zoom.us/j/703642783">Zoom</a><br>
 **July 16**<br>
 *Goal: Develop new mappings and standardizations for traits*
 
-| Time | Activity |
+| Time | Activity &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 | :--- | :--- |
 | 9:00 AM | Identify specific datasets |
 | 10:15 AM | Create groups & get acquainted |
