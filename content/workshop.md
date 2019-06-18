@@ -53,8 +53,8 @@ Remote Participation: <a href="https://arizona.zoom.us/j/703642783">Zoom</a><br>
 *Goal: Determine future projects using the FuTRES pipeline*
 
 | Time | Activity |
-|<img width=50/>|<img width=500/>|
 | :--- | :--- |
+|<img width=50/>|<img width=500/>|
 | 9:00&nbsp;AM | Switch up groups |
 | 9:45&nbsp;AM | Coffee break |
 | 10:30&nbsp;AM | Switch up groups |
