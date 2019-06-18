@@ -7,6 +7,7 @@ slug: how
 
 <p><figure><img src="/media/FuTRESworkflow.png"/></figure></p>
 
+
 ### Step 1: Template ###
 <p>We have developed a template (<a href="https://github.com/futres/template">viewable here</a>) to help data providers create datasets that are ready for ingestion into the FuTRES knowledge base. The field names in the template largely correspond to <a href="https://dwc.tdwg.org/">Darwin Core</a> terms. Since Darwin Core is the most commonly used standard for sharing biodiversity occurrence data, these fields may already be pre-existing in most collections databases, or if not, they can be easily mapped or crosswalked from other existing fields.</p>
 
