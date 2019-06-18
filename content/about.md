@@ -18,9 +18,10 @@ style="float:left;">
 ## Existing Data and Future Collaborations ##
 <p>Currently, the FuTRES team is working with <a href="https://futres.org/team/">Principal Investigators</a>, Dr. Kitty Emery, Dr. Ray Bernor, and Dr. Edward Davis, to share existing zooarchaeological and paleontological specimen datasets with associated trait information. These use cases have informed the development of the FuTRES template and the <a href="https://github.com/futres/fovt">FuTRES Ontology of Vertebrate Traits</a>. However, we are hosting community <a href="https://futres.org/workshop/">workshops</a> and are happy to receive feedback and additional trait-focused datasets from other sources.</p>
 
+<h1><img src="/media/pipelineIcon.png"
+width="100"
+style="float:left;">
 ### Step 2: Pipeline ###
-
-<p><figure><img src="/media/pipelineIcon.png"/></figure></p>
 
 <p>The data processing pipeline is comprised of five main steps: pre-processing, triplifying, reasoning, conversion to a tabular format, and data loading. The pipeline is dependent on an existing ontology that defines and relates the terminology used in the data, but does not require a specific structure.</p>
 
@@ -30,8 +31,9 @@ style="float:left;">
 
 <p>The reformatting workflow converts the data to a series of CSV files via a customizable SPARQL query through <a href="https://github.com/biocodellc/query_fetcher">query_fetcher</a>, a bundled package for fast conversion of RDF to tabular data that is built upon the <a href="https://jena.apache.org/index.html">Apache Jena Java Library</a>. The output data can be loaded into whatever data storage system the user prefers, including key/value stores (e.g., ElasticSearch), relational databases (e.g., PostgreSQL), or triplestores (e.g., Blazegraph).</p>
 
+<h1><img src="/media/ontologyIcon.png"
+width="100"
+style="float:left;">
 ### Step 3: Ontology ###
-
-<p><figure><img src="/media/ontologyIcon.png"/></figure></p>
 
 <p>The <a href="https://github.com/futres/fovt">FuTRES Ontology of Vertebrate Traits</a> (FOVT) is a fundamental tool to accomplish the FuTRES project goals. An ontology is a knowledge representation format which describes concepts and their relationships to one another in a logical framework that is understandable by machines. This logical format allows the data points in an ontology knowledge base to be reasoned over, allowing new inferences can be gained. The FOVT is an applied ontology specifically designed to serve the purposes of the FuTRES projects. It was developed by Dr. Ramona Walls, Dr. Meghan Balk, and Laura Brenskelle, and it reuses many existing ontologies (for example, <a href="https://www.ebi.ac.uk/ols/ontologies/uberon">UBERON</a>, <a href="http://www.obofoundry.org/ontology/pato.html">PATO</a>, and <a href="http://www.obofoundry.org/ontology/bspo.html">BSPO</a>) to conceptualize different vertebrate traits.</p>
