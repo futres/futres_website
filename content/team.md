@@ -12,6 +12,8 @@ The Functional Trait Resource for Environmental Studies (FuTRES) project is a co
 <p><figure><img src="/media/kitty150.jpg"/><figcaption>Kitty Emery</figcaption></figure>
 Kitty Emery is an environmental archaeologist specializing in zooarchaeology (the study of old animal bits and pieces from archaeological sites), and curator of the <a href="https://www.floridamuseum.ufl.edu/envarch/">Environmental Archaeology Program</a> at the <a href="https://www.floridamuseum.ufl.edu/">Florida Museum of Natural History</a>. She is passionate about adding zooarchaeological data to biodiversity data networks to trace the history of human-animal interactions. She's fairly clueless about informatics, ontologies, Slack and GitHub, but is excited to be learning from the FuTRES team!
 </p>
+<br>
+<br>
 <p><figure><img src="/media/mabalk.png"/><figcaption>Meghan Balk</figcaption></figure>
 <a href="https://sites.google.com/view/megbalk">Meghan Balk</a> is the Postdoctoral Research Associate for the FuTRES team. Her interests include investigating how vertebrate traits facilitate adaptation to climate change, digging in the dirt, and climbing on rocks. 
 </p>
