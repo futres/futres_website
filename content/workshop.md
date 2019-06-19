@@ -48,6 +48,7 @@ Remote Participation: <a href="https://arizona.zoom.us/j/703642783">Zoom</a><br>
 | 2:30&nbsp;PM | Snack break |
 | 3:00&nbsp;PM | Regroup and read out |
 | 4:00&nbsp;PM | Next steps |
+| 6:00&nbsp;PM | Dinner @ John Deck's farm |
 
 
 **July 17**<br>
