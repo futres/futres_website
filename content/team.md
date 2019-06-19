@@ -7,9 +7,9 @@ slug: team
 The Functional Trait Resource for Environmental Studies (FuTRES) project is a collaborative project among four universities (University of Oregon, University of Arizona, University of Florida, and Howard University). The key deliverables of FuTRES are a workflow for assembling functional trait data measured at the specimen level, a database to serve that data, and scientific publications demonstrating the utility of the assembled data.
 
 <p><figure><img src="/media/ed.jpg" 
-                ALIGN="left" HSPACE=50>
+                ALIGN="left" HSPACE=200>
   <figcaption text-align:center;
-              caption-side: bottom>Edward Davis</figcaption><figure>
+              caption-side: bottom;>Edward Davis</figcaption><figure>
 <a href="https://blogs.uoregon.edu/vertpaleo/">Edward Davis</a> is an Assistant Professor of <a href="https://earthsciences.uoregon.edu/">Earth Sciences</a> at the University of Oregon and the Curator of Fossil Collections for the <a href="https://natural-history.uoregon.edu/">UO Museum of Natural and Cultural History</a>. His research is focused on the effects of changing environments on the distributions and traits of fossil mammals.
 </p>
 <br>
