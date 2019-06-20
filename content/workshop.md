@@ -22,7 +22,7 @@ Remote Participation: <a href="https://arizona.zoom.us/j/703642783">Zoom</a><br>
 | Time | Activity | Facilitator |
 | :--- | :--- | :--- |
 | <img width=50/>|<img width=700/>|<img width=250/>|
-| 9:00&nbsp;AM | Ice Breaker | M. A. Balk |
+| 9:00&nbsp;AM PDT | Ice Breaker | M. A. Balk |
 | 9:15&nbsp;AM | Lightning talks about use cases for a vertebrate trait database | Group |
 | 10:15&nbsp;AM | Coffee break | |
 | 10:30&nbsp;AM | Introduction to ontologies | R. Walls |
@@ -39,7 +39,7 @@ Remote Participation: <a href="https://arizona.zoom.us/j/703642783">Zoom</a><br>
 | Time | Activity |
 | :--- | :--- |
 |<img width=50/>|<img width=700/>|
-| 9:00&nbsp;AM | Identify specific datasets |
+| 9:00&nbsp;AM PDT | Identify specific datasets |
 | 10:15&nbsp;AM | Create groups & get acquainted |
 | 10:30&nbsp;AM | Coffee break |
 | 10:45&nbsp;AM | Gather into groups |
@@ -57,7 +57,7 @@ Remote Participation: <a href="https://arizona.zoom.us/j/703642783">Zoom</a><br>
 | Time | Activity |
 | :--- | :--- |
 | <img width=50/>|<img width=700/>|
-| 9:00&nbsp;AM | Switch up groups |
+| 9:00&nbsp;AM PDT | Switch up groups |
 | 9:45&nbsp;AM | Coffee break |
 | 10:30&nbsp;AM | Switch up groups |
 | 12:00&nbsp;PM | Lunch and discussion |
