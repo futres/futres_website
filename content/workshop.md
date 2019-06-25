@@ -45,7 +45,7 @@ Remote Participation: <a href="https://arizona.zoom.us/j/703642783">Zoom</a><br>
 | 10:45&nbsp;AM | Gather into groups |
 | 12:00&nbsp;PM | Lunch and discussion |
 | 1:00&nbsp;PM | Switch up groups |
-| 2:30&nbsp;PM | Snack break |
+| 2:45&nbsp;PM | Snack break |
 | 3:00&nbsp;PM | Regroup and read out |
 | 4:00&nbsp;PM | Next steps |
 | 6:00&nbsp;PM | Dinner @ <a href="https://deckfamilyfarm.com/">Deck Family Farm</a> |
@@ -58,10 +58,11 @@ Remote Participation: <a href="https://arizona.zoom.us/j/703642783">Zoom</a><br>
 | :--- | :--- |
 | <img width=50/>|<img width=700/>|
 | 9:00&nbsp;AM PDT | Switch up groups |
-| 9:45&nbsp;AM | Coffee break |
-| 10:30&nbsp;AM | Switch up groups |
+| 10:00&nbsp;AM | Coffee break |
+| 10:15&nbsp;AM | Switch up groups |
 | 12:00&nbsp;PM | Lunch and discussion |
 | 1:00&nbsp;PM | Plan research proposals |
+| 2:45&nbsp;PM | Snacks 
 | 3:00&nbsp;PM | Regroup and read out |
 | 4:00&nbsp;PM | Next steps |
 
