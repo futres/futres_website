@@ -23,7 +23,7 @@ Remote Participation: <a href="https://arizona.zoom.us/j/703642783">Zoom</a><br>
 | :--- | :--- | :--- |
 | <img width=50/>|<img width=700/>|<img width=250/>|
 | 9:00&nbsp;AM PDT | Ice Breaker | M. A. Balk |
-| 9:15&nbsp;AM | Lightning talks about use cases for a vertebrate trait database | Group |
+| 9:15&nbsp;AM | Lightning talks about use cases for a vertebrate trait database | Group & Zoom |
 | 10:15&nbsp;AM | Coffee break | |
 | 10:30&nbsp;AM | Introduction to ontologies | R. Walls |
 | 11:15&nbsp;AM | Data sources already in place | R. Guralnick |
@@ -36,35 +36,35 @@ Remote Participation: <a href="https://arizona.zoom.us/j/703642783">Zoom</a><br>
 **July 16**<br>
 *Goal: Develop new mappings and standardizations for traits*
 
-| Time | Activity |
-| :--- | :--- |
-|<img width=50/>|<img width=700/>|
-| 9:00&nbsp;AM PDT | Identify specific datasets |
-| 10:15&nbsp;AM | Create groups & get acquainted |
-| 10:30&nbsp;AM | Coffee break |
-| 10:45&nbsp;AM | Gather into groups |
-| 12:00&nbsp;PM | Lunch and discussion |
-| 1:00&nbsp;PM | Switch up groups |
-| 2:45&nbsp;PM | Snack break |
-| 3:00&nbsp;PM | Regroup and read out |
-| 4:00&nbsp;PM | Next steps |
-| 6:00&nbsp;PM | Dinner @ <a href="https://deckfamilyfarm.com/">Deck Family Farm</a> |
+| Time | Activity | Facilitator |
+| :--- | :--- | :--- |
+|<img width=50/>|<img width=700/>|<img width=250/>|
+| 9:00&nbsp;AM PDT | Identify specific datasets | Group & Zoom |
+| 10:15&nbsp;AM | Create groups & get acquainted | Group |
+| 10:30&nbsp;AM | Coffee break | |
+| 10:45&nbsp;AM | Gather into groups | Group |
+| 12:00&nbsp;PM | Lunch and discussion | Catered |
+| 1:00&nbsp;PM | Switch up groups | Group |
+| 2:45&nbsp;PM | Snack break | |
+| 3:00&nbsp;PM | Regroup and read out | Group |
+| 4:00&nbsp;PM | Next steps | Group |
+| 6:00&nbsp;PM | Dinner | <a href="https://deckfamilyfarm.com/">Deck Family Farm</a> |
 
 
 **July 17**<br>
 *Goal: Determine future projects using the FuTRES pipeline*
 
-| Time | Activity |
-| :--- | :--- |
-| <img width=50/>|<img width=700/>|
-| 9:00&nbsp;AM PDT | Switch up groups |
-| 10:00&nbsp;AM | Coffee break |
-| 10:15&nbsp;AM | Switch up groups |
-| 12:00&nbsp;PM | Lunch and discussion |
-| 1:00&nbsp;PM | Plan research proposals |
-| 2:45&nbsp;PM | Snacks 
-| 3:00&nbsp;PM | Regroup and read out |
-| 4:00&nbsp;PM | Next steps |
+| Time | Activity | Facilitator |
+| :--- | :--- | :--- |
+| <img width=50/>|<img width=700/>|<img width=250/>|
+| 9:00&nbsp;AM PDT | Switch up groups | Group |
+| 10:00&nbsp;AM | Coffee break | |
+| 10:15&nbsp;AM | Switch up groups | Group |
+| 12:00&nbsp;PM | Lunch and discussion | Catered |
+| 1:00&nbsp;PM | Plan research proposals | Group & Zoom |
+| 2:45&nbsp;PM | Snacks | |
+| 3:00&nbsp;PM | Regroup and read out | Group |
+| 4:00&nbsp;PM | Next steps | Group |
 
 **Outcomes from July 15-17, 2019 Workshop:**<br>
 - Meeting report published through PenSoft<br>
