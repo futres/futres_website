@@ -16,7 +16,7 @@ I'm looking forward to learn new methods and contribute with ideas in the functi
    </td>
    <td>
 
-<img src="/media/biosketches/jacruz.png" width="150" class="center">
+<img src="/media/biosketches/jacruz.png" width="200" class="center">
 
 <p>
 <strong>J. Alberto Cruz </strong>
@@ -29,7 +29,7 @@ Paleobiology
   <tr>
    <td>
 
-<img src="/media/biosketches/avillasenor.png" width="150" class="center">
+<img src="/media/biosketches/avillasenor.png" width="200" class="center">
 
 <p>
 <strong>Amelia Villaseñor</strong>
@@ -60,7 +60,7 @@ Mammalogy
   <tr>
    <td>
 
-<img src="/media/biosketches/bmclean.jpg" width="150" class="center">
+<img src="/media/biosketches/bmclean.jpg" width="200" class="center">
 
 <p>
 <strong><a href="https://bryanmclean.weebly.com/">Bryan McLean</a> </strong>
@@ -91,7 +91,7 @@ Relevant papers:  <a href="https://academic.oup.com/jmammal/article/100/2/285/54
    </td>
    <td>
 
-<img src="/media/biosketches/bkohli.jpg" width="150" class="center">
+<img src="/media/biosketches/bkohli.jpg" width="200" class="center">
 
 <p>
 <strong><a href="https://brookskohli.weebly.com/">Brooks Kohli</a></strong>
@@ -106,7 +106,7 @@ Mammalogy
   <tr>
    <td>
 
-<img src="/media/biosketches/cjanis.jpg" width="150" class="center">
+<img src="/media/biosketches/cjanis.jpg" width="200" class="center">
 
 <p>
 <strong>Christine Janis</strong>
@@ -133,7 +133,7 @@ Pdfs of my recent publications are available on my website at <a href="http://de
    </td>
    <td>
 
-<img src="/media/biosketches/dreed.jpg" width="150" class="center">
+<img src="/media/biosketches/dreed.jpg" width="200" class="center">
 
 <p>
 <strong><a href="https://paleocore.org">Denné Reed </a></strong>
@@ -148,7 +148,7 @@ Paleoanthropology
   <tr>
    <td>
 
-<img src="/media/biosketches/gsemprebon.jpg" width="150" class="center">
+<img src="/media/biosketches/gsemprebon.jpg" width="200" class="center">
 
 <p>
 <strong>Gina Semprebon </strong>
@@ -175,7 +175,7 @@ A list of my lab’s current work can be found on our website (<a href="https://
    </td>
    <td>
 
-<img src="/media/biosketches/jblois.jpg" width="150" class="center">
+<img src="/media/biosketches/jblois.jpg" width="200" class="center">
 
 <p>
 <strong><a href="https://jessicablois.com/">Jessica Blois</a></strong>
@@ -224,7 +224,7 @@ Anatomy/Comparative anatomy
   <tr>
    <td>
 
-<img src="/media/biosketches/lyohe.png" width="150" class="center">
+<img src="/media/biosketches/lyohe.png" width="200" class="center">
 
 <p>
 <strong>Laurel R. Yohe</strong>
@@ -247,7 +247,7 @@ D Rojas, MJ Ramos Pereira, C Fonseca, LM Dávalos 2018 <a href="https://onlineli
    </td>
    <td>
 
-<img src="/media/biosketches/ldavalos.jpg" width="150" class="center">
+<img src="/media/biosketches/ldavalos.jpg" width="200" class="center">
 
 <p>
 <strong><a href="https://scholar.google.com/citations?hl=en&user=XSwScHgAAAAJ">Liliana Davalos</a></strong>
@@ -260,7 +260,7 @@ Mammalogy
   <tr>
    <td>
 
-<img src="/media/biosketches/mhantak.jpg" width="150" class="center">
+<img src="/media/biosketches/mhantak.jpg" width="200" class="center">
 
 <p>
 <strong>Maggie Hantak</strong>
@@ -293,7 +293,7 @@ While in Eugene I would love to fit in some walking/hiking in the area.
    </td>
    <td>
 
-<img src="/media/biosketches/mmorgan.png" width="150" class="center">
+<img src="/media/biosketches/mmorgan.png" width="200" class="center">
 
 <p>
 <strong>Michèle Morgan</strong>
@@ -306,7 +306,8 @@ Peabody Museum of Archaeology and Ethnology
   <tr>
    <td>
 
-<img src="/media/biosketches/mlawing.png" width="150" class="center">
+<img src="/media/biosketches/mlawing.png" width="200" class="center">
+<p>
 <strong><a href="http://people.tamu.edu/~alawing/">Michelle Lawing</a></strong>
 <p>
 Texas A&M University
@@ -347,7 +348,7 @@ Mammalogy
   <tr>
    <td>
 
-<img src="/media/biosketches/spilaarbirch.png" width="150" class="center">
+<img src="/media/biosketches/spilaarbirch.png" width="200" class="center">
 
 <p>
 <strong>Suzanne Pilaar Birch </strong>
@@ -378,7 +379,7 @@ I am looking forward to meeting everyone and getting to see a little bit of what
   <tr>
    <td>
 
-<img src="/media/biosketches/edavis.png" width="150" class="center">
+<img src="/media/biosketches/edavis.png" width="200" class="center">
 
 <p>
 <strong>Edward Davis</strong>
@@ -417,7 +418,7 @@ A couple of relevant publications:
    </td>
    <td>
 
-<img src="/media/biosketches/jdeck.png" width="150" class="center">
+<img src="/media/biosketches/jdeck.png" width="200" class="center">
 
 <p>
 <strong>John Deck</strong>
@@ -432,7 +433,7 @@ Tech Team
   <tr>
    <td>
 
-<img src="/media/biosketches/kemery.jpg" width="150" class="center">
+<img src="/media/biosketches/kemery.jpg" width="200" class="center">
 
 <p>
 <strong>Kitty Emery</strong>
@@ -474,7 +475,7 @@ I am looking forward to the Pacific Northwest weather, especially since Gainesvi
    </td>
    <td>
   
-<img src="/media/biosketches/lbrenskelle.jpg" width="150" class="center">
+<img src="/media/biosketches/lbrenskelle.jpg" width="200" class="center">
 
 <p>
 <strong>Laura Brenskelle</strong>
@@ -489,7 +490,7 @@ Biodiversity Informatics
   <tr>
    <td>
 
-<img src="/media/biosketches/mbalk.jpg" width="150" class="center">
+<img src="/media/biosketches/mbalk.jpg" width="200" class="center">
 
 <p>
 <strong><a href="https://sites.google.com/view/megbalk">Meghan Balk </a></strong>
@@ -521,7 +522,7 @@ I am looking forward to spending a week in a place it is under 100 degrees.
    </td>
    <td>
 
-<img src="/media/biosketches/rwalls.png" width="150" class="center">
+<img src="/media/biosketches/rwalls.png" width="200" class="center">
 
 <p>
 <strong>Ramona Walls</strong>
@@ -536,7 +537,7 @@ Ontologies
   <tr>
    <td>
 
-<img src="/media/biosketches/rbernor" width="150" class="center">
+<img src="/media/biosketches/rbernor" width="200" class="center">
 
 <p>
 <strong>Ray Bernor</strong>
@@ -563,7 +564,7 @@ An informatics-oriented paper:
    </td>
    <td>
 
-<img src="/media/biosketches/rguralnick.png" width="150" class="center">
+<img src="/media/biosketches/rguralnick.png" width="200" class="center">
 
 <p>
 <strong><a href="https://sites.google.com/site/robgur/">Rob Guralnick </a></strong>
