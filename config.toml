@@ -26,8 +26,8 @@ publishDir = "docs"
 [[menu.main]]
   name = "Code of Conduct"
   weight = -4
-  identifier = "code_of_conduct"
-  url = "/code_of_conduct/"
+  identifier = "codeofconduct"
+  url = "/codeofconduct/"
 
 [[menu.main]]
   name = "Use Cases"
