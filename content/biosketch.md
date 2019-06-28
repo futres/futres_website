@@ -4,7 +4,7 @@ language: en
 slug: biosketch
 ---
 
-##Participants
+<h1>Participants</h1>
 
 <table>
   <tr>
@@ -372,7 +372,7 @@ I am looking forward to meeting everyone and getting to see a little bit of what
 </table>
 
 
-##Organizers
+<h1>Organizers </h1>
 
 <table>
   <tr>
