@@ -4,6 +4,8 @@ language: en
 slug: biosketch
 ---
 
+##Participants
+
 <table>
   <tr>
    <td colspan="2" >I am a paleobiologist interested in paleoclimatic and paleovegetation reconstructions using small vertebrates, mainly amphibians and reptiles because they are dependent on temperature and humidity. I use species distribution and their climatic niche, and I want to use the species abundance - niche centroid distance relationship to paleoclimatic reconstructions. I'm very interested in using the morphology to predict the habitat type of fossil organisms, and relate the vertebrates response to vegetation structure and climate change.
@@ -17,7 +19,7 @@ I'm looking forward to learn new methods and contribute with ideas in the functi
 <p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/FuTRES-Workshop0.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/FuTRES-Workshop0.png" width="" alt="alt_text" title="image_tooltip">
+<img src="/media/biosketches/jacruz.png">
 
 <p>
 <strong>J. Alberto Cruz </strong>
@@ -33,7 +35,7 @@ Paleobiology
 <p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/FuTRES-Workshop1.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/FuTRES-Workshop1.png" width="" alt="alt_text" title="image_tooltip">
+<img src="/media/biosketches/avillasenor.png">
 
 <p>
 <strong>Amelia Villaseñor</strong>
@@ -67,7 +69,7 @@ Mammalogy
 <p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/FuTRES-Workshop2.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/FuTRES-Workshop2.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="/media/biosketches/bmclean.jpg">
 
 <p>
 <strong><a href="https://bryanmclean.weebly.com/">Bryan McLean</a> </strong>
@@ -101,7 +103,7 @@ Relevant papers:  <a href="https://academic.oup.com/jmammal/article/100/2/285/54
 <p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/FuTRES-Workshop3.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/FuTRES-Workshop3.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="/media/biosketches/bkohli.jpg">
 
 <p>
 <strong><a href="https://brookskohli.weebly.com/">Brooks Kohli</a></strong>
@@ -119,7 +121,7 @@ Mammalogy
 <p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/FuTRES-Workshop4.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/FuTRES-Workshop4.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="/media/biosketches/cjanis.jpg">
 
 <p>
 <strong>Christine Janis</strong>
@@ -149,7 +151,7 @@ Pdfs of my recent publications are available on my website at <a href="http://de
 <p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/FuTRES-Workshop5.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/FuTRES-Workshop5.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="/media/biosketches/dreed.jpg">
 
 <p>
 <strong><a href="https://paleocore.org">Denné Reed </a></strong>
@@ -167,7 +169,7 @@ Paleoanthropology
 <p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/FuTRES-Workshop6.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/FuTRES-Workshop6.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="/media/biosketches/gsemprebon.jpg">
 
 <p>
 <strong>Gina Semprebon </strong>
@@ -197,7 +199,7 @@ A list of my lab’s current work can be found on our website (<a href="https://
 <p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/FuTRES-Workshop7.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/FuTRES-Workshop7.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="/media/biosketches/jblois.jpg">
 
 <p>
 <strong><a href="https://jessicablois.com/">Jessica Blois</a></strong>
@@ -249,7 +251,7 @@ Anatomy/Comparative anatomy
 <p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/FuTRES-Workshop8.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/FuTRES-Workshop8.png" width="" alt="alt_text" title="image_tooltip">
+<img src="/media/biosketches/lyohe.png">
 
 <p>
 <strong>Laurel R. Yohe</strong>
@@ -275,7 +277,7 @@ D Rojas, MJ Ramos Pereira, C Fonseca, LM Dávalos 2018 <a href="https://onlineli
 <p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/FuTRES-Workshop9.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/FuTRES-Workshop9.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="/media/biosketches/ldavalos.jpg">
 
 <p>
 <strong><a href="https://scholar.google.com/citations?hl=en&user=XSwScHgAAAAJ">Liliana Davalos</a></strong>
@@ -291,7 +293,7 @@ Mammalogy
 <p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/FuTRES-Workshop10.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/FuTRES-Workshop10.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="/media/biosketches/mhantak.jpg">
 
 <p>
 <strong>Maggie Hantak</strong>
@@ -327,7 +329,7 @@ While in Eugene I would love to fit in some walking/hiking in the area.
 <p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/FuTRES-Workshop11.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/FuTRES-Workshop11.png" width="" alt="alt_text" title="image_tooltip">
+<img src="/media/biosketches/mmorgan.png">
 
 <p>
 <strong>Michèle Morgan</strong>
@@ -343,7 +345,7 @@ Peabody Museum of Archaeology and Ethnology
 <p id="gdcalert13" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/FuTRES-Workshop12.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/FuTRES-Workshop12.png" width="" alt="alt_text" title="image_tooltip">
+<img src="/media/biosketches/mlawing.png">
 <strong><a href="http://people.tamu.edu/~alawing/">Michelle Lawing</a></strong>
 <p>
 Texas A&M University
@@ -387,7 +389,7 @@ Mammalogy
 <p id="gdcalert14" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/FuTRES-Workshop13.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert15">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/FuTRES-Workshop13.png" width="" alt="alt_text" title="image_tooltip">
+<img src="/media/biosketches/spilaarbirch.png">
 
 <p>
 <strong>Suzanne Pilaar Birch </strong>
@@ -412,6 +414,7 @@ I am looking forward to meeting everyone and getting to see a little bit of what
 </table>
 
 
+##Organizers
 
 <table>
   <tr>
@@ -420,7 +423,7 @@ I am looking forward to meeting everyone and getting to see a little bit of what
 <p id="gdcalert15" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/FuTRES-Workshop14.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert16">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/FuTRES-Workshop14.png" width="" alt="alt_text" title="image_tooltip">
+<img src="/media/biosketches/edavis.png">
 
 <p>
 <strong>Edward Davis</strong>
@@ -462,7 +465,7 @@ A couple of relevant publications:
 <p id="gdcalert16" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/FuTRES-Workshop15.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert17">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/FuTRES-Workshop15.png" width="" alt="alt_text" title="image_tooltip">
+<img src="/media/biosketches/jdeck.png">
 
 <p>
 <strong>John Deck</strong>
@@ -480,7 +483,7 @@ Tech Team
 <p id="gdcalert17" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/FuTRES-Workshop16.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert18">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/FuTRES-Workshop16.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="/media/biosketches/kemery.jpg">
 
 <p>
 <strong>Kitty Emery</strong>
@@ -525,7 +528,7 @@ I am looking forward to the Pacific Northwest weather, especially since Gainesvi
 <p id="gdcalert18" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/FuTRES-Workshop17.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert19">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/FuTRES-Workshop17.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="/media/biosketches/lbrenskelle.jpg">
 
 <p>
 <strong>Laura Brenskelle</strong>
@@ -543,7 +546,7 @@ Biodiversity Informatics
 <p id="gdcalert19" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/FuTRES-Workshop18.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert20">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/FuTRES-Workshop18.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="/media/biosketches/mbalk.jpg">
 
 <p>
 <strong><a href="https://sites.google.com/view/megbalk">Meghan Balk </a></strong>
@@ -578,7 +581,7 @@ I am looking forward to spending a week in a place it is under 100 degrees.
 <p id="gdcalert20" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/FuTRES-Workshop19.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert21">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/FuTRES-Workshop19.png" width="" alt="alt_text" title="image_tooltip">
+<img src="/media/biosketches/rwalls.png">
 
 <p>
 <strong>Ramona Walls</strong>
@@ -596,7 +599,7 @@ Ontologies
 <p id="gdcalert21" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/FuTRES-Workshop20.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert22">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/FuTRES-Workshop20.png" width="" alt="alt_text" title="image_tooltip">
+<img src="/media/biosketches/rbernor">
 
 <p>
 <strong>Ray Bernor</strong>
@@ -626,7 +629,7 @@ An informatics-oriented paper:
 <p id="gdcalert22" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/FuTRES-Workshop21.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert23">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/FuTRES-Workshop21.png" width="" alt="alt_text" title="image_tooltip">
+<img src="/media/biosketches/rguralnick.png">
 
 <p>
 <strong><a href="https://sites.google.com/site/robgur/">Rob Guralnick </a></strong>
