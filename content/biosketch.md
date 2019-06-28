@@ -451,7 +451,7 @@ Zooarchaeology
 Together with a super team of fun folks, Rob Guralnick and I have been developing <a href="www.zooarchnet.org">ZooArchNet</a>, a platform designed to mobilize Darwin-core enabled zooarchaeological data into the biodiversity network while linking it to open archaeological data publishers. These "early anthropocene" specimen data allow us to bridge the gap between paleontology and neontology, providing pre-human baselines and lessons about human environmental decision-making. 
 <p>
 Sharing specimen data means sharing attribute data - so the collaborative research potential of FuTRES is super exciting and I'm looking forward to lots of brainstorming with all the participants in Oregon.
-<h2><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0215369">ZooArchNet: Connecting zooarchaeological specimens to the biodiversity and archaeology data networks</a></h2>
+<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0215369">ZooArchNet: Connecting zooarchaeological specimens to the biodiversity and archaeology data networks</a>
 
 
 <p>
@@ -466,10 +466,10 @@ Sharing specimen data means sharing attribute data - so the collaborative resear
 I am looking forward to the Pacific Northwest weather, especially since Gainesville, Florida weather is terrible in July. I would like to get in some hikes and see some giant trees.
 <p>
 <a href="https://bsapubs.onlinelibrary.wiley.com/doi/pdf/10.1002/aps3.1231">Integrating herbarium specimen observations into global phenology data portals </a>
-<h2><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0215369">ZooArchNet: Connecting zooarchaeological specimens to the biodiversity and archaeology data networks</a></h2>
+<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0215369">ZooArchNet: Connecting zooarchaeological specimens to the biodiversity and archaeology data networks</a>
 
 
-<h2><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6426826/">Developing a vocabulary and ontology for modeling insect natural history data: example data, use cases, and competency questions</a> </h2>
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6426826/">Developing a vocabulary and ontology for modeling insect natural history data: example data, use cases, and competency questions</a>
 
 
    </td>
