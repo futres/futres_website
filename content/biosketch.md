@@ -16,7 +16,7 @@ I'm looking forward to learn new methods and contribute with ideas in the functi
    </td>
    <td>
 
-<img src="/media/biosketches/jacruz.png" class="center">
+<img src="/media/biosketches/jacruz.png" width="42" class="center">
 
 <p>
 <strong>J. Alberto Cruz </strong>
