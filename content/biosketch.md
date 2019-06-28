@@ -1,63 +1,14 @@
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 1; ALERTS: 22.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-<a href="#gdcalert2">alert2</a>
-<a href="#gdcalert3">alert3</a>
-<a href="#gdcalert4">alert4</a>
-<a href="#gdcalert5">alert5</a>
-<a href="#gdcalert6">alert6</a>
-<a href="#gdcalert7">alert7</a>
-<a href="#gdcalert8">alert8</a>
-<a href="#gdcalert9">alert9</a>
-<a href="#gdcalert10">alert10</a>
-<a href="#gdcalert11">alert11</a>
-<a href="#gdcalert12">alert12</a>
-<a href="#gdcalert13">alert13</a>
-<a href="#gdcalert14">alert14</a>
-<a href="#gdcalert15">alert15</a>
-<a href="#gdcalert16">alert16</a>
-<a href="#gdcalert17">alert17</a>
-<a href="#gdcalert18">alert18</a>
-<a href="#gdcalert19">alert19</a>
-<a href="#gdcalert20">alert20</a>
-<a href="#gdcalert21">alert21</a>
-<a href="#gdcalert22">alert22</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
+---
+title: Workshop Participants
+language: en
+slug: biosketch
+---
 
 <table>
   <tr>
-   <td><insert picture>
+   <td colspan="2" >I am a paleobiologist interested in paleoclimatic and paleovegetation reconstructions using small vertebrates, mainly amphibians and reptiles because they are dependent on temperature and humidity. I use species distribution and their climatic niche, and I want to use the species abundance - niche centroid distance relationship to paleoclimatic reconstructions. I'm very interested in using the morphology to predict the habitat type of fossil organisms, and relate the vertebrates response to vegetation structure and climate change.
 <p>
-<strong>Name (link to website)</strong>
-<p>
-Affiliation
-<p>
-Discipline
-<p>
-@twitter (with link)
-   </td>
-   <td colspan="2" >1. type of data you have
-<p>
-2. what you'd like to get out of the workshop
-<p>
-3. activities you enjoy / what you're looking forward to seeing in Oregon
-<p>
-4. Link to pdf of relevant/current research
-   </td>
-  </tr>
-</table>
-
-
-
-<table>
-  <tr>
-   <td colspan="2" >I am a paleobiologist interested in paleoclimatic and paleovegetation reconstructions using small vertebrates, mainly amphibian and reptiles because they are dependent on temperature and humidity. I use species distribution and their climatic niche, and I want to use the species abundance - niche centroid distance relationship to paleoclimatic reconstructions. I'm very interested in use the morphology to predict the habitat type of fossil organisms, and relate the vertebrates response to vegetation structure and climate change.
-<p>
-I'm looking forward to learn new methods and contribute with ideas in the functional traits analyses, and drive the knowledge to Mexican paleontology. This will be my first time in Eugene and I so excited of participating in the workshop with all of you.
+I'm looking forward to learn new methods and contribute with ideas in the functional traits analyses, and drive the knowledge to Mexican paleontology. This will be my first time in Eugene and am so excited to participate in the workshop with all of you.
 <p>
 <a href="https://scholar.google.com.mx/citations?user=v9f9RJcAAAAJ&hl=es&oi=sra">https://scholar.google.com.mx/citations?user=v9f9RJcAAAAJ&hl=es&oi=sra</a>
    </td>
@@ -547,7 +498,7 @@ Zooarchaeology
 Together with a super team of fun folks, Rob Guralnick and I have been developing <a href="www.zooarchnet.org">ZooArchNet</a>, a platform designed to mobilize Darwin-core enabled zooarchaeological data into the biodiversity network while linking it to open archaeological data publishers. These "early anthropocene" specimen data allow us to bridge the gap between paleontology and neontology, providing pre-human baselines and lessons about human environmental decision-making. 
 <p>
 Sharing specimen data means sharing attribute data - so the collaborative research potential of FuTRES is super exciting and I'm looking forward to lots of brainstorming with all the participants in Oregon.
-<h1><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0215369">ZooArchNet: Connecting zooarchaeological specimens to the biodiversity and archaeology data networks</a></h1>
+<h2><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0215369">ZooArchNet: Connecting zooarchaeological specimens to the biodiversity and archaeology data networks</a></h2>
 
 
 <p>
@@ -562,10 +513,10 @@ Sharing specimen data means sharing attribute data - so the collaborative resear
 I am looking forward to the Pacific Northwest weather, especially since Gainesville, Florida weather is terrible in July. I would like to get in some hikes and see some giant trees.
 <p>
 <a href="https://bsapubs.onlinelibrary.wiley.com/doi/pdf/10.1002/aps3.1231">Integrating herbarium specimen observations into global phenology data portals </a>
-<h1><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0215369">ZooArchNet: Connecting zooarchaeological specimens to the biodiversity and archaeology data networks</a></h1>
+<h2><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0215369">ZooArchNet: Connecting zooarchaeological specimens to the biodiversity and archaeology data networks</a></h2>
 
 
-<h1><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6426826/">Developing a vocabulary and ontology for modeling insect natural history data: example data, use cases, and competency questions</a> </h1>
+<h2><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6426826/">Developing a vocabulary and ontology for modeling insect natural history data: example data, use cases, and competency questions</a> </h2>
 
 
    </td>
@@ -687,6 +638,3 @@ Informatics/Interdisciplinary
   </tr>
 </table>
 
-
-
-<!-- Docs to Markdown version 1.0β17 -->
