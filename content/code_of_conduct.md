@@ -1,3 +1,9 @@
+---
+title: Code of Conduct
+language: en
+slug: code_of_conduct
+---
+
 Purpose: to ensure that we all agree to behave like reasonable, respectful adults. Most of us already do, but it is good to have our intentions explicit and state the standards by which we strive to uphold. Many disciplines of science are changing how they look, and with that comes the unearthing of implicit biases and microagressions. We want to ensure that we and those involved uphold a goal to be inclusive of all persons in our field.
 
 
