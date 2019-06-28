@@ -7,21 +7,27 @@ publishDir = "docs"
 
 [[menu.main]]
   name = "How It Works"
-  weight = -7
+  weight = -8
   identifier = "how"
   url = "/how/"
 
 [[menu.main]]
   name = "Team"
-  weight = -6
+  weight = -7
   identifier = "team"
   url = "/team/"
 
 [[menu.main]]
   name = "Workshops"
-  weight = -5
+  weight = -6
   identifier = "workshop"
   url = "/workshop/"
+  
+  [[menu.main]]
+  name = "Participants & Organizers"
+  weight = -5
+  identifier = "biosketch"
+  url = "/biosketch/"
 
 [[menu.main]]
   name = "Code of Conduct"
