@@ -1,5 +1,5 @@
 ---
-title: Workshop Participants
+title: Participants & Organizers
 language: en
 slug: biosketch
 ---
