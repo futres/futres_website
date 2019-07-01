@@ -65,7 +65,7 @@ Remote Participation: <a href="https://arizona.zoom.us/j/703642783">Zoom</a><br>
 | 10:00&nbsp;AM | Coffee break | |
 | 10:15&nbsp;AM | Switch up groups | Group |
 | 12:00&nbsp;PM | Lunch and discussion | Catered |
-| 1:00&nbsp;PM | Plan research proposals | Group & <a href="https://arizona.zoom.us/j/703642783">Zoom</a> <img src="/media/vidicon.jpeg" width = 25> |
+| 1:00&nbsp;PM | Plan research proposals | Group & <a href="https://arizona.zoom.us/j/703642783">Zoom</a> <img src="/media/vidicon.jpeg" width="25"> |
 | 2:45&nbsp;PM | Snacks | |
 | 3:00&nbsp;PM | Regroup and read out | Group |
 | 4:00&nbsp;PM | Next steps | Group |
