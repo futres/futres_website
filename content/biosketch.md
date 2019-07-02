@@ -269,7 +269,7 @@ D Rojas, M Moreira, MJ Ramos Pereira, C Fonseca, LM Dávalos 2018 <a href="https
 <p>
 D Rojas, MJ Ramos Pereira, C Fonseca, LM Dávalos 2018 <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ele.12911">Eating down the food chain: generalism is not an evolutionary dead end for herbivores</a> Ecology letters 21 (3), 402-410
 <p>
-<a href="https://scholar.google.com/citations?hl=en&user=XSwScHgAAAAJ">Google Scholar</a>. 
+<a href="https://scholar.google.com/citations?hl=en&user=XSwScHgAAAAJ">Google Scholar</a>
    </td>
   </tr>
   <tr>
