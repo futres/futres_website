@@ -12,10 +12,10 @@ slug: biosketch
 <p>
 I'm looking forward to learn new methods and contribute with ideas in the functional traits analyses, and drive the knowledge to Mexican paleontology. This will be my first time in Eugene and am so excited to participate in the workshop with all of you.
 <p>
-<a href="https://scholar.google.com.mx/citations?user=v9f9RJcAAAAJ&hl=es&oi=sra">https://scholar.google.com.mx/citations?user=v9f9RJcAAAAJ&hl=es&oi=sra</a>
+<a href="https://scholar.google.com.mx/citations?user=v9f9RJcAAAAJ&hl=es&oi=sra">Google Scholar</a>
    </td>
    <td  width="30%">
-
+     
 <img src="/media/biosketches/jacruz.png" width="200" class="center">
 
 <p>
@@ -32,7 +32,7 @@ Paleobiology
 <img src="/media/biosketches/avillasenor.png" width="200" class="center">
 
 <p>
-<strong>Amelia Villaseñor</strong>
+<strong><a href="https://sites.google.com/view/ameliavillasenor/>Amelia Villaseñor</a> </strong>
 <p>
 University of Arkansas
 <p>
@@ -42,9 +42,7 @@ Zooarchaeology/ Paleoecology
 <p>
 I am excited to see how others organize and use their trait-based data to answer ecological questions. I also love the West Coast (I’m from Arizona) and I’m looking forward to seeing the stark landscapes of the Oregon coast. 
 <p>
-<a href="https://sites.google.com/view/ameliavillasenor/">https://sites.google.com/view/ameliavillasenor/</a>
-<p>
-<a href="https://scholar.google.com/citations?user=fphFfz0AAAAJ&hl=en">https://scholar.google.com/citations?user=fphFfz0AAAAJ&hl=en</a>
+<a href="https://scholar.google.com/citations?user=fphFfz0AAAAJ&hl=en">Google Scholar</a>
    </td>
   </tr>
   <tr>
@@ -79,7 +77,7 @@ Most of my datasets are taxon-centric (North American rodents) and maximize eith
 <p>
 I’m looking forward to developing ideas about how to expand these types of datasets in space and time, and especially across Rodentia. And I love the west coast so can’t wait for Eugene! 
 <p>
-<a href="https://scholar.google.com/citations?user=DPABkrgAAAAJ&hl=en">https://scholar.google.com/citations?user=DPABkrgAAAAJ&hl=en</a>
+<a href="https://scholar.google.com/citations?user=DPABkrgAAAAJ&hl=en">Google Scholar</a>
    </td>
   </tr>
   <tr>
@@ -111,7 +109,7 @@ Mammalogy
 <img src="/media/biosketches/cjanis.jpg" width="200" class="center">
 
 <p>
-<strong>Christine Janis</strong>
+<strong><a href="https://vivo.brown.edu/display/cjanis">Christine Janis</a></strong>
 <p>
 University of Bristol UK/ Brown University USA
 <p>
@@ -120,8 +118,6 @@ Paleobiology
    <td colspan="2" width="70%">I’m a supposedly retired paleomammalogist, interested in the ecomorphology of large mammals (including ungulates, carnivorans, and marsupials) in relation to Cenozoic climatic change. I have lots of photographic and measurement data that I would be delighted to share with people. I won’t be present at the upcoming workshop, but look forwards to future meetings and perhaps being involved at a distance in this one.
 <p>
 My Brown University webpage has links to my publications
-<p>
-<a href="https://vivo.brown.edu/display/cjanis">https://vivo.brown.edu/display/cjanis</a>
    </td>
   </tr>
   <tr>
@@ -153,7 +149,7 @@ Paleoanthropology
 <img src="/media/biosketches/gsemprebon.jpg" width="200" class="center">
 
 <p>
-<strong>Gina Semprebon </strong>
+<strong><a href="https://sites.google.com/site/ginasemprebon/">Gina Semprebon</a></strong>
 <p>
 Bay Path University
 <p>
@@ -165,15 +161,13 @@ I’ve always been a believer in sharing data so that science can progress and l
 <p>
 A sampling of my publications and other background may be found using the following links:
 <p>
-<a href="https://www.researchgate.net/profile/Gina_Semprebon">https://www.researchgate.net/profile/Gina_Semprebon</a>
-<p>
-<a href="https://sites.google.com/site/ginasemprebon/">https://sites.google.com/site/ginasemprebon/</a>
+<a href="https://www.researchgate.net/profile/Gina_Semprebon">Research Gate</a>
    </td>
   </tr>
   <tr>
    <td colspan="2" width="70%">I am a Quaternary paleoecologist who works with both mammals and fossil pollen to understand the suite of factors determining species and community responses to environmental change. I am also the Associate Chair and lead vertebrates steward for the Neotoma Paleoecology Database. I am excited to participate in FuTRES to see how we can better capture and organize biological traits to integrate research across different spatial, temporal, and taxonomic scales and promote linkages among disciplines.
 <p>
-A list of my lab’s current work can be found on our website (<a href="https://jessicablois.com/publications/">jessicablois.com/publications</a>) or my <a href="https://scholar.google.com/citations?user=k3YYLkEAAAAJ&hl=en">google scholar</a> profile.
+A list of my lab’s current work can be found on our website (<a href="https://jessicablois.com/publications/">publications</a>) or my <a href="https://scholar.google.com/citations?user=k3YYLkEAAAAJ&hl=en">google scholar</a> profile.
    </td>
    <td width="30%">
 
@@ -275,7 +269,7 @@ D Rojas, M Moreira, MJ Ramos Pereira, C Fonseca, LM Dávalos 2018 <a href="https
 <p>
 D Rojas, MJ Ramos Pereira, C Fonseca, LM Dávalos 2018 <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ele.12911">Eating down the food chain: generalism is not an evolutionary dead end for herbivores</a> Ecology letters 21 (3), 402-410
 <p>
-<a href="https://scholar.google.com/citations?hl=en&user=XSwScHgAAAAJ">All citations</a>. 
+<a href="https://scholar.google.com/citations?hl=en&user=XSwScHgAAAAJ">Google Scholar</a>. 
    </td>
   </tr>
   <tr>
@@ -294,7 +288,7 @@ University of Florida
 <p>
 Vertebrates
 <p>
-@<a href="https://twitter.com/MaggieHantak">MaggieHantak</a>
+<a href="https://twitter.com/MaggieHantak">@MaggieHantak</a>
    </td>
   </tr>
   <tr>
@@ -333,7 +327,7 @@ I’m generally interested in the more complete development of a workflow for ef
 <p>
 Unfortunately, I’m unable to attend the meeting in person in Oregon, but I will join you virtually from Italy.
 <p>
-<a href="https://scholar.google.com/citations?user=GdSPpq0AAAAJ&hl=en">All citations.</a>
+<a href="https://scholar.google.com/citations?user=GdSPpq0AAAAJ&hl=en">Google Scholar</a>
 <p>
  
 <p>
@@ -390,16 +384,14 @@ I am looking forward to meeting everyone and getting to see a little bit of what
 <img src="/media/biosketches/spilaarbirch.png" width="200" class="center">
 
 <p>
-<strong>Suzanne Pilaar Birch </strong>
+<strong><a href="https://research.franklin.uga.edu/quaternary">Suzanne Pilaar Birch</a></strong>
 <p>
 University of Georgia
 <p>
 Zooarchaeology
 <p>
 <a href="https://twitter.com/suzie_birch">@suzie_birch</a>
-<p>
-My <a href="https://research.franklin.uga.edu/quaternary">lab website</a> needs a facelift, but is recent enough.
-   </td>
+</td>
   </tr>
 </table>
 
@@ -425,13 +417,9 @@ I would like to see a growing user base arise from this workshop. I am hoping to
 <p>
 I am looking forward to visiting the Deck Family Farm and also having an excuse to eat at more different brew pubs than I usually do.
 <p>
-Here’s a paper on ecomorphology in small mammals:
+<a href="https://academic.oup.com/jmammal/article/90/6/1449/901095">Here’s a paper on ecomorphology in small mammals</a>
 <p>
-<a href="https://academic.oup.com/jmammal/article/90/6/1449/901095">https://academic.oup.com/jmammal/article/90/6/1449/901095</a>
-<p>
-And here’s a fun paper on rhinoceros arthritis over the last 50 million years:
-<p>
-<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0146221">https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0146221</a>
+<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0146221">And here’s a fun paper on rhinoceros arthritis over the last 50 million years</a>
    </td>
   </tr>
   <tr>
@@ -479,7 +467,7 @@ Zooarchaeology
    </td>
    <td colspan="2" width="70%">Hi everyone! I'm an environmental archaeologist with a specialty in zooarchaeology. I love tromping around in the forests and mountains of Central America digging up data on the ancient relationship between people, animals, and environments.  
 <p>
-Together with a super team of fun folks, Rob Guralnick and I have been developing <a href="www.zooarchnet.org">ZooArchNet</a>, a platform designed to mobilize Darwin-core enabled zooarchaeological data into the biodiversity network while linking it to open archaeological data publishers. These "early anthropocene" specimen data allow us to bridge the gap between paleontology and neontology, providing pre-human baselines and lessons about human environmental decision-making. 
+Together with a super team of fun folks, Rob Guralnick and I have been developing <a href="https://zooarchnet.org/">ZooArchNet</a>, a platform designed to mobilize Darwin-core enabled zooarchaeological data into the biodiversity network while linking it to open archaeological data publishers. These "early anthropocene" specimen data allow us to bridge the gap between paleontology and neontology, providing pre-human baselines and lessons about human environmental decision-making. 
 <p>
 Sharing specimen data means sharing attribute data - so the collaborative research potential of FuTRES is super exciting and I'm looking forward to lots of brainstorming with all the participants in Oregon.
 <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0215369">ZooArchNet: Connecting zooarchaeological specimens to the biodiversity and archaeology data networks</a>
@@ -497,9 +485,10 @@ Sharing specimen data means sharing attribute data - so the collaborative resear
 I am looking forward to the Pacific Northwest weather, especially since Gainesville, Florida weather is terrible in July. I would like to get in some hikes and see some giant trees.
 <p>
 <a href="https://bsapubs.onlinelibrary.wiley.com/doi/pdf/10.1002/aps3.1231">Integrating herbarium specimen observations into global phenology data portals </a>
+  <p>
 <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0215369">ZooArchNet: Connecting zooarchaeological specimens to the biodiversity and archaeology data networks</a>
 
-
+<p>
 <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6426826/">Developing a vocabulary and ontology for modeling insect natural history data: example data, use cases, and competency questions</a>
 
 
@@ -545,7 +534,7 @@ I am looking forward to spending a week in a place it is under 100 degrees.
 
 <li>A paper on using <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0089606">ontologies in biodiversity</a>.
 
-<li>A paper on <a href="https://www.degruyter.com/downloadpdf/j/dim.ahead-of-print/dim-2019-0002/dim-2019-0002.pdf">identifiers and metadata</a>.
+<li>A paper on <a href="https://content.sciendo.com/view/journals/dim/3/1/article-p26.xml">identifiers and metadata</a>.
 
 <li><a href="https://scholar.google.com/citations?hl=en&user=rEhRmsYAAAAJ&view_op=list_works&sortby=pubdate">My google scholar profile</a>.
 </li>
