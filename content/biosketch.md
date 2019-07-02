@@ -342,6 +342,7 @@ Unfortunately, I’m unable to attend the meeting in person in Oregon, but I wil
    <td>
 
 <img src="/media/biosketches/mlawing.png" width="200" class="center">
+<p>
 <strong><a href="http://people.tamu.edu/~alawing/">Michelle Lawing</a></strong>
 <p>
 Texas A&M University
@@ -350,7 +351,9 @@ Paleobiology
    </td>
   </tr>
   <tr>
-   <td><strong>Noé U. De La Sancha </strong>
+   <td>
+<p>
+<strong>Noé U. De La Sancha </strong>
 <p>
 Chicago State University
 <p>
@@ -561,7 +564,7 @@ Ontologies
   <tr>
    <td>
 
-<img src="/media/biosketches/rbernor" width="200" class="center">
+<img src="/media/biosketches/rbernor.png" width="200" class="center">
 
 <p>
 <strong>Ray Bernor</strong>
