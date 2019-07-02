@@ -227,7 +227,9 @@ Paleobiology
    </td>
   </tr>
   <tr>
-   <td><strong>Keiko Meshida</strong>
+   <td>
+<p>
+<strong>Keiko Meshida</strong>
 <p>
 Howard University
 <p>
