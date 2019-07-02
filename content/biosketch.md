@@ -211,17 +211,34 @@ Archaeozoology and Vertebrate Paleontology
 <a href="https://royalsocietypublishing.org/doi/pdf/10.1098/rsbl.2019.0148">Schubert, B.W., J.C. Chatters, J. Arroyo-Cabrales, J. X. Samuels, L.H. Soibelzon, F.J. Prevosti, C. Widga, A. Nava, D. Rissolo, and P. Luna Erreguerena.  2019.  Yucatán carnivorans shed light on Great American Biotic Interchange.  Biology Letters, 15:20190148. http://dx.doi.org/10.1098/rsbl.2019.0148</a>
    </td>
   </tr>
-  <tr>
-   <td colspan="2" >I’m currently a postdoctoral research assistant at Howard University in Washington, DC working on FuTRES database on Equus. My research interest includes the comparative anatomy of vertebrates with focuses on mammalian orbit and adnexa.  Through the workshop, I look forward to meeting people and learning how you can build and utilize morphological trait database.   
+ <tr>
+   <td colspan="2" >I am a paleontologist specialized in paleoecology and ecometrics of mammals during the Cenozoic. Currently I work as a post-doctoral researcher at the University of Helsinki, Finland, and I was a visiting researcher in the Natural History Museum of London for 2015-2017. My current research interests include new methods to estimate diets and body size of fossil large herbivorous mammals, the evolution and dietary changes of proboscideans during the Neogene in East Africa, body size changes and paleoecology of mammals during the Cenozoic, and ecometric modelling of paleoenvironments based on functional traits of herbivorous mammals. I have compiled and managed a large dataset of fossil mammal body mass estimates from the Cenozoic of all continents (especially Old World and North America) during the last few years. Lately I have concentrated on improving body mass estimate understudied taxa such as fossil proboscideans.
    </td>
+   <td>
+
+<img src="/media/biosketches/jsaarinen.png" width="200" class="center">
+
+<p>
+<strong>Juha Saarinen </strong>
+<p>
+University of Helsinki, Finland
+<p>
+Paleobiology
+   </td>
+  </tr>
+  <tr>
    <td><strong>Keiko Meshida</strong>
 <p>
 Howard University
 <p>
 Anatomy/Comparative anatomy   
    </td>
+   <td colspan="2" >I’m currently a postdoctoral research assistant at Howard University in Washington, DC working on FuTRES database on Equus. My research interest includes the comparative anatomy of vertebrates with focuses on mammalian orbit and adnexa.  Through the workshop, I look forward to meeting people and learning how you can build and utilize morphological trait database.   
+   </td>
   </tr>
   <tr>
+   <td colspan="2" >
+   </td>
    <td>
 
 <img src="/media/biosketches/lyohe.png" width="200" class="center">
@@ -233,18 +250,8 @@ Yale University
 <p>
 Mammalogy
    </td>
-   <td colspan="2" >
-   </td>
   </tr>
   <tr>
-   <td colspan="2" >I’m interested in the forces shaping biodiversity in time and space. We focus on the evolution of species and trait diversity, and on how to conserve ecosystems today and into the future. Relevant papers:
-<p>
-D Rojas, M Moreira, MJ Ramos Pereira, C Fonseca, LM Dávalos 2018 <a href="https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.2404">Updated distribution maps for neotropical bats in the superfamily Noctilionoidea</a> Ecology 99 (9), 2131-2131
-<p>
-D Rojas, MJ Ramos Pereira, C Fonseca, LM Dávalos 2018 <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ele.12911">Eating down the food chain: generalism is not an evolutionary dead end for herbivores</a> Ecology letters 21 (3), 402-410
-<p>
-<a href="https://scholar.google.com/citations?hl=en&user=XSwScHgAAAAJ">All citations</a>. 
-   </td>
    <td>
 
 <img src="/media/biosketches/ldavalos.jpg" width="200" class="center">
@@ -256,8 +263,20 @@ Stony Brook University
 <p>
 Mammalogy
    </td>
+   <td colspan="2" >I’m interested in the forces shaping biodiversity in time and space. We focus on the evolution of species and trait diversity, and on how to conserve ecosystems today and into the future. Relevant papers:
+<p>
+D Rojas, M Moreira, MJ Ramos Pereira, C Fonseca, LM Dávalos 2018 <a href="https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.2404">Updated distribution maps for neotropical bats in the superfamily Noctilionoidea</a> Ecology 99 (9), 2131-2131
+<p>
+D Rojas, MJ Ramos Pereira, C Fonseca, LM Dávalos 2018 <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ele.12911">Eating down the food chain: generalism is not an evolutionary dead end for herbivores</a> Ecology letters 21 (3), 402-410
+<p>
+<a href="https://scholar.google.com/citations?hl=en&user=XSwScHgAAAAJ">All citations</a>. 
+   </td>
   </tr>
   <tr>
+   <td colspan="2" >I am currently a PhD candidate at Ohio University, but will be joining the Guralnick lab as a postdoc in the fall. My research has been centered around the evolution of color polymorphism, and my future goal is to understand how climate and anthropogenic factors influence the distribution of color morphs and associated trait changes. I am also interested in patterns of body size change over spatial and temporal scales, and I will look at these trends using large trait datasets of mammals, amphibians, and reptiles. I look forward to learning new methods that will help in analyzing these types of datasets. 
+<p>
+I love hiking and looking for salamanders, so I would love to get outside a bit if possible! 
+   </td>
    <td>
 
 <img src="/media/biosketches/mhantak.jpg" width="200" class="center">
@@ -271,12 +290,19 @@ Vertebrates
 <p>
 @<a href="https://twitter.com/MaggieHantak">MaggieHantak</a>
    </td>
-   <td colspan="2" >I am currently a PhD candidate at Ohio University, but will be joining the Guralnick lab as a postdoc in the fall. My research has been centered around the evolution of color polymorphism, and my future goal is to understand how climate and anthropogenic factors influence the distribution of color morphs and associated trait changes. I am also interested in patterns of body size change over spatial and temporal scales, and I will look at these trends using large trait datasets of mammals, amphibians, and reptiles. I look forward to learning new methods that will help in analyzing these types of datasets. 
-<p>
-I love hiking and looking for salamanders, so I would love to get outside a bit if possible! 
-   </td>
   </tr>
   <tr>
+   <td>
+
+<img src="/media/biosketches/mmorgan.png" width="200" class="center">
+
+<p>
+<strong>Michèle Morgan</strong>
+<p>
+Harvard University
+<p>
+Peabody Museum of Archaeology and Ethnology
+   </td>
    <td colspan="2" >As a paleoecologist, I use various analytical tools to study local climate indicators, foraging strategies, and life history parameters of fossil and extant taxa including stable isotope, dental microwear and body size analyses. I also study taphonomic processes relating to fossil locality formation and fossil preservation.
 <p>
  
@@ -291,29 +317,8 @@ I am always interested in learning about new ways to curate and analyze these ty
 <p>
 While in Eugene I would love to fit in some walking/hiking in the area.
    </td>
-   <td>
-
-<img src="/media/biosketches/mmorgan.png" width="200" class="center">
-
-<p>
-<strong>Michèle Morgan</strong>
-<p>
-Harvard University
-<p>
-Peabody Museum of Archaeology and Ethnology
-   </td>
   </tr>
   <tr>
-   <td>
-
-<img src="/media/biosketches/mlawing.png" width="200" class="center">
-<p>
-<strong><a href="http://people.tamu.edu/~alawing/">Michelle Lawing</a></strong>
-<p>
-Texas A&M University
-<p>
-Paleobiology
-   </td>
    <td colspan="2" >I use methods and models from modern evolutionary biology combined with evidence from the fossil record to understand how species and communities respond to environmental change through time. My work includes the investigation of geographic, evolutionary, and morphological responses of species and communities to environmental changes.
 <p>
 My lab is collecting several datasets of functional traits that relate to locomotor strategy in vertebrates and we are linking these traits to their geographic distributions. We are collecting vertebral shape data for all North American snakes using geometric morphometrics methods. We are also collecting radioulna and calcaneum measurements In all artiodactyls.
@@ -323,9 +328,34 @@ I’m generally interested in the more complete development of a workflow for ef
 Unfortunately, I’m unable to attend the meeting in person in Oregon, but I will join you virtually from Italy.
 <p>
 <a href="https://scholar.google.com/citations?user=GdSPpq0AAAAJ&hl=en">All citations.</a>
+<p>
+ 
+<p>
+<a href="https://www.researchgate.net/publication/320704405_Ontogenetic_variation_of_an_omnivorous_generalist_rodent_The_case_of_the_montane_akodont_Akodon_montensis">Hernandez et al. 2017. Ontogenetic variation of an omnivorous generalist rodent: The case of the montane akodont (Akodon montensis)</a>
+<p>
+ 
+<p>
+<a href="https://www.researchgate.net/publication/329514366_Morphological_description_and_comparison_of_sperm_from_eighteen_species_of_cricetid_rodents">Rossi et al. 2018. Morphological description and comparison of sperm from eighteen species of cricetid rodents</a>
+   </td>
+   <td>
+
+<img src="/media/biosketches/mlawing.png" width="200" class="center">
+<strong><a href="http://people.tamu.edu/~alawing/">Michelle Lawing</a></strong>
+<p>
+Texas A&M University
+<p>
+Paleobiology
    </td>
   </tr>
   <tr>
+   <td><strong>Noé U. De La Sancha </strong>
+<p>
+Chicago State University
+<p>
+Mammalogy
+<p>
+<a href="https://twitter.com/noe_delasancha">@noe_delasancha</a>
+   </td>
    <td colspan="2" >I would say I am a classically trained mammalogists. I’m currently an assistant professor at Chicago State University and a research associate at The Field Museum. I began with application of linear morphometrics on mammals for various type of taxonomic and systematic needs for biodiversity analyses. I then grew to enjoy the application of multivariate approaches to address questions dealing with ontogenetic variation, species delimitations, and correlating morphology with environmental variables. In my lab we have been working with traditional linear morphometrics and 2D geometric morphometrics. I began working on Matlab and then made a transition to R and love learning new applications and potentially developing new approaches to morphology as it applies to taxonomy, functional ecology and diversity, biogeography, population variation, and evolutionary biology. I would love to learn more about 3D geometric morphometrics and techniques for modularity type questions. I would be very interested in learning about any newer multivariate approaches and big data management. I am looking forward to a collaborative atmosphere with like-minded people.  
 <p>
  
@@ -336,16 +366,16 @@ Unfortunately, I’m unable to attend the meeting in person in Oregon, but I wil
 <p>
 <a href="https://www.researchgate.net/publication/329514366_Morphological_description_and_comparison_of_sperm_from_eighteen_species_of_cricetid_rodents">Rossi et al. 2018. Morphological description and comparison of sperm from eighteen species of cricetid rodents</a>
    </td>
-   <td><strong>Noé U. De La Sancha </strong>
-<p>
-Chicago State University
-<p>
-Mammalogy
-<p>
-<a href="https://twitter.com/noe_delasancha">@noe_delasancha</a>
-   </td>
   </tr>
   <tr>
+   <td colspan="2" >I’m a zooarchaeologist specializing in stable isotope analysis of faunal remains, but one of my pet peeves is when people do not record detailed information about specimens before sampling for biomolecular/geochemical analyses (or bother to consider the zooarchaeological context!) I also think zooarchaeologists and paleontologists should talk to each other more...
+<p>
+I’ve been involved in developing a zooarchaeological stable isotope database with Neotoma over the past few years, and part of that has necessitated the ability to input associated specimen-level data (such as element, side, etc) which was not previously possible.
+<p>
+Most of my work has focused on human-animal-environment interaction in the eastern Mediterranean/Aegean/Adriatic, on islands, from the late glacial through to the Bronze Age. 
+<p>
+I am looking forward to meeting everyone and getting to see a little bit of what Oregon (and FuTRES, of course) is all about. 
+   </td>
    <td>
 
 <img src="/media/biosketches/spilaarbirch.png" width="200" class="center">
@@ -360,27 +390,6 @@ Zooarchaeology
 <a href="https://twitter.com/suzie_birch">@suzie_birch</a>
 <p>
 My <a href="https://research.franklin.uga.edu/quaternary">lab website</a> needs a facelift, but is recent enough.
-   </td>
-   <td colspan="2" >I’m a zooarchaeologist specializing in stable isotope analysis of faunal remains, but one of my pet peeves is when people do not record detailed information about specimens before sampling for biomolecular/geochemical analyses (or bother to consider the zooarchaeological context!) I also think zooarchaeologists and paleontologists should talk to each other more...
-<p>
-I’ve been involved in developing a zooarchaeological stable isotope database with Neotoma over the past few years, and part of that has necessitated the ability to input associated specimen-level data (such as element, side, etc) which was not previously possible.
-<p>
-Most of my work has focused on human-animal-environment interaction in the eastern Mediterranean/Aegean/Adriatic, on islands, from the late glacial through to the Bronze Age. 
-<p>
-I am looking forward to meeting everyone and getting to see a little bit of what Oregon (and FuTRES, of course) is all about. 
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2" >I am a paleontologist specialized in paleoecology and ecometrics of mammals during the Cenozoic. Currently I work as a post-doctoral researcher at the University of Helsinki, Finland, and I was a visiting researcher in the Natural History Museum of London for 2015-2017. My current research interests include new methods to estimate diets and body size of fossil large herbivorous mammals, the evolution and dietary changes of proboscideans during the Neogene in East Africa, body size changes and paleoecology of mammals during the Cenozoic, and ecometric modelling of paleoenvironments based on functional traits of herbivorous mammals. I have compiled and managed a large dataset of fossil mammal body mass estimates from the Cenozoic of all continents (especially Old World and North America) during the last few years. Lately I have concentrated on improving body mass estimate understudied taxa such as fossil proboscideans.  
-<p>
-   </td>
-  <img src="/media/biosketches/jsaarinen.png" width="200" class="center">
-   <td><strong>Juha Saarinen </strong>
-<p>
-University of Helsinki, Finland
-<p>
-Paleobiology
-<p
    </td>
   </tr>
 </table>
