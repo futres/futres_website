@@ -8,13 +8,13 @@ slug: biosketch
 
 <table>
   <tr>
-   <td colspan="2" width="70%">I am a paleobiologist interested in paleoclimatic and paleovegetation reconstructions using small vertebrates, mainly amphibians and reptiles because they are dependent on temperature and humidity. I use species distribution and their climatic niche, and I want to use the species abundance - niche centroid distance relationship to paleoclimatic reconstructions. I'm very interested in using the morphology to predict the habitat type of fossil organisms, and relate the vertebrates response to vegetation structure and climate change.
+   <td colspan="2" width="80%">I am a paleobiologist interested in paleoclimatic and paleovegetation reconstructions using small vertebrates, mainly amphibians and reptiles because they are dependent on temperature and humidity. I use species distribution and their climatic niche, and I want to use the species abundance - niche centroid distance relationship to paleoclimatic reconstructions. I'm very interested in using the morphology to predict the habitat type of fossil organisms, and relate the vertebrates response to vegetation structure and climate change.
 <p>
 I'm looking forward to learn new methods and contribute with ideas in the functional traits analyses, and drive the knowledge to Mexican paleontology. This will be my first time in Eugene and am so excited to participate in the workshop with all of you.
 <p>
 <a href="https://scholar.google.com.mx/citations?user=v9f9RJcAAAAJ&hl=es&oi=sra">https://scholar.google.com.mx/citations?user=v9f9RJcAAAAJ&hl=es&oi=sra</a>
    </td>
-   <td  width="30%">
+   <td  width="20%">
 
 <img src="/media/biosketches/jacruz.png" width="200" class="center">
 
