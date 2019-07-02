@@ -370,6 +370,19 @@ Most of my work has focused on human-animal-environment interaction in the easte
 I am looking forward to meeting everyone and getting to see a little bit of what Oregon (and FuTRES, of course) is all about. 
    </td>
   </tr>
+  <tr>
+   <td colspan="2" >I am a paleontologist specialized in paleoecology and ecometrics of mammals during the Cenozoic. Currently I work as a post-doctoral researcher at the University of Helsinki, Finland, and I was a visiting researcher in the Natural History Museum of London for 2015-2017. My current research interests include new methods to estimate diets and body size of fossil large herbivorous mammals, the evolution and dietary changes of proboscideans during the Neogene in East Africa, body size changes and paleoecology of mammals during the Cenozoic, and ecometric modelling of paleoenvironments based on functional traits of herbivorous mammals. I have compiled and managed a large dataset of fossil mammal body mass estimates from the Cenozoic of all continents (especially Old World and North America) during the last few years. Lately I have concentrated on improving body mass estimate understudied taxa such as fossil proboscideans.  
+<p>
+   </td>
+  <img src="/media/biosketches/jsaarinen.png" width="200" class="center">
+   <td><strong>Juha Saarinen </strong>
+<p>
+University of Helsinki, Finland
+<p>
+Paleobiology
+<p
+   </td>
+  </tr>
 </table>
 
 
