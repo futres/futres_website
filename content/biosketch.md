@@ -32,7 +32,7 @@ Paleobiology
 <img src="/media/biosketches/avillasenor.png" width="200" class="center">
 
 <p>
-<strong><a href="https://sites.google.com/view/ameliavillasenor/>Amelia Villaseñor</a> </strong>
+<strong><a href="https://sites.google.com/view/ameliavillasenor/">Amelia Villaseñor</a> </strong>
 <p>
 University of Arkansas
 <p>
