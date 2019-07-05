@@ -237,8 +237,8 @@ Anatomy/Comparative anatomy
    </td>
   </tr>
   <tr>
-   <td colspan="2" width="70%">
-   </td>
+   <td colspan="2" width="70%">I am an NSF postdoctoral fellow at Yale University, seeking to understand the molecular and morphological basis of sensory evolution in tetrapods. Much of my work has focused on the molecular and morphological evolution of the chemosensory system in bats. I am now working on the developmental origins of brain evolution in reptiles and vestigialization of the chemosensory system in archosaurs. I use techniques ranging from transcriptomics to diceCT to macro-imaging of immunostained whole-mount embryos. 
+</td>
    <td width="30%">
 
 <img src="/media/biosketches/lyohe.png" width="200" class="center">
