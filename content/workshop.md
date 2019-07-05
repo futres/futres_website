@@ -20,7 +20,7 @@ Remote Participation: <a href="https://arizona.zoom.us/j/703642783">Zoom</a><br>
 <h4><a href="https://futres.org/codeofconduct/">Code of Conduct</a></h4>
 <h4><a href="https://futres.org/biosketch/">Particpants & Organizers</a></h4>
 
-<h5>Outcomes from July 15-17, 2019 Workshop:</h5><br>
+<h5>Outcomes from July 15-17, 2019 Workshop:</h5>
 - Meeting report published through PenSoft<br>
 - Best practices paper for publishing vertebrate trait data<br>
 - Research grant proposals to leverage tools from FuTRES<br>
