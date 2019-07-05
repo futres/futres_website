@@ -26,7 +26,7 @@ Remote Participation: <a href="https://arizona.zoom.us/j/703642783">Zoom</a><br>
 | Time | Activity | Facilitator |
 | :--- | :--- | :--- |
 | <img width=50/>|<img width=700/>|<img width=250/>|
-| 9:00&nbsp;AM PDT | Ice Breaker | M. A. Balk |
+| 9:00&nbsp;AM | Ice Breaker | M. A. Balk |
 | 9:15&nbsp;AM | Lightning talks about use cases for a vertebrate trait database | Group & <a href="https://arizona.zoom.us/j/703642783">Zoom</a> <img src="/media/vidicon.jpeg" width="25"> |
 | 10:15&nbsp;AM | Coffee break | |
 | 10:30&nbsp;AM | Introduction to ontologies | R. Walls |
