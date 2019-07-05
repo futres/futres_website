@@ -29,7 +29,7 @@ Remote Participation: <a href="https://arizona.zoom.us/j/703642783">Zoom</a><br>
 
 **July 14**<br>
 Arrive in Eugene, OR.<br>
-Dinner gathering at the Glenwood Restaurant, 7-9PM<br>
+Dinner gathering at the <a http://www.glenwoodrestaurants.com/>Glenwood Restaurant</a>, <b>7-9PM</b><br>
 
 **July 15**<br>
 *Goal: Understand types of data and potential collaborations*
