@@ -20,6 +20,10 @@ Remote Participation: <a href="https://arizona.zoom.us/j/703642783">Zoom</a><br>
 <h4><a href="https://futres.org/codeofconduct/">Code of Conduct</a></h4>
 <h4><a href="https://futres.org/biosketch/">Particpants & Organizers</a></h4>
 
+**July 14**
+Arrive in Eugene, OR.
+Dinner gathering at the Glenwood Restaurant, 7-9PM
+
 **July 15**<br>
 *Goal: Understand types of data and potential collaborations*
 
@@ -27,8 +31,7 @@ Remote Participation: <a href="https://arizona.zoom.us/j/703642783">Zoom</a><br>
 | :--- | :--- | :--- |
 | <img width=50/>|<img width=700/>|<img width=250/>|
 | 9:00&nbsp;AM | Ice Breaker | M. A. Balk |
-| 9:15&nbsp;AM | Setting the Stage | FuTRES Team |
-| 9:30&nbsp;AM | Lightning talks about use cases for a vertebrate trait database | Group & <a href="https://arizona.zoom.us/j/703642783">Zoom</a> <img src="/media/vidicon.jpeg" width="25"> |
+| 9:15&nbsp;AM | Lightning talks about use cases for a vertebrate trait database | Group & <a href="https://arizona.zoom.us/j/703642783">Zoom</a> <img src="/media/vidicon.jpeg" width="25"> |
 | 10:15&nbsp;AM | Coffee break | |
 | 10:30&nbsp;AM | Introduction to ontologies | R. Walls |
 | 11:15&nbsp;AM | Data sources already in place | R. Guralnick |
@@ -37,6 +40,8 @@ Remote Participation: <a href="https://arizona.zoom.us/j/703642783">Zoom</a><br>
 | 2:45&nbsp;PM | Snack break | |
 | 3:00&nbsp;PM | Regroup and read out | Group |
 | 4:00&nbsp;PM | Group discussion of potential future research <br> grants that could leverage FuTRES | Group |
+| 5:00&nbsp;PM | Return to hotel ||
+| 6:00&nbsp;PM | Dinner at Chula's Restaurant and Cantina ||
 
 **July 16**<br>
 *Goal: Develop new mappings and standardizations for traits*
@@ -44,7 +49,7 @@ Remote Participation: <a href="https://arizona.zoom.us/j/703642783">Zoom</a><br>
 | Time | Activity | Facilitator |
 | :--- | :--- | :--- |
 |<img width=50/>|<img width=700/>|<img width=250/>|
-| 9:00&nbsp;AM | Identify specific datasets | Group & <a href="https://arizona.zoom.us/j/703642783">Zoom</a> <img src="/media/vidicon.jpeg" width="25"> |
+| 9:00&nbsp;AM PDT | Identify specific datasets | Group & <a href="https://arizona.zoom.us/j/703642783">Zoom</a> <img src="/media/vidicon.jpeg" width="25"> |
 | 10:15&nbsp;AM | Create groups & get acquainted | Group |
 | 10:30&nbsp;AM | Coffee break | |
 | 10:45&nbsp;AM | Gather into groups | Group |
@@ -62,7 +67,7 @@ Remote Participation: <a href="https://arizona.zoom.us/j/703642783">Zoom</a><br>
 | Time | Activity | Facilitator |
 | :--- | :--- | :--- |
 | <img width=50/>|<img width=700/>|<img width=250/>|
-| 9:00&nbsp;AM | Switch up groups | Group |
+| 9:00&nbsp;AM PDT | Switch up groups | Group |
 | 10:00&nbsp;AM | Coffee break | |
 | 10:15&nbsp;AM | Switch up groups | Group |
 | 12:00&nbsp;PM | Lunch and discussion | Catered |
@@ -70,6 +75,8 @@ Remote Participation: <a href="https://arizona.zoom.us/j/703642783">Zoom</a><br>
 | 2:45&nbsp;PM | Snacks | |
 | 3:00&nbsp;PM | Regroup and read out | Group |
 | 4:00&nbsp;PM | Next steps | Group |
+| 5:00&nbsp;PM | Return to hotel ||
+| 6:00&nbsp;PM | Dinner on your own ||
 
 **Outcomes from July 15-17, 2019 Workshop:**<br>
 - Meeting report published through PenSoft<br>
