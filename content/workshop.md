@@ -20,6 +20,13 @@ Remote Participation: <a href="https://arizona.zoom.us/j/703642783">Zoom</a><br>
 <h4><a href="https://futres.org/codeofconduct/">Code of Conduct</a></h4>
 <h4><a href="https://futres.org/biosketch/">Particpants & Organizers</a></h4>
 
+**Outcomes from July 15-17, 2019 Workshop:**<br>
+- Meeting report published through PenSoft<br>
+- Best practices paper for publishing vertebrate trait data<br>
+- Research grant proposals to leverage tools from FuTRES<br>
+- New datasets added to FuTRES<br>
+- Coordination with other ongoing bioinformatics efforts<br>
+
 **July 14**<br>
 Arrive in Eugene, OR.<br>
 Dinner gathering at the Glenwood Restaurant, 7-9PM<br>
@@ -78,12 +85,6 @@ Dinner gathering at the Glenwood Restaurant, 7-9PM<br>
 | 5:00&nbsp;PM | Return to hotel ||
 | 6:00&nbsp;PM | Dinner on your own ||
 
-**Outcomes from July 15-17, 2019 Workshop:**<br>
-- Meeting report published through PenSoft<br>
-- Best practices paper for publishing vertebrate trait data<br>
-- Research grant proposals to leverage tools from FuTRES<br>
-- New datasets added to FuTRES<br>
-- Coordination with other ongoing bioinformatics efforts<br>
 
 ### Travel Information
 **Hotel:** [Phoenix Inn] (https://www.phoenixinn.com/eugene)
