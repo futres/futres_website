@@ -20,9 +20,9 @@ Remote Participation: <a href="https://arizona.zoom.us/j/703642783">Zoom</a><br>
 <h4><a href="https://futres.org/codeofconduct/">Code of Conduct</a></h4>
 <h4><a href="https://futres.org/biosketch/">Particpants & Organizers</a></h4>
 
-**July 14**
-Arrive in Eugene, OR.
-Dinner gathering at the Glenwood Restaurant, 7-9PM
+**July 14**<br>
+Arrive in Eugene, OR.<br>
+Dinner gathering at the Glenwood Restaurant, 7-9PM<br>
 
 **July 15**<br>
 *Goal: Understand types of data and potential collaborations*
