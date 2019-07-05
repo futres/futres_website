@@ -248,7 +248,7 @@ Anatomy/Comparative anatomy
 <p>
 Yale University
 <p>
-Mammalogy
+Vertebrates
    </td>
   </tr>
   <tr>
