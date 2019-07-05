@@ -27,7 +27,8 @@ Remote Participation: <a href="https://arizona.zoom.us/j/703642783">Zoom</a><br>
 | :--- | :--- | :--- |
 | <img width=50/>|<img width=700/>|<img width=250/>|
 | 9:00&nbsp;AM | Ice Breaker | M. A. Balk |
-| 9:15&nbsp;AM | Lightning talks about use cases for a vertebrate trait database | Group & <a href="https://arizona.zoom.us/j/703642783">Zoom</a> <img src="/media/vidicon.jpeg" width="25"> |
+| 9:15&nbsp;AM | Setting the Stage | FuTRES Team |
+| 9:30&nbsp;AM | Lightning talks about use cases for a vertebrate trait database | Group & <a href="https://arizona.zoom.us/j/703642783">Zoom</a> <img src="/media/vidicon.jpeg" width="25"> |
 | 10:15&nbsp;AM | Coffee break | |
 | 10:30&nbsp;AM | Introduction to ontologies | R. Walls |
 | 11:15&nbsp;AM | Data sources already in place | R. Guralnick |
@@ -43,7 +44,7 @@ Remote Participation: <a href="https://arizona.zoom.us/j/703642783">Zoom</a><br>
 | Time | Activity | Facilitator |
 | :--- | :--- | :--- |
 |<img width=50/>|<img width=700/>|<img width=250/>|
-| 9:00&nbsp;AM PDT | Identify specific datasets | Group & <a href="https://arizona.zoom.us/j/703642783">Zoom</a> <img src="/media/vidicon.jpeg" width="25"> |
+| 9:00&nbsp;AM | Identify specific datasets | Group & <a href="https://arizona.zoom.us/j/703642783">Zoom</a> <img src="/media/vidicon.jpeg" width="25"> |
 | 10:15&nbsp;AM | Create groups & get acquainted | Group |
 | 10:30&nbsp;AM | Coffee break | |
 | 10:45&nbsp;AM | Gather into groups | Group |
@@ -61,7 +62,7 @@ Remote Participation: <a href="https://arizona.zoom.us/j/703642783">Zoom</a><br>
 | Time | Activity | Facilitator |
 | :--- | :--- | :--- |
 | <img width=50/>|<img width=700/>|<img width=250/>|
-| 9:00&nbsp;AM PDT | Switch up groups | Group |
+| 9:00&nbsp;AM | Switch up groups | Group |
 | 10:00&nbsp;AM | Coffee break | |
 | 10:15&nbsp;AM | Switch up groups | Group |
 | 12:00&nbsp;PM | Lunch and discussion | Catered |
