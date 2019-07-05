@@ -248,7 +248,7 @@ Anatomy/Comparative anatomy
 <p>
 Yale University
 <p>
-Vertebrates
+Tetrapods
    </td>
   </tr>
   <tr>
