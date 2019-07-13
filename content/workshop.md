@@ -43,12 +43,12 @@ Dinner gathering at the <a http://www.glenwoodrestaurants.com/>Glenwood Restaura
 | 9:15&nbsp;AM | Lightning talks about use cases for a vertebrate trait database | Group & <a href="https://arizona.zoom.us/j/703642783">Zoom</a> <img src="/media/vidicon.jpeg" width="25"> |
 | 10:15&nbsp;AM | Coffee break | |
 | 10:30&nbsp;AM | Introduction to ontologies | R. Walls |
-| 11:15&nbsp;AM | Data sources already in place | R. Guralnick |
+| 10:45&nbsp;AM | Data Pipeline | J. Deck |
+| 11:15&nbsp;AM | Data & Metadata | R. Guralnick |
 | 12:00&nbsp;PM | Lunch and discussion | Catered |
-| 1:00&nbsp;PM | Breakout groups by discipline to focus on <br> developing use cases and datasets to target for FuTRES year 2 | Group |
+| 1:00&nbsp;PM | Panel Discussion | Group |
 | 2:45&nbsp;PM | Snack break | |
-| 3:00&nbsp;PM | Regroup and read out | Group |
-| 4:00&nbsp;PM | Group discussion of potential future research <br> grants that could leverage FuTRES | Group |
+| 3:15&nbsp;PM | Brainstorming | Group |
 | 5:00&nbsp;PM | Return to hotel ||
 | 6:00&nbsp;PM | Dinner at Chula's Restaurant and Cantina ||
 
@@ -59,14 +59,14 @@ Dinner gathering at the <a http://www.glenwoodrestaurants.com/>Glenwood Restaura
 | :--- | :--- | :--- |
 |<img width=50/>|<img width=700/>|<img width=250/>|
 | 9:00&nbsp;AM PDT | Identify specific datasets | Group & <a href="https://arizona.zoom.us/j/703642783">Zoom</a> <img src="/media/vidicon.jpeg" width="25"> |
-| 10:15&nbsp;AM | Create groups & get acquainted | Group |
+| 10:15&nbsp;AM | Gather into Groups | Group |
 | 10:30&nbsp;AM | Coffee break | |
 | 10:45&nbsp;AM | Gather into groups | Group |
 | 12:00&nbsp;PM | Lunch and discussion | Catered |
-| 1:00&nbsp;PM | Switch up groups | Group |
+| 1:00&nbsp;PM | Breakout groups by discipline to focus on <br> developing use cases and datasets to target for FuTRES year 2 | Group |
 | 2:45&nbsp;PM | Snack break | |
 | 3:00&nbsp;PM | Regroup and read out | Group |
-| 4:00&nbsp;PM | Next steps | Group |
+| 4:00&nbsp;PM | Group discussion of potential future research <br> grants that could leverage FuTRES | Group |
 | 6:00&nbsp;PM | Dinner | <a href="https://deckfamilyfarm.com/">Deck Family Farm</a> |
 
 
