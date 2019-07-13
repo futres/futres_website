@@ -65,7 +65,7 @@ Dinner gathering at the <a http://www.glenwoodrestaurants.com/>Glenwood Restaura
 | 12:00&nbsp;PM | Lunch and discussion | Catered |
 | 1:00&nbsp;PM | Breakout groups by discipline to focus on <br> developing use cases and datasets to target for FuTRES year 2 | Group |
 | 2:45&nbsp;PM | Snack break | |
-| 3:00&nbsp;PM | Regroup and read out | Group |
+| 3:00&nbsp;PM | Fossil Tour! | E. Davis |
 | 4:00&nbsp;PM | Group discussion of potential future research <br> grants that could leverage FuTRES | Group |
 | 6:00&nbsp;PM | Dinner | <a href="https://deckfamilyfarm.com/">Deck Family Farm</a> |
 
