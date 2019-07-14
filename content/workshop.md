@@ -77,9 +77,10 @@ Dinner gathering at the <a href="http://www.glenwoodrestaurants.com">Glenwood Re
 | Time | Activity | Facilitator |
 | :--- | :--- | :--- |
 | <img width=50/>|<img width=700/>|<img width=250/>|
-| 9:00&nbsp;AM | Breakout groups by discipline to focus on <br> developing use cases and datasets to target for <br> FuTRES year 2 | Group |
-| 10:00&nbsp;AM | Coffee break | |
-| 10:15&nbsp;AM | Small groups: digital data; body size | Group & <a href="https://arizona.zoom.us/j/703642783">Zoom</a> <img src="/media/vidicon.jpeg" width="25">|
+| 9:00&nbsp;AM | Paper | M.A. Balk & <a href="https://arizona.zoom.us/j/703642783">Zoom</a> <img src="/media/vidicon.jpeg" width="25"> |
+| 9:45&nbsp;AM | Breakout groups by discipline to focus on <br> developing use cases and datasets to target for <br> FuTRES year 2 | Group |
+| 10:30&nbsp;AM | Coffee break | |
+| 10:45nbsp;AM | Small groups: digital data; body size | Group & <a href="https://arizona.zoom.us/j/703642783">Zoom</a> <img src="/media/vidicon.jpeg" width="25">|
 | 12:00&nbsp;PM | Lunch and discussion | Catered |
 | 1:00&nbsp;PM | Plan research proposals | Group & <a href="https://arizona.zoom.us/j/703642783">Zoom</a> <img src="/media/vidicon.jpeg" width="25"> |
 | 2:45&nbsp;PM | Snacks | |
