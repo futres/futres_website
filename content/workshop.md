@@ -44,7 +44,7 @@ Dinner gathering at the <a href="http://www.glenwoodrestaurants.com">Glenwood Re
 | 10:15&nbsp;AM | Coffee break | |
 | 10:30&nbsp;AM | Introduction to ontologies | R. Walls |
 | 10:45&nbsp;AM | Data pipeline | J. Deck |
-| 11:15&nbsp;AM | Data & metadata | R. Guralnick |
+| 11:15&nbsp;AM | Group: data & metadata | R. Guralnick |
 | 12:00&nbsp;PM | Lunch and discussion | Catered |
 | 1:00&nbsp;PM | Slack, GitHub, Google Docs | M.A. Balk |
 | 1:30&nbsp;PM | Panel discussion | Group |
@@ -62,12 +62,11 @@ Dinner gathering at the <a href="http://www.glenwoodrestaurants.com">Glenwood Re
 | 9:00&nbsp;AM | Identify specific datasets | Group & <a href="https://arizona.zoom.us/j/703642783">Zoom</a> <img src="/media/vidicon.jpeg" width="25"> |
 | 10:15&nbsp;AM | Coffee Break | |
 | 10:30&nbsp;AM | Group: terms discussion | Kitty |
-| 11:00&nbsp;AM | Group: terms discussion | |
-| 11:30&nbsp;AM | Group: template | |
+| 11:15&nbsp;AM | Group: template | |
 | 12:00&nbsp;PM | Lunch and discussion | Catered |
 | 1:00&nbsp;PM | Group discussion of potential future research <br> grants that could leverage FuTRES | Group |
 | 2:45&nbsp;PM | Snack break | |
-| 3:00&nbsp;PM | Group Discussion | Group |
+| 3:00&nbsp;PM | Group: best practices | Group |
 | 4:00&nbsp;PM | Fossil Tour! | E. Davis |
 | 6:00&nbsp;PM | Dinner | <a href="https://deckfamilyfarm.com/">Deck Family Farm</a> |
 
