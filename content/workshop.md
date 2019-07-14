@@ -49,8 +49,8 @@ Dinner gathering at the <a http://www.glenwoodrestaurants.com/>Glenwood Restaura
 | 1:00&nbsp;PM | Panel Discussion | Group |
 | 2:45&nbsp;PM | Snack break | |
 | 3:15&nbsp;PM | Brainstorming | Group |
-| 5:00&nbsp;PM | Return to hotel ||
-| 6:00&nbsp;PM | Dinner at Chula's Restaurant and Cantina ||
+| 5:00&nbsp;PM | Break ||
+| 6:00&nbsp;PM | Dinner at <a href="https://chulas-cantina.com/">Chula's Restaurant and Cantina</a> ||
 
 **July 16**<br>
 *Goal: Develop new mappings and standardizations for traits*
@@ -58,10 +58,10 @@ Dinner gathering at the <a http://www.glenwoodrestaurants.com/>Glenwood Restaura
 | Time | Activity | Facilitator |
 | :--- | :--- | :--- |
 |<img width=50/>|<img width=700/>|<img width=250/>|
-| 9:00&nbsp;AM PDT | Identify specific datasets | Group & <a href="https://arizona.zoom.us/j/703642783">Zoom</a> <img src="/media/vidicon.jpeg" width="25"> |
-| 10:15&nbsp;AM | Gather into Groups | Group |
-| 10:30&nbsp;AM | Coffee break | |
-| 10:45&nbsp;AM | Gather into groups | Group |
+| 9:00&nbsp;AM | Identify specific datasets | Group & <a href="https://arizona.zoom.us/j/703642783">Zoom</a> <img src="/media/vidicon.jpeg" width="25"> |
+| 10:15&nbsp;AM | Coffee Break | |
+| 10:30&nbsp;AM | Group: Terms Discussion | Kitty |
+| 111:15&nbsp;AM | Group: Terms Discussion | Kitty |
 | 12:00&nbsp;PM | Lunch and discussion | Catered |
 | 1:00&nbsp;PM | Breakout groups by discipline to focus on <br> developing use cases and datasets to target for FuTRES year 2 | Group |
 | 2:45&nbsp;PM | Snack break | |
@@ -76,16 +76,16 @@ Dinner gathering at the <a http://www.glenwoodrestaurants.com/>Glenwood Restaura
 | Time | Activity | Facilitator |
 | :--- | :--- | :--- |
 | <img width=50/>|<img width=700/>|<img width=250/>|
-| 9:00&nbsp;AM PDT | Switch up groups | Group |
+| 9:00&nbsp;AM | Group: Template | Group |
 | 10:00&nbsp;AM | Coffee break | |
-| 10:15&nbsp;AM | Switch up groups | Group |
+| 10:15&nbsp;AM | Small Groups: Digital Data; Body Size | Group |
 | 12:00&nbsp;PM | Lunch and discussion | Catered |
 | 1:00&nbsp;PM | Plan research proposals | Group & <a href="https://arizona.zoom.us/j/703642783">Zoom</a> <img src="/media/vidicon.jpeg" width="25"> |
 | 2:45&nbsp;PM | Snacks | |
 | 3:00&nbsp;PM | Regroup and read out | Group |
 | 4:00&nbsp;PM | Next steps | Group |
-| 5:00&nbsp;PM | Return to hotel ||
-| 6:00&nbsp;PM | Dinner on your own ||
+| 5:00&nbsp;PM | Break ||
+| 6:00&nbsp;PM | Dinner at <a href="https://goo.gl/maps/mAzviYZJfwQLLWmw7">VRBO</a> ||
 
 
 ### Travel Information
