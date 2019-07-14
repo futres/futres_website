@@ -77,7 +77,7 @@ Dinner gathering at the <a href="http://www.glenwoodrestaurants.com">Glenwood Re
 | Time | Activity | Facilitator |
 | :--- | :--- | :--- |
 | <img width=50/>|<img width=700/>|<img width=250/>|
-| 9:00&nbsp;AM | Breakout groups by discipline to focus on <br> developing use cases and datasets to target for FuTRES year 2 | Group |
+| 9:00&nbsp;AM | Breakout groups by discipline to focus on <br> developing use cases and datasets to target for <br> FuTRES year 2 | Group |
 | 10:00&nbsp;AM | Coffee break | |
 | 10:15&nbsp;AM | Small groups: digital data; body size | Group & <a href="https://arizona.zoom.us/j/703642783">Zoom</a> <img src="/media/vidicon.jpeg" width="25">|
 | 12:00&nbsp;PM | Lunch and discussion | Catered |
