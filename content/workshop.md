@@ -63,7 +63,7 @@ Dinner gathering at the <a href="http://www.glenwoodrestaurants.com">Glenwood Re
 | 10:30&nbsp;AM | Group: Terms Discussion | Kitty |
 | 111:15&nbsp;AM | Group: Terms Discussion | Kitty |
 | 12:00&nbsp;PM | Lunch and discussion | Catered |
-| 1:00&nbsp;PM | Breakout groups by discipline to focus on <br> developing use cases and datasets to target for FuTRES year 2 | Group |
+| 1:00&nbsp;PM | Group: Template | Group |
 | 2:45&nbsp;PM | Snack break | |
 | 3:00&nbsp;PM | Fossil Tour! | E. Davis |
 | 4:00&nbsp;PM | Group discussion of potential future research <br> grants that could leverage FuTRES | Group |
@@ -76,7 +76,7 @@ Dinner gathering at the <a href="http://www.glenwoodrestaurants.com">Glenwood Re
 | Time | Activity | Facilitator |
 | :--- | :--- | :--- |
 | <img width=50/>|<img width=700/>|<img width=250/>|
-| 9:00&nbsp;AM | Group: Template | Group |
+| 9:00&nbsp;AM | Breakout groups by discipline to focus on <br> developing use cases and datasets to target for FuTRES year 2 | Group |
 | 10:00&nbsp;AM | Coffee break | |
 | 10:15&nbsp;AM | Small Groups: Digital Data; Body Size | Group |
 | 12:00&nbsp;PM | Lunch and discussion | Catered |
