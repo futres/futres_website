@@ -39,15 +39,15 @@ Dinner gathering at the <a href="http://www.glenwoodrestaurants.com">Glenwood Re
 | Time | Activity | Facilitator |
 | :--- | :--- | :--- |
 | <img width=50/>|<img width=700/>|<img width=250/>|
-| 9:00&nbsp;AM | Ice Breaker | M. A. Balk |
+| 9:00&nbsp;AM | Ice breaker | M. A. Balk |
 | 9:15&nbsp;AM | Lightning talks about use cases for a vertebrate trait database | Group & <a href="https://arizona.zoom.us/j/703642783">Zoom</a> <img src="/media/vidicon.jpeg" width="25"> |
 | 10:15&nbsp;AM | Coffee break | |
 | 10:30&nbsp;AM | Introduction to ontologies | R. Walls |
-| 10:45&nbsp;AM | Data Pipeline | J. Deck |
-| 11:15&nbsp;AM | Data & Metadata | R. Guralnick |
+| 10:45&nbsp;AM | Data pipeline | J. Deck |
+| 11:15&nbsp;AM | Data & metadata | R. Guralnick |
 | 12:00&nbsp;PM | Lunch and discussion | Catered |
 | 1:00&nbsp;PM | Slack, GitHub, Google Docs | M.A. Balk |
-| 1:30&nbsp;PM | Panel Discussion | Group |
+| 1:30&nbsp;PM | Panel discussion | Group |
 | 2:45&nbsp;PM | Snack break | |
 | 3:15&nbsp;PM | Brainstorming | Group |
 | 5:00&nbsp;PM | Break ||
@@ -61,9 +61,9 @@ Dinner gathering at the <a href="http://www.glenwoodrestaurants.com">Glenwood Re
 |<img width=50/>|<img width=700/>|<img width=250/>|
 | 9:00&nbsp;AM | Identify specific datasets | Group & <a href="https://arizona.zoom.us/j/703642783">Zoom</a> <img src="/media/vidicon.jpeg" width="25"> |
 | 10:15&nbsp;AM | Coffee Break | |
-| 10:30&nbsp;AM | Group: Terms Discussion | Kitty |
-| 11:00&nbsp;AM | Group: Terms Discussion | Kitty |
-| 11:30&nbsp;AM | Group: Template | |
+| 10:30&nbsp;AM | Group: terms discussion | Kitty |
+| 11:00&nbsp;AM | Group: terms discussion | |
+| 11:30&nbsp;AM | Group: template | |
 | 12:00&nbsp;PM | Lunch and discussion | Catered |
 | 1:00&nbsp;PM | Group discussion of potential future research <br> grants that could leverage FuTRES | Group |
 | 2:45&nbsp;PM | Snack break | |
@@ -80,7 +80,7 @@ Dinner gathering at the <a href="http://www.glenwoodrestaurants.com">Glenwood Re
 | <img width=50/>|<img width=700/>|<img width=250/>|
 | 9:00&nbsp;AM | Breakout groups by discipline to focus on <br> developing use cases and datasets to target for FuTRES year 2 | Group |
 | 10:00&nbsp;AM | Coffee break | |
-| 10:15&nbsp;AM | Small Groups: Digital Data; Body Size | Group & <a href="https://arizona.zoom.us/j/703642783">Zoom</a> <img src="/media/vidicon.jpeg" width="25">|
+| 10:15&nbsp;AM | Small groups: digital data; body size | Group & <a href="https://arizona.zoom.us/j/703642783">Zoom</a> <img src="/media/vidicon.jpeg" width="25">|
 | 12:00&nbsp;PM | Lunch and discussion | Catered |
 | 1:00&nbsp;PM | Plan research proposals | Group & <a href="https://arizona.zoom.us/j/703642783">Zoom</a> <img src="/media/vidicon.jpeg" width="25"> |
 | 2:45&nbsp;PM | Snacks | |
