@@ -46,7 +46,8 @@ Dinner gathering at the <a href="http://www.glenwoodrestaurants.com">Glenwood Re
 | 10:45&nbsp;AM | Data Pipeline | J. Deck |
 | 11:15&nbsp;AM | Data & Metadata | R. Guralnick |
 | 12:00&nbsp;PM | Lunch and discussion | Catered |
-| 1:00&nbsp;PM | Panel Discussion | Group |
+| 1:00&nbsp;PM | Slack, GitHub, Google Docs | M.A. Balk |
+| 1:30&nbsp;PM | Panel Discussion | Group |
 | 2:45&nbsp;PM | Snack break | |
 | 3:15&nbsp;PM | Brainstorming | Group |
 | 5:00&nbsp;PM | Break ||
@@ -79,7 +80,7 @@ Dinner gathering at the <a href="http://www.glenwoodrestaurants.com">Glenwood Re
 | <img width=50/>|<img width=700/>|<img width=250/>|
 | 9:00&nbsp;AM | Breakout groups by discipline to focus on <br> developing use cases and datasets to target for FuTRES year 2 | Group |
 | 10:00&nbsp;AM | Coffee break | |
-| 10:15&nbsp;AM | Small Groups: Digital Data; Body Size | Group |
+| 10:15&nbsp;AM | Small Groups: Digital Data; Body Size | Group & <a href="https://arizona.zoom.us/j/703642783">Zoom</a> <img src="/media/vidicon.jpeg" width="25">|
 | 12:00&nbsp;PM | Lunch and discussion | Catered |
 | 1:00&nbsp;PM | Plan research proposals | Group & <a href="https://arizona.zoom.us/j/703642783">Zoom</a> <img src="/media/vidicon.jpeg" width="25"> |
 | 2:45&nbsp;PM | Snacks | |
