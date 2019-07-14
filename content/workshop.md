@@ -61,7 +61,7 @@ Dinner gathering at the <a href="http://www.glenwoodrestaurants.com">Glenwood Re
 | 9:00&nbsp;AM | Identify specific datasets | Group & <a href="https://arizona.zoom.us/j/703642783">Zoom</a> <img src="/media/vidicon.jpeg" width="25"> |
 | 10:15&nbsp;AM | Coffee Break | |
 | 10:30&nbsp;AM | Group: Terms Discussion | Kitty |
-| 111:15&nbsp;AM | Group: Terms Discussion | Kitty |
+| 11:15&nbsp;AM | Group: Template |  |
 | 12:00&nbsp;PM | Lunch and discussion | Catered |
 | 1:00&nbsp;PM | Group: Template | Group |
 | 2:45&nbsp;PM | Snack break | |
