@@ -46,11 +46,12 @@ I am excited to see how others organize and use their trait-based data to answer
    </td>
   </tr>
   <tr>
-   <td colspan="2" width="70%">
+   <td colspan="2" width="70%">My research spans multiple scales from local-scale community ecology and landscape ecology, to global-scale macroecology. My macroecological research uses large, ecoinformatic datasets and ecological modeling to address global-scale issues related to biodiversity loss and endangerment. A major focus of this research centers on developing traits-based and spatially-explicit predictive models of vertebrate risk to help inform conservation priorities.  I have used machine learning and spatial modeling approaches to develop a map of the ecological pathways to extinction across mammals (<a href="http://anadavidson.weebly.com/uploads/1/4/7/3/14734220/davidson_et_al._-_pnas_09_-_pathways_to_exinction_in_mammals.pdf">Davidson et al. 2009, PNAS</a>), and to identify the drivers and global hotspots of extinction risk in marine mammals (<a href="http://anadavidson.weebly.com/uploads/1/4/7/3/14734220/davidson_et_al_-_pnas_2012_-_marine_mammal_extinction_risk.pdf">Davidson et al. 2012, PNAS</a>). I recently worked to uncover geographic drivers of global mammal extinction risk, both today and in the future under changing climate and land use (<a href="http://anadavidson.weebly.com/uploads/1/4/7/3/14734220/davidson_et_al_2017_-_geog_of_current___future_global_mammal_extinction_risk.pdf">Davidson et al. PLoS One 2017</a>). Additionally, colleagues and I have been working to uncover emerging priorities to inform global conservation action by identifying species and regions most vulnerable to extinction and climate disruption, across the dimensions of biodiversity (taxonomic, phylogenetic, and functional) (Murray et al, 2014, GCB , Böhm et al. 2016, GEB, Böhm et al. 2016, Bio Con, <a href="http://anadavidson.weebly.com/uploads/1/4/7/3/14734220/brum_et_al_2017_pnas_-_global_priority_areas_for_mammals.pdf">Brum et al., PNAS 2017</a>).
    </td>
    <td width="30%">
+<img src="/media/biosketches/adavidson.jpg" width="200" class="center">
 <p>
-<strong>Ana Davidson</strong>
+  <strong><a href="http://anadavidson.weebly.com/">Ana Davidson</a></strong>
 <p>
 Colorado State University
 <p>
