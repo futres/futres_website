@@ -46,8 +46,8 @@ Dinner gathering at the <a href="http://www.glenwoodrestaurants.com">Glenwood Re
 | 12:15&nbsp;PM | Lunch and discussion | Catered |
 | 1:00&nbsp;PM | Introduction to ontologies | R. Walls |
 | 1:20&nbsp;PM | Data pipeline | J. Deck |
-| 1:40&nbsp;PM | Slack, GitHub, Google Docs | M.A. Balk |
 | 2:00&nbsp;PM | Panel discussion | Group |
+| 2:20&nbsp;PM | Slack, GitHub, Google Docs | M.A. Balk |
 | 2:40&nbsp;PM | Snack break | |
 | 3:00&nbsp;PM | Group: data & metadata | R. Guralnick |
 | 4:00&nbsp;PM | Brainstorming | Group |
