@@ -41,15 +41,16 @@ Dinner gathering at the <a href="http://www.glenwoodrestaurants.com">Glenwood Re
 | <img width=50/>|<img width=700/>|<img width=250/>|
 | 9:00&nbsp;AM | Ice breaker | M.A. Balk |
 | 9:15&nbsp;AM | Lightning talks about use cases for a vertebrate trait database | Group & <a href="https://arizona.zoom.us/j/703642783">Zoom</a> <img src="/media/vidicon.jpeg" width="25"> |
-| 10:15&nbsp;AM | Coffee break | |
-| 10:30&nbsp;AM | Introduction to ontologies | R. Walls |
-| 10:45&nbsp;AM | Data pipeline | J. Deck |
-| 11:15&nbsp;AM | Group: data & metadata | R. Guralnick |
-| 12:00&nbsp;PM | Lunch and discussion | Catered |
-| 1:00&nbsp;PM | Slack, GitHub, Google Docs | M.A. Balk |
-| 1:30&nbsp;PM | Panel discussion | Group |
-| 2:45&nbsp;PM | Snack break | |
-| 3:15&nbsp;PM | Brainstorming | Group |
+| 11:00&nbsp;AM | Coffee break | |
+| 11:15&nbsp;AM | Lightning talks about use cases for a vertebrate trait database | Group & <a href="https://arizona.zoom.us/j/703642783">Zoom</a> <img src="/media/vidicon.jpeg" width="25"> |
+| 12:15&nbsp;PM | Lunch and discussion | Catered |
+| 1:00&nbsp;PM | Introduction to ontologies | R. Walls |
+| 1:20&nbsp;PM | Data pipeline | J. Deck |
+| 1:40&nbsp;PM | Slack, GitHub, Google Docs | M.A. Balk |
+| 2:00&nbsp;PM | Panel discussion | Group |
+| 2:40&nbsp;PM | Snack break | |
+| 3:00&nbsp;PM | Group: data & metadata | R. Guralnick |
+| 4:00&nbsp;PM | Brainstorming | Group |
 | 5:00&nbsp;PM | Break ||
 | 6:00&nbsp;PM | Dinner at <a href="https://chulas-cantina.com/">Chula's Restaurant and Cantina</a> ||
 
