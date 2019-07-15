@@ -49,8 +49,8 @@ Dinner gathering at the <a href="http://www.glenwoodrestaurants.com">Glenwood Re
 | 2:00&nbsp;PM | Panel discussion | Group |
 | 2:20&nbsp;PM | Slack, GitHub, Google Docs | M.A. Balk |
 | 2:40&nbsp;PM | Snack break | |
-| 3:00&nbsp;PM | Group: data & metadata | R. Guralnick |
-| 4:00&nbsp;PM | Brainstorming | Group |
+| 3:00&nbsp;PM | Group: data & metadata | L. Brenskelle |
+| 4:00&nbsp;PM | Wrap up | Group |
 | 5:00&nbsp;PM | Break ||
 | 6:00&nbsp;PM | Dinner at <a href="https://chulas-cantina.com/">Chula's Restaurant and Cantina</a> ||
 
@@ -60,7 +60,7 @@ Dinner gathering at the <a href="http://www.glenwoodrestaurants.com">Glenwood Re
 | Time | Activity | Facilitator |
 | :--- | :--- | :--- |
 |<img width=50/>|<img width=700/>|<img width=250/>|
-| 9:00&nbsp;AM | Identify specific datasets | Group & <a href="https://arizona.zoom.us/j/703642783">Zoom</a> <img src="/media/vidicon.jpeg" width="25"> |
+| 9:00&nbsp;AM | Research Questions | Group & <a href="https://arizona.zoom.us/j/703642783">Zoom</a> <img src="/media/vidicon.jpeg" width="25"> |
 | 10:15&nbsp;AM | Coffee Break | |
 | 10:30&nbsp;AM | Group: template | |
 | 11:00&nbsp;AM | Group: issues with context, time, quantifying things, observation methods | Kitty |
