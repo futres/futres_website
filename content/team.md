@@ -24,6 +24,7 @@ Ray Bernor is Professor of Anatomy in the College of Medicine, Howard University
 <p><figure><img src="/media/rob150.jpg"/><figcaption>Robert Guralnick</figcaption></figure>
 Rob Guralnick is a hybrid biodiversity scientist and informatician, and the Curator of Biodiversity Informatics at the <a href="https://www.floridamuseum.ufl.edu/">Florida Museum of Natural History</a>.  He particularly values interdisciplinary work, and FuTRES certainly fits that bill.
 </p>
+<p><figure><img src="/media/Keiko.jpg"><figcaption>Keiko Meshida</figcaption><figure>
 Keiko Meshida is a Postdoc at College of Medicine Howard University in Washington, DC.  She works on extant Equus database that Ray Bernor has colleected for his research over dacades.  
 </p>
 <p><figure><img src="/media/Deck_Moorea_2019.jpg"/><figcaption>John Deck</figcaption></figure>
