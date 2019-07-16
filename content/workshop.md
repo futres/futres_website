@@ -62,6 +62,7 @@ Dinner gathering at the <a href="http://www.glenwoodrestaurants.com">Glenwood Re
 |<img width=50/>|<img width=700/>|<img width=250/>|
 | 9:00&nbsp;AM | Scope & objectives | E. Davis |
 | 9:15&nbsp;AM | Research Questions | Group & <a href="https://arizona.zoom.us/j/703642783">Zoom</a> <img src="/media/vidicon.jpeg" width="25"> |
+| 9:45&nbsp;AM | Report back | Group |
 | 10:15&nbsp;AM | Coffee Break | |
 | 10:30&nbsp;AM | Introduction to template | M.A. Balk |
 | 10:45&nbsp;AM | Group: issues with context, time, quantifying things, observation methods | Kitty |
