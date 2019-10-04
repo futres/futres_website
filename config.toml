@@ -48,10 +48,10 @@ publishDir = "docs"
   url = "/data/"
 
 [[menu.main]]
-  name = "Projects"
+  name = "Products"
   weight = -2
-  identifier = "projects"
-  url = "/projects/"
+  identifier = "products"
+  url = "/products/"
 
 #[[menu.main]]
 #  name = "Query"
