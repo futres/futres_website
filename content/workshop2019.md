@@ -1,7 +1,7 @@
 ---
-title: Workshops
+title: Workshop 2019
 language: en
-slug: workshop
+slug: workshop2019
 ---
 
 <h4><a href="https://futres.org/biosketch/">Particpants & Organizers</a></h4>
