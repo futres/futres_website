@@ -24,8 +24,15 @@ publishDir = "docs"
   url = "/workshop/"
   
 [[menu.main]]
-  parent = "team"
-  name = "Participants & Organizers"
+  name = "2019 Workshop"
+  parent = "workshop"
+  weight = -9
+  identifier = "workshop2019"
+  url = "/workshop2019/"
+
+[[menu.main]]
+  parent = "workshop"
+  name = "2019 Participants & Organizers"
   weight = -5
   identifier = "biosketch"
   url = "/biosketch/"
