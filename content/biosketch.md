@@ -1,5 +1,5 @@
 ---
-title: Participants & Organizers
+title: 2019 Participants & Organizers
 language: en
 slug: biosketch
 ---
