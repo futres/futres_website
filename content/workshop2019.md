@@ -1,5 +1,5 @@
 ---
-title: Workshop 2019
+title: 2019 Workshop
 language: en
 slug: workshop2019
 ---
