@@ -1,7 +1,7 @@
 baseURL = "https://futreswebsite.netlify.com/"
 languageCode = "en-us"
 title = "FuTRES"
-theme = ["futres","kube"]
+theme = ["futres", "kube"]
 homepageText = "FuTRES"
 publishDir = "docs"
 
@@ -23,7 +23,8 @@ publishDir = "docs"
   identifier = "workshop"
   url = "/workshop/"
   
-  [[menu.main]]
+[[menu.main]]
+  parent = "team"
   name = "Participants & Organizers"
   weight = -5
   identifier = "biosketch"
@@ -31,18 +32,21 @@ publishDir = "docs"
 
 [[menu.main]]
   name = "Code of Conduct"
+  parent = "workshop"
   weight = -4
   identifier = "codeofconduct"
   url = "/codeofconduct/"
 
 [[menu.main]]
   name = "Use Cases"
+  parent = "products"
   weight = -3
   identifier = "usecases"
   url = "/usecases/"
 
 [[menu.main]]
   name = "Data"
+  parent = "products"
   weight = -2
   identifier = "data"
   url = "/data/"
