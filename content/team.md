@@ -33,3 +33,6 @@ John Deck is a programmer, farmer, and jack-of-all-trades variously working on b
 <p><figure><img src="/media/Laura1501.jpg"/><figcaption>Laura Brenskelle</figure>
 Laura Brenskelle is a PhD student at the <a href="https://www.floridamuseum.ufl.edu">Florida Museum of Natural History</a> specializing in biodiversity informatics. Her interests include developing standards and methods to integrate heterogeneous biodiversity data, making museum specimen data more widely accessible, and eating cheese (pictured).
 </p>
+ <p><figure><img src="/media/Sewnath_futres.jpg" width="125"><figcaption>Neeka Sewnath</figcaption></figure>
+Neek Sewnath is currently a masters student at the University of Florida. She has a background in  specializing in biodiversity informatics. She has a strong background in coding. She currently works as a honey bee ecotoxicologist.
+</p>
