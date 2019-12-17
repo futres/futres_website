@@ -57,6 +57,13 @@ publishDir = "docs"
   weight = -2
   identifier = "data"
   url = "/data/"
+  
+  [[menu.main]]
+  name = "Outreach"
+  parent = "products"
+  weight = -2
+  identifier = "outreach"
+  url = "/outreach/"
 
 [[menu.main]]
   name = "Products"
