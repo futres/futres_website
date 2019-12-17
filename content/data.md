@@ -11,7 +11,7 @@ FuTRES will deliver all processed trait data via an application programming inte
 
 ## Data added to FuTRES
 
-<b>R.L. Bernor</b>, O. Cirilli, A.M. Jukar, R. Potts, M. Buskianidze, L. Rook. 2019. <a href="https://www.frontiersin.org/articles/10.3389/fevo.2019.00166/full">Evolution of early <i>Equus</i> in Italy, Georgia, the Indian subcontinent, East Africa, and the origins of African zebras.</a> <i>Frontiers in Ecology and Evolution</i>, doi:10.3389/evo.2019.00166
+<b>R.L. Bernor</b>, O. Cirilli, A.M. Jukar, R. Potts, M. Buskianidze, L. Rook. 2019. <a href="https://www.frontiersin.org/articles/10.3389/fevo.2019.00166/full">Evolution of early <i>Equus</i> in Italy, Georgia, the Indian subcontinent, East Africa, and the origins of African zebras.</a> <i>Frontiers in Ecology and Evolution</i>, doi:10.3389/evo.2019.00166 [pdf](./pdf/Bernoretal_2019.pdf)
 
 C.M. Janis and <b>R.L. Bernor</b>. 2019. <a href="https://www.frontiersin.org/articles/10.3389/fevo.2019.00119/full">The evolution of Equid monodactyly: A reivew including a new hypothesis.</a> <i>Frontiers in Ecology and Evolution</i>, doi:10.3389/evo.2019.00119
 
