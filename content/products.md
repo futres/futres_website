@@ -9,7 +9,7 @@ Cirilli, O., L. Pandolfi, <b>R.L. Bernor</b>, and L. Rook.  2019.  Lights and sh
 
 Cirilli, O., <b>R.L. Bernor</b>, and L. Rook.  2019.  New Evidence on the Equidae from the Late Miocene of As Sahabi (MN13; Libya, North Africa). 2019 meeting of the Paleontological Society of Italy, Naples, May 22-24, 2019.
 
-Cirilli, O., A.M. Jukar, R. Potts, L. Rook and <b>R.L. Bernor</b>.  2019 The Deep Time Origin of African Zebras Through the Eurasian “Equus Stenonine” Lineage.  Society of Vertebrate Paleontology. Abstract 163, Brisbane, Australia, 10/9-10/12/2019
+Cirilli, O., A.M. Jukar, R. Potts, L. Rook and <b>R.L. Bernor</b>.  2019 The Deep Time Origin of African Zebras Through the Eurasian “Equus Stenonine” Lineage.  Society of Vertebrate Paleontology. Abstract 163, Brisbane, Australia, 10/9-12/2019
 
 <b>E.B. Davis</b>. 2018. Keeping your data alive with harmonized repositories. Society of Vertebrate Paleontology Meeting, Albuquerque, NM.
 
