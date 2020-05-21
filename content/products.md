@@ -11,7 +11,7 @@ Cirilli, O., L. Pandolfi, <b>R.L. Bernor</b>, and L. Rook.  2019.  Lights and sh
 
 Cirilli, O., <b>R.L. Bernor</b>, and L. Rook.  2019.  New Evidence on the Equidae from the Late Miocene of As Sahabi (MN13; Libya, North Africa). 2019 meeting of the Paleontological Society of Italy, Naples, May 22-24, 2019.
 
-Cirilli, O., A.M. Jukar, R. Potts, L. Rook and <b>R.L. Bernor</b>.  2019 The Deep Time Origin of African Zebras Through the Eurasian “Equus Stenonine” Lineage.  Society of Vertebrate Paleontology. Abstract 163, Brisbane, Australia, 10/9-12/2019
+Cirilli, O., A.M. Jukar, R. Potts, L. Rook and <b>R.L. Bernor</b>.  2019 The Deep Time Origin of African Zebras Through the Eurasian “Equus Stenonine” Lineage.  Society of Vertebrate Paleontology. Abstract 163, Brisbane, Australia, Oct. 9-12, 2019.
 
 <b>E.B. Davis</b>. 2018. Keeping your data alive with harmonized repositories. Society of Vertebrate Paleontology Meeting, Albuquerque, NM.
 
@@ -25,12 +25,9 @@ Barve, N., B, Stucky, K. Riemer, S. Mayor and <b>Guralnick, R.</b>. [Outcome: Re
 
 <b>Guralnick, R.</b>,  M. M. Hantak, D. Li, B. S. McLean. In Press. Body size trends in response to climate and urbanization in the widespread North American deer mouse, Peromyscus maniculatus.  Scientific Reports.
 
-<b>Guralnick, R.</b>,  M. M. Hantak, D. Li, B. S. McLean. Accepted. Body size trends in response to climate and urbanization in the widespread North American deer mouse, Peromyscus maniculatus.  Scientific Reports.
-
 Cirilli O., S.  Zouhri, S. Boughabi , M. Benvenuti, <b>R.L Bernor</b>, M. Papini, and L. Rook. 2020. The hipparionine horses (Perissodactyla: Mammalia) from the Late Miocene of  Tizi N’Tadderht (southern Ouarzazate basin; Central High Atlas; Morocco). Rivista Italiana di Paleontologia e Stratigraphia, Milano 126:1-12. DOI: https://doi.org/10.13130/2039-4942/12716
  
-<b>Bernor, R.L.</b>, G. Semprebon, L S. Avilla, F. Rivals and E. Scott (Editors).  2020.  Examining Evolutionary Trends in Equus and its Close Relatives from Five Continents.  Frontiers in Ecology and Evolution E-Volume. Volume 7, 14 Chapters, 241 pp.
-ISSN 1664-8714, ISBN 978-2-88963-555-9, DOI 10.3389/978-2-88963-555-9.
+<b>Bernor, R.L.</b>, G. Semprebon, L S. Avilla, F. Rivals and E. Scott (Editors).  2020.  Examining Evolutionary Trends in Equus and its Close Relatives from Five Continents.  Frontiers in Ecology and Evolution E-Volume. Volume 7, 14 Chapters, 241 pp. ISSN 1664-8714, ISBN 978-2-88963-555-9, DOI 10.3389/978-2-88963-555-9.
 
 Janis, C.M. and <b>R.L. Bernor</b>.  2019.  The Evolution of Equid Monodactyly: A Review Including a New Hypothesis. Frontiers in Ecology and Evolution 7, Article 119: 1-19. doi: 10.3389/fevo.2019.00119
  
