@@ -19,8 +19,6 @@ Cirilli, O., A.M. Jukar, R. Potts, L. Rook and <b>R.L. Bernor</b>.  2019 The Dee
 
 ## Publications
 
-(7) <b>Guralnick, R.</b>,  M. M. Hantak, D. Li, B. S. McLean. In Press. Body size trends in response to climate and urbanization in the widespread North American deer mouse, Peromyscus maniculatus.  Scientific Reports.
-
 (6) Cirilli O., S.  Zouhri, S. Boughabi , M. Benvenuti, <b>R.L Bernor</b>, M. Papini, and L. Rook. 2020. The hipparionine horses (Perissodactyla: Mammalia) from the Late Miocene of  Tizi N’Tadderht (southern Ouarzazate basin; Central High Atlas; Morocco). Rivista Italiana di Paleontologia e Stratigraphia, Milano 126:1-12. DOI: https://doi.org/10.13130/2039-4942/12716
  
 (5) <b>Bernor, R.L.</b>, G. Semprebon, L S. Avilla, F. Rivals and E. Scott (Editors).  2020.  Examining Evolutionary Trends in Equus and its Close Relatives from Five Continents.  Frontiers in Ecology and Evolution E-Volume. Volume 7, 14 Chapters, 241 pp. ISSN 1664-8714, ISBN 978-2-88963-555-9, DOI 10.3389/978-2-88963-555-9.
