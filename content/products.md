@@ -19,10 +19,6 @@ Cirilli, O., A.M. Jukar, R. Potts, L. Rook and <b>R.L. Bernor</b>.  2019 The Dee
 
 ## Publications
 
-(10) B. McLean and <b>R. Guralnick</b>.  [In Review].  Digital biodiversity datasets reveal breeding phenology and its drivers in a widespread North American mammal. Ecology.
-
-(9) Barve, N., B, Stucky, K. Riemer, S. Mayor and <b>Guralnick, R.</b>. [Outcome: Revise]. Influence of Climate Factors on Endotherm Body Size. Submitted to Global Ecology and Biogeography.
-
 (7) <b>Guralnick, R.</b>,  M. M. Hantak, D. Li, B. S. McLean. In Press. Body size trends in response to climate and urbanization in the widespread North American deer mouse, Peromyscus maniculatus.  Scientific Reports.
 
 (6) Cirilli O., S.  Zouhri, S. Boughabi , M. Benvenuti, <b>R.L Bernor</b>, M. Papini, and L. Rook. 2020. The hipparionine horses (Perissodactyla: Mammalia) from the Late Miocene of  Tizi N’Tadderht (southern Ouarzazate basin; Central High Atlas; Morocco). Rivista Italiana di Paleontologia e Stratigraphia, Milano 126:1-12. DOI: https://doi.org/10.13130/2039-4942/12716
