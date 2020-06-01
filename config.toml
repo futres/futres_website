@@ -46,7 +46,6 @@ publishDir = "docs"
 
 [[menu.main]]
   name = "Use Cases"
-  parent = "products"
   weight = -3
   identifier = "usecases"
   url = "/usecases/"
@@ -57,14 +56,28 @@ publishDir = "docs"
   weight = -2
   identifier = "data"
   url = "/data/"
+
+[[menu.main]]
+  name = "Talks & Papers"
+  parent = "products"
+  weight = -2
+  identifier = "publish"
+  url = "/publish/"
   
-  [[menu.main]]
+[[menu.main]]
+  name = "News"
+  parent = "products"
+  weight = -2
+  identifier = "news"
+  url = "/news/"
+
+[[menu.main]]
   name = "Outreach"
   parent = "products"
   weight = -2
   identifier = "outreach"
   url = "/outreach/"
-
+  
 [[menu.main]]
   name = "Products"
   weight = -2
