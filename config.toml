@@ -53,28 +53,28 @@ publishDir = "docs"
 [[menu.main]]
   name = "Data"
   parent = "products"
-  weight = -2
+  weight = 6 
   identifier = "data"
   url = "/data/"
 
 [[menu.main]]
   name = "Talks & Papers"
   parent = "products"
-  weight = -2
+  weight = 4
   identifier = "publish"
   url = "/publish/"
   
 [[menu.main]]
   name = "News"
   parent = "products"
-  weight = -2
+  weight = 8 
   identifier = "news"
   url = "/news/"
 
 [[menu.main]]
   name = "Outreach"
   parent = "products"
-  weight = -8
+  weight = 10
   identifier = "outreach"
   url = "/outreach/"
   

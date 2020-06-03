@@ -29,9 +29,9 @@
   {{ with .entry }}
     {{ if .HasChildren }}
       <div class="dropdown">
-      <a class="dropbtn" href="{{ .URL}}">{{ .Name }}</a>
+      <a class="dropbtn">{{ .Name }}</a>
 	 <div class="dropdown-content">
-            {{ range .Children }}
+            {{ range .Children.ByWeight }}
 	        <a href="{{ .URL }}">{{ .Name }}</a><br>
             {{ end }}
       	 </div>
