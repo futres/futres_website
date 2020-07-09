@@ -34,8 +34,15 @@ publishDir = "docs"
   parent = "workshop"
   name = "2019 Participants & Organizers"
   weight = -5
-  identifier = "biosketch"
-  url = "/biosketch/"
+  identifier = "biosketch2019"
+  url = "/biosketch2019/"
+ 
+ [[menu.main]]
+  parent = "workshop"
+  name = "2020 Participants & Organizers"
+  weight = -5
+  identifier = "biosketch2020"
+  url = "/biosketch2020/"
 
 [[menu.main]]
   name = "Code of Conduct"
