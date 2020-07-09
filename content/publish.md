@@ -23,7 +23,7 @@ Cirilli, O., A.M. Jukar, R. Potts, L. Rook and <b>R.L. Bernor</b>.  2019 The Dee
 
 (9) 
 
-(8) Barve, N., B, Stucky, K. Riemer, S. Mayor and <b>R. Guralnick<b>. Influence of Climate Factors on Endotherm Body Size. Global Ecology and Biogeography. [In Review]
+(8) Barve, N., B, Stucky, K. Riemer, S. Mayor and <b>R. Guralnick</b>. Influence of Climate Factors on Endotherm Body Size. Global Ecology and Biogeography. [In Review]
 
 (7) McLean, B. and <b>R. Guralnick</b>. Digital biodiversity datasets reveal breeding phenology and its drivers in a widespread North American mammal. Ecology. [In Review]
 
