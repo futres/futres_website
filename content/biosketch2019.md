@@ -1,7 +1,7 @@
 ---
 title: 2019 Participants & Organizers
 language: en
-slug: biosketch
+slug: biosketch2019
 ---
 
 <h1>Participants</h1>
