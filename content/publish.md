@@ -25,7 +25,7 @@ Cirilli, O., A.M. Jukar, R. Potts, L. Rook and <b>R.L. Bernor</b>.  2019 The Dee
 
 (8) McLean, B. and <b>R. Guralnick</b>. Digital biodiversity datasets reveal breeding phenology and its drivers in a widespread North American mammal. Ecology. [In Review]
 
-(7) <b>Guralnick, R., M.M. Hantak, D. Li, B.S. McLean. 2020. <a href="https://www.nature.com/articles/s41598-020-65755-x">Body size trends in response to climate and urbanization in the widespread North American deer mouse, <i>Peromyscus maniculatus</i></a>. Scientific Reports, 10:8882.
+(7) <b>Guralnick</b>, R., M.M. Hantak, D. Li, B.S. McLean. 2020. <a href="https://www.nature.com/articles/s41598-020-65755-x">Body size trends in response to climate and urbanization in the widespread North American deer mouse, <i>Peromyscus maniculatus</i></a>. Scientific Reports, 10:8882.
 
 (6) Cirilli, O., S.  Zouhri, S. Boughabi , M. Benvenuti, <b>R.L Bernor</b>, M. Papini, and L. Rook. 2020. The hipparionine horses (Perissodactyla: Mammalia) from the Late Miocene of  Tizi N’Tadderht (southern Ouarzazate basin; Central High Atlas; Morocco). Rivista Italiana di Paleontologia e Stratigraphia, Milano 126:1-12. doi: https://doi.org/10.13130/2039-4942/12716
  
