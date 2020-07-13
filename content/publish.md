@@ -21,13 +21,13 @@ Cirilli, O., A.M. Jukar, R. Potts, L. Rook and <b>R.L. Bernor</b>.  2019 The Dee
 
 (10) Cirilli, O., M. Melchionna, C. Serio, <b>R.L. Bernor</b>, M. Bukhsianidze, D. Lordkipanidze, L. Rook, A. Profico, P. Raia. 2020. <a href="https://www.frontiersin.org/articles/10.3389/feart.2020.00247/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Earth_Science&id=521626">Target Deformation of the Equus stenonis Holotype Skull: A Virtual Reconstruction</a>. Frontiers in Earth Sciences. doi: https://doi.org/10.3389/feart.2020.00247.
 
-(9) 
+(9) Barve, N., B, Stucky, K. Riemer, S. Mayor and <b>R. Guralnick</b>. Influence of Climate Factors on Endotherm Body Size. Global Ecology and Biogeography. [In Review]
 
-(8) Barve, N., B, Stucky, K. Riemer, S. Mayor and <b>R. Guralnick</b>. Influence of Climate Factors on Endotherm Body Size. Global Ecology and Biogeography. [In Review]
+(8) McLean, B. and <b>R. Guralnick</b>. Digital biodiversity datasets reveal breeding phenology and its drivers in a widespread North American mammal. Ecology. [In Review]
 
-(7) McLean, B. and <b>R. Guralnick</b>. Digital biodiversity datasets reveal breeding phenology and its drivers in a widespread North American mammal. Ecology. [In Review]
+(7) <b>Guralnick, R., M.M. Hantak, D. Li, B.S. McLean. 2020. <a href="https://www.nature.com/articles/s41598-020-65755-x">Body size trends in response to climate and urbanization in the widespread North American deer mouse, <i>Peromyscus maniculatus</i></a>. Scientific Reports, 10:8882.
 
-(6) Cirilli O., S.  Zouhri, S. Boughabi , M. Benvenuti, <b>R.L Bernor</b>, M. Papini, and L. Rook. 2020. The hipparionine horses (Perissodactyla: Mammalia) from the Late Miocene of  Tizi N’Tadderht (southern Ouarzazate basin; Central High Atlas; Morocco). Rivista Italiana di Paleontologia e Stratigraphia, Milano 126:1-12. doi: https://doi.org/10.13130/2039-4942/12716
+(6) Cirilli, O., S.  Zouhri, S. Boughabi , M. Benvenuti, <b>R.L Bernor</b>, M. Papini, and L. Rook. 2020. The hipparionine horses (Perissodactyla: Mammalia) from the Late Miocene of  Tizi N’Tadderht (southern Ouarzazate basin; Central High Atlas; Morocco). Rivista Italiana di Paleontologia e Stratigraphia, Milano 126:1-12. doi: https://doi.org/10.13130/2039-4942/12716
  
 (5) <b>Bernor, R.L.</b>, G. Semprebon, L S. Avilla, F. Rivals and E. Scott (Editors). 2020. Examining Evolutionary Trends in Equus and its Close Relatives from Five Continents. Frontiers in Ecology and Evolution E-Volume. Volume 7, 14 Chapters, 241 pp. ISSN 1664-8714, ISBN 978-2-88963-555-9, doi: 10.3389/978-2-88963-555-9.
 
