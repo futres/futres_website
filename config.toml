@@ -52,10 +52,10 @@ publishDir = "docs"
   url = "/codeofconduct/"
 
 [[menu.main]]
-  name = "Use Cases"
+  name = "Projects"
   weight = -3
-  identifier = "usecases"
-  url = "/usecases/"
+  identifier = "projects"
+  url = "/projects/"
 
 [[menu.main]]
   name = "Data"
