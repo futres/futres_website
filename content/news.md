@@ -6,6 +6,6 @@ slug: news
 
 ## In the News:
 
-<a href="https://www.unifi.it/art-4867-the-development-of-virtual-paleontology.html?newlang=eng">Virtual Paleontology</a> using specimens featured in the FuTRES datastore <b>Omar Cirilli</b> (<a href="https://www.frontiersin.org/articles/10.3389/feart.2020.00247/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Earth_Science&id=521626">#10</a>). Check out the associated <a href="https://drive.google.com/file/d/1ZthJl88CKafWWBCYShGXuejRNzfMSxYm/view">video</a>.
+<a href="https://www.unifi.it/art-4867-the-development-of-virtual-paleontology.html?newlang=eng">Virtual Paleontology</a> using specimens featured in the FuTRES datastore by <a href="https://www.frontiersin.org/articles/10.3389/feart.2020.00247/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Earth_Science&id=521626"><b>Omar Cirilli</b> (#10)</a>. Check out the associated <a href="https://drive.google.com/file/d/1ZthJl88CKafWWBCYShGXuejRNzfMSxYm/view">video</a>.
 
 Read about how <a href="https://www.floridamuseum.ufl.edu/science/mice-are-shrinking/">mice are shrinking</a> based on research by <a href="https://www.nature.com/articles/s41598-020-65755-x"><b>R.L. Guralnick</b> (#7)</a> featured on the Florida Museum website!
