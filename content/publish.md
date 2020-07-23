@@ -18,6 +18,15 @@ Cirilli, O., A.M. Jukar, R. Potts, L. Rook and <b>R.L. Bernor</b>.  2019 The Dee
 <b>E.B. Davis</b>. 2019. Keeping your data alive with harmonized repositories. Western Association of Vertebrate Paleontology, Keynote presentation, Eugene OR.
 
 ## Publications
+(15) Cirilli, O., R.L. Bernor, L. Rook 2020. New Evidences on the Hipparion sample from Il Casino (Siena, Late Miocene, Italy). Preliminary Report. Fossilia – Reports in Paleontology, 2: 9-11, 10.32774/FosRepPal.2020.0603
+
+(14) Machado, H., L. Avilla 2019. The diversity of South American Equus: Did size really matter? Ecology and Evolution 7:235
+
+(13) Baron-Ortiz, C.I., L.S. Avilla, C.N. Jass, V. M. Bravo-Cuevas, H. Machado, D. Mothe 2019. What is Equus? reconciling taxonomy and phylogenetic analyses. Frontiers in Ecology and Evolution 7:343
+
+(12) Cirilli O., S. Zouhri, S. El Boughabi, M.G. Benvenuti, M. Papini, R.L. Bernor, L. Rook 2020. The Hipparionine horse (Perissodactyla: Mammalia) from the Late Miocene of Tizi N’Tadderht) Southern Ouarzazate Basin; Central High Atlas; Morocco). Rivista Italiana di Paleontologia e Stratigrafia, 126, 1-12. https://doi.org/10.13130/2039-4942/12716
+
+(11) Bernor R.L, N.T. Boaz, O. Cirilli, L. Rook 2020. Sahabi Eurygnathohippus feibeli: its systematic, stratigraphic, chronologic and Biogeographic contexts. Rivista Italiana di Paleontologia e Stratigrafia,126: 561-581. 10.13130/2039-4942/13937
 
 (10) Cirilli, O., M. Melchionna, C. Serio, <b>R.L. Bernor</b>, M. Bukhsianidze, D. Lordkipanidze, L. Rook, A. Profico, P. Raia. 2020. <a href="https://www.frontiersin.org/articles/10.3389/feart.2020.00247/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Earth_Science&id=521626">Target Deformation of the Equus stenonis Holotype Skull: A Virtual Reconstruction</a>. Frontiers in Earth Sciences. doi: https://doi.org/10.3389/feart.2020.00247.
 
