@@ -16,7 +16,8 @@ I'm looking forward to learn new methods and contribute with ideas in the functi
    </td>
    <td  width="30%">
      
-<img src="/media/biosketches/jacruz.png" width="200" class="center">
+<
+src="/media/biosketches/jacruz.png" width="200" class="center">
 
 <p>
 <strong>J. Alberto Cruz </strong>
@@ -29,7 +30,7 @@ Paleobiology
   <tr>
    <td width="30%">
 
-<img src="/media/biosketches/avillasenor.png" width="200" class="center">
+<img src="/media/biosketches/2019/avillasenor.png" width="200" class="center">
 
 <p>
 <strong><a href="https://sites.google.com/view/ameliavillasenor/">Amelia Villaseñor</a> </strong>
@@ -49,7 +50,7 @@ I am excited to see how others organize and use their trait-based data to answer
    <td colspan="2" width="70%">My research spans multiple scales from local-scale community ecology and landscape ecology, to global-scale macroecology. My macroecological research uses large, ecoinformatic datasets and ecological modeling to address global-scale issues related to biodiversity loss and endangerment. A major focus of this research centers on developing traits-based and spatially-explicit predictive models of vertebrate risk to help inform conservation priorities.  I have used machine learning and spatial modeling approaches to develop a map of the ecological pathways to extinction across mammals (<a href="http://anadavidson.weebly.com/uploads/1/4/7/3/14734220/davidson_et_al._-_pnas_09_-_pathways_to_exinction_in_mammals.pdf">Davidson et al. 2009, PNAS</a>), and to identify the drivers and global hotspots of extinction risk in marine mammals (<a href="http://anadavidson.weebly.com/uploads/1/4/7/3/14734220/davidson_et_al_-_pnas_2012_-_marine_mammal_extinction_risk.pdf">Davidson et al. 2012, PNAS</a>). I recently worked to uncover geographic drivers of global mammal extinction risk, both today and in the future under changing climate and land use (<a href="http://anadavidson.weebly.com/uploads/1/4/7/3/14734220/davidson_et_al_2017_-_geog_of_current___future_global_mammal_extinction_risk.pdf">Davidson et al. PLoS One 2017</a>). Additionally, colleagues and I have been working to uncover emerging priorities to inform global conservation action by identifying species and regions most vulnerable to extinction and climate disruption, across the dimensions of biodiversity (taxonomic, phylogenetic, and functional) (Murray et al, 2014, GCB , Böhm et al. 2016, GEB, Böhm et al. 2016, Bio Con, <a href="http://anadavidson.weebly.com/uploads/1/4/7/3/14734220/brum_et_al_2017_pnas_-_global_priority_areas_for_mammals.pdf">Brum et al., PNAS 2017</a>).
    </td>
    <td width="30%">
-<img src="/media/biosketches/adavidson.jpg" width="200" class="center">
+<img src="/media/biosketches/2019/adavidson.jpg" width="200" class="center">
 <p>
   <strong><a href="http://anadavidson.weebly.com/">Ana Davidson</a></strong>
 <p>
@@ -61,7 +62,7 @@ Mammalogy
   <tr>
    <td width="30%">
 
-<img src="/media/biosketches/bmclean.jpg" width="200" class="center">
+<img src="/media/biosketches/2019/bmclean.jpg" width="200" class="center">
 
 <p>
 <strong><a href="https://bryanmclean.weebly.com/">Bryan McLean</a> </strong>
@@ -92,7 +93,7 @@ Relevant papers:  <a href="https://academic.oup.com/jmammal/article/100/2/285/54
    </td>
    <td width="30%">
 
-<img src="/media/biosketches/bkohli.jpg" width="200" class="center">
+<img src="/media/biosketches/2019/bkohli.jpg" width="200" class="center">
 
 <p>
 <strong><a href="https://brookskohli.weebly.com/">Brooks Kohli</a></strong>
@@ -107,7 +108,7 @@ Mammalogy
   <tr>
    <td width="30%">
 
-<img src="/media/biosketches/cjanis.jpg" width="200" class="center">
+<img src="/media/biosketches/2019/cjanis.jpg" width="200" class="center">
 
 <p>
 <strong><a href="https://vivo.brown.edu/display/cjanis">Christine Janis</a></strong>
@@ -132,7 +133,7 @@ Pdfs of my recent publications are available on my website at <a href="http://de
    </td>
    <td width="30%">
 
-<img src="/media/biosketches/dreed.jpg" width="200" class="center">
+<img src="/media/biosketches/2019/dreed.jpg" width="200" class="center">
 
 <p>
 <strong><a href="https://paleocore.org">Denné Reed </a></strong>
@@ -147,7 +148,7 @@ Paleoanthropology
   <tr>
    <td width="30%">
 
-<img src="/media/biosketches/gsemprebon.jpg" width="200" class="center">
+<img src="/media/biosketches/2019/gsemprebon.jpg" width="200" class="center">
 
 <p>
 <strong><a href="https://sites.google.com/site/ginasemprebon/">Gina Semprebon</a></strong>
@@ -172,7 +173,7 @@ A list of my lab’s current work can be found on our website (<a href="https://
    </td>
    <td width="30%">
 
-<img src="/media/biosketches/jblois.jpg" width="200" class="center">
+<img src="/media/biosketches/2019/jblois.jpg" width="200" class="center">
 
 <p>
 <strong><a href="https://jessicablois.com/">Jessica Blois</a></strong>
@@ -215,7 +216,7 @@ Archaeozoology and Vertebrate Paleontology
    </td>
    <td width="30%">
 
-<img src="/media/biosketches/jsaarinen.png" width="200" class="center">
+<img src="/media/biosketches/2019/jsaarinen.png" width="200" class="center">
 
 <p>
 <strong>Juha Saarinen </strong>
@@ -242,7 +243,7 @@ Anatomy/Comparative anatomy
 </td>
    <td width="30%">
 
-<img src="/media/biosketches/lyohe.png" width="200" class="center">
+<img src="/media/biosketches/2019/lyohe.png" width="200" class="center">
 
 <p>
 <strong>Laurel R. Yohe</strong>
@@ -255,7 +256,7 @@ Tetrapods
   <tr>
    <td width="30%">
 
-<img src="/media/biosketches/ldavalos.jpg" width="200" class="center">
+<img src="/media/biosketches/2019/ldavalos.jpg" width="200" class="center">
 
 <p>
 <strong><a href="https://scholar.google.com/citations?hl=en&user=XSwScHgAAAAJ">Liliana Davalos</a></strong>
@@ -280,7 +281,7 @@ I love hiking and looking for salamanders, so I would love to get outside a bit 
    </td>
    <td width="30%">
 
-<img src="/media/biosketches/mhantak.jpg" width="200" class="center">
+<img src="/media/biosketches/2019/mhantak.jpg" width="200" class="center">
 
 <p>
 <strong>Maggie Hantak</strong>
@@ -295,7 +296,7 @@ Vertebrates
   <tr>
    <td width="30%">
 
-<img src="/media/biosketches/mmorgan.png" width="200" class="center">
+<img src="/media/biosketches/2019/mmorgan.png" width="200" class="center">
 
 <p>
 <strong>Michèle Morgan</strong>
@@ -340,7 +341,7 @@ Unfortunately, I’m unable to attend the meeting in person in Oregon, but I wil
    </td>
    <td width="30%">
 
-<img src="/media/biosketches/mlawing.png" width="200" class="center">
+<img src="/media/biosketches/2019/mlawing.png" width="200" class="center">
 <p>
 <strong><a href="http://people.tamu.edu/~alawing/">Michelle Lawing</a></strong>
 <p>
@@ -382,7 +383,7 @@ I am looking forward to meeting everyone and getting to see a little bit of what
    </td>
    <td width="30%">
 
-<img src="/media/biosketches/spilaarbirch.png" width="200" class="center">
+<img src="/media/biosketches/2019/spilaarbirch.png" width="200" class="center">
 
 <p>
 <strong><a href="https://research.franklin.uga.edu/quaternary">Suzanne Pilaar Birch</a></strong>
@@ -403,7 +404,7 @@ Zooarchaeology
   <tr>
    <td width="30%">
 
-<img src="/media/biosketches/edavis.png" width="200" class="center">
+<img src="/media/biosketches/2019/edavis.png" width="200" class="center">
 
 <p>
 <strong>Edward Davis</strong>
@@ -438,7 +439,7 @@ A couple of relevant publications:
    </td>
    <td width="30%">
 
-<img src="/media/biosketches/jdeck.png" width="200" class="center">
+<img src="/media/biosketches/2019/jdeck.png" width="200" class="center">
 
 <p>
 <strong>John Deck</strong>
@@ -453,7 +454,7 @@ Tech Team
   <tr>
    <td width="30%">
 
-<img src="/media/biosketches/kemery.jpg" width="200" class="center">
+<img src="/media/biosketches/2019/kemery.jpg" width="200" class="center">
 
 <p>
 <strong>Kitty Emery</strong>
@@ -496,7 +497,7 @@ I am looking forward to the Pacific Northwest weather, especially since Gainesvi
    </td>
    <td width="30%">
   
-<img src="/media/biosketches/lbrenskelle.jpg" width="200" class="center">
+<img src="/media/biosketches/2019/lbrenskelle.jpg" width="200" class="center">
 
 <p>
 <strong>Laura Brenskelle</strong>
@@ -511,7 +512,7 @@ Biodiversity Informatics
   <tr>
    <td width="30%">
 
-<img src="/media/biosketches/mbalk.jpg" width="200" class="center">
+<img src="/media/biosketches/2019/mbalk.jpg" width="200" class="center">
 
 <p>
 <strong><a href="https://sites.google.com/view/megbalk">Meghan Balk </a></strong>
@@ -543,7 +544,7 @@ I am looking forward to spending a week in a place it is under 100 degrees.
    </td>
    <td width="30%">
 
-<img src="/media/biosketches/rwalls.png" width="200" class="center">
+<img src="/media/biosketches/2019/rwalls.png" width="200" class="center">
 
 <p>
 <strong>Ramona Walls</strong>
@@ -558,7 +559,7 @@ Ontologies
   <tr>
    <td width="30%">
 
-<img src="/media/biosketches/rbernor.png" width="200" class="center">
+<img src="/media/biosketches/2019/rbernor.png" width="200" class="center">
 
 <p>
 <strong>Ray Bernor</strong>
@@ -585,7 +586,7 @@ An informatics-oriented paper:
    </td>
    <td width="30%">
 
-<img src="/media/biosketches/rguralnick.png" width="200" class="center">
+<img src="/media/biosketches/2019/rguralnick.png" width="200" class="center">
 
 <p>
 <strong><a href="https://sites.google.com/site/robgur/">Rob Guralnick </a></strong>
