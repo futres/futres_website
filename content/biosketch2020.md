@@ -1060,3 +1060,212 @@ ETA: I’m excited to “see” everyone again this year and meet those who are 
 </table>
 
 <h1>Organizers </h1>
+
+<table>
+  <tr>
+   <td width="30%">
+    <img src="/media/biosketches/2020/EDavis.png" width="200" class="center">
+    <strong>Edward Davis</strong>
+    <p>
+    University of Oregon
+    <p>
+    Paleobiology
+    <p>
+   </td>
+   <td colspan="2" width="70%">My research focuses on the evolution of morphology and species distributions in the context of changing environments. My data contribution will be mostly through supporting the ingestion of legacy paleo data from the literature, because I have funding from NSF to support graduate student effort in data mining.
+<p>
+I would like to see a growing user base arise from this workshop. I am hoping to get some guidance from the workshop participants in what areas I should have my graduate students focus for their data mining activities.
+<p>
+<a href="https://academic.oup.com/jmammal/article/90/6/1449/901095">Here’s a paper on ecomorphology in small mammals</a>
+<p>
+<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0146221">And here’s a fun paper on rhinoceros arthritis over the last 50 million years</a>
+<p>
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" width="70%">John is a biodiversity information and farmer, variously engaged with persistent identifiers, ontologies, welding, global data architecture, and baling ensiled grass.  John is actively engaged with creating and improving the Genomic Observatories Meta-database (GEOME), and annotating trait and phenological data with ontologies.  In his spare time he hangs out with his two granddaughters, hunts cougars, and reads science and historical fiction. 
+<p>
+ 
+<p>
+A couple of relevant publications:
+<p>
+<strong>Deck, J</strong>, Gaither M, Ewing R, et al. “The Genomic Observatories Metadatabase (GeOMe): A new repository for field and sampling event metadata associated with genetic samples”, PLOSBiology 2017. doi:10.1371/journal.pbio.2002925
+<p>
+ 
+<p>
+<strong>Deck, J</strong>. Guralnick, R, Walls, R,  et al. “<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5MNl30UAAAAJ&sortby=pubdate&citation_for_view=5MNl30UAAAAJ:WF5omc3nYNoC">Meeting report: Identifying practical applications of ontologies for biodiversity informatics</a>”, Standards in Genomic Sciences 10 (1), 2015
+   </td>
+   <td width="30%">
+
+<img src="/media/biosketches/2020/JDeck.png" width="200" class="center">
+<p>
+<strong>John Deck</strong>
+<p>
+Berkeley Natural History Museums, UC Berkeley
+<p>
+Biocode, LLC
+<p>
+Tech Team
+ <p>
+   </td>
+  </tr>
+  <tr>
+   <td width="30%">
+
+<img src="/media/biosketches/2020/KEmery.jpg" width="200" class="center">
+<p>
+<strong>Kitty Emery</strong>
+<p>
+Florida Museum of Natural History, University of Florida
+<p>
+<a href="https://www.floridamuseum.ufl.edu/envarch/">Environmental Archaeology</a>
+<p>
+Zooarchaeology
+<p>
+<a href="https://twitter.com/ZooArchNet">@ZooArchNet</a>
+   </td>
+   <td colspan="2" width="70%">Hi everyone! I'm an environmental archaeologist with a specialty in zooarchaeology. I love tromping around in the forests and mountains of Central America digging up data on the ancient relationship between people, animals, and environments.  
+<p>
+Together with a super team of fun folks, Rob Guralnick and I have been developing <a href="https://zooarchnet.org/">ZooArchNet</a>, a platform designed to mobilize Darwin-core enabled zooarchaeological data into the biodiversity network while linking it to open archaeological data publishers. These "early anthropocene" specimen data allow us to bridge the gap between paleontology and neontology, providing pre-human baselines and lessons about human environmental decision-making. 
+<p>
+Sharing specimen data means sharing attribute data - so the collaborative research potential of FuTRES is super exciting and I'm looking forward to lots of brainstorming with all the participants in Oregon.
+<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0215369">ZooArchNet: Connecting zooarchaeological specimens to the biodiversity and archaeology data networks</a>
+
+
+<p>
+<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0042630">Earliest Mexican turkeys in the Maya area</a>
+<p>
+<a href="https://www.isdistribution.com/BookDetail.aspx?aId=23181">Archaeology of Mesoamerican Animals</a>
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" width="70%">
+My expertise is in body size. I study how and why vertebrates are the size that they are. I use both a micro- and macro-scopic approach by testing body size ‘rules’ across space, time, and levels of biotic organization. 
+  <p>
+ 
+ <p>
+I am currently a postdoctoral research associate working with the FuTRES (Functional Trait Resource for Environmental Studies) team to develop a way to search and aggregate specimen-level trait data. I am helping to build the ontology by working with the community (you!) to define commonly measured vertebrate traits. 
+<p>
+  
+<p>
+Through this workshop, I hope to see what the needs of the community are, and how to better ingest data.
+  <p>
+  
+<p>
+Relevant papers:
+<a href="https://www.researchgate.net/publication/332352194_The_Open_Traits_Network_Using_Open_Science_principles_to_accelerate_trait-based_science_across_the_Tree_of_Life">OpenTraitsNetwork</a>
+
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4304853/">Sizing Ocean Giants</a>
+
+<a href="https://www.cambridge.org/core/journals/quaternary-research/article/investigating-asymmetry-in-a-small-mammals-response-to-warming-and-cooling-events-across-western-north-america-over-the-late-quaternary/40EEA17F5CBE40383E3132746D8DEDDB">Investigating (a)symmetrical body size evolution of a small mammal to climate change</a>
+
+   </td>
+   <td width="30%">
+  
+<img src="/media/biosketches/2019/mbalk.jpg" width="200" class="center">
+
+<p>
+<strong><a href="https://sites.google.com/view/megbalk">Meghan Balk </a></strong>
+<p>
+University of Arizona
+<p>
+Paleobiology
+<p>
+<a href="https://twitter.com/MegBalk">@MegBalk</a>
+   </td>
+  </tr>
+  <tr>
+   <td width="30%">
+
+<p>
+
+<p>
+<strong>Neeka Sewnath/a></strong>
+<p>
+University of Florida
+<p>
+Informatics
+<p>
+   </td>
+   <td colspan="2" width="70%">
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" width="70%">My research focuses on ontology-based data integration, ontology design, and identifier services for large and dispersed datasets. Although my background (and first love) is in the ecology and evolution of plants, my work is not restricted to plant science and includes many domains. I am an active member of the biodiversity standards community, including TDWG (Biodiversity Information Standards), GSC (Genomics Standards Consortium), and the OBO Foundry. As the senior science informatician at CyVerse, I am primarily responsible for organizing things, so I work on initiatives related to data management and integration, metadata use and harmonization, and incorporating ontologies into CyVerse cyberinfrastructure. 
+<p>
+<ul>
+
+<li>A paper on using <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0089606">ontologies in biodiversity</a>.
+
+<li>A paper on <a href="https://content.sciendo.com/view/journals/dim/3/1/article-p26.xml">identifiers and metadata</a>.
+
+<li><a href="https://scholar.google.com/citations?hl=en&user=rEhRmsYAAAAJ&view_op=list_works&sortby=pubdate">My google scholar profile</a>.
+</li>
+</ul>
+   </td>
+   <td width="30%">
+
+<img src="/media/biosketches/2020/RWalls.png" width="200" class="center">
+
+<p>
+<strong>Ramona Walls</strong>
+<p>
+University of Arizona
+<p>
+Ontologies
+<p>
+<a href="https://twitter.com/Ramona_Walls">@Ramona_Walls</a>
+   </td>
+  </tr>
+  <tr>
+   <td width="30%">
+
+<img src="/media/biosketches/2019/rbernor.png" width="200" class="center">
+
+<p>
+<strong>Ray Bernor</strong>
+<p>
+Howard University
+<p>
+Paleobiology
+   </td>
+   <td colspan="2" width="70%">I am an evolutionary biologist/vertebrate paleontologist that works mostly in the Neogene and Quaternary of Eurasia and Africa.  I am concerned with large mammals, but within this group I work on  fossil and recent Equidae.  I frame large mammal evolution within a chronologic and biogeographic framework to understand the relationships between tectonics, climate change, environmental response, mammalian evolution and biogeographic distribution patterns.  The image to the right includes a small part of the extant zebras in the National Museum of Kenya, Nairobi that I am studying along with their Pleistocene representatives.
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" width="70%">Rob is a biodiversity scientist who, in part, works on trait ecology and evolution from the domain side.  But he also is strongly interested in trait assembly from the informatics side as well.   He is one of the FuTRES PIs.
+<p>
+A domain-relevant paper:
+<p>
+<a href="https://www.pnas.org/content/pnas/early/2019/05/09/1817999116.full.pdf">Folk, R. A, R. L. Stubbs, M. E. Mort, J. M. Allen, P. Soltis, D. E. Soltis* and R. P. Guralnick*. 2019.  Rates of niche and phenotype evolution lag behind diversification in a temperate radiation.  Proceedings of the National Academy of Sciences. </a> 
+<p>
+An informatics-oriented paper:
+<p>
+<a href="https://www.nature.com/articles/s41559-018-0667-3.pdf">Kissling, D, R. Walls, A. Bowser, M. O. Jones, J. Kattge, D. Agosti, J. Amengual, A. Basset, P. M. van Bodegom  , J. H. C. Cornelissen, E. G. Denny, S. Deudero, W. Egloff , S. C. Elmendorf, E. A. García, K. D. Jones, O. R. Jones , S. Lavorel, D. Lear, L. M. Navarro,, S. Pawar , R. Pirzl, N. Rüger, S. Sal, R. Salguero-Gómez, D. Schigel, K-S Schulz, A. Skidmore, & R. P. Guralnick*.  2018.  Towards global data products of Essential Biodiversity Variables (EBVs) on species traits.  Nature Ecology and Evolution 2:1531–1540.</a>
+   </td>
+   <td width="30%">
+
+<img src="/media/biosketches/2020/RGuralnick.png" width="200" class="center">
+
+<p>
+<strong><a href="https://sites.google.com/site/robgur/">Rob Guralnick </a></strong>
+<p>
+University of Florida
+<p>
+Informatics/Interdisciplinary
+   </td>
+  </tr>
+ <tr>
+   <td width="30%">
+
+<img src="/media/biosketches/2020/KJoyce.png" width="200" class="center">
+
+<p>
+  <strong><a href="mailto:kathy@mkjoyceassociates.com">Kathy Joyce</a></strong>
+<p>
+President, M. Kathleen Joyce & Associates
+  </td>
+   <td colspan="2" width="70%">I am President and Principal Consultant of M. Kathleen Joyce & Associates, a small, woman-owned business that has successfully served clients for more than 25 years. I work mainly with science and health organizations, including universities. My areas of expertise are meeting planning and facilitation, education about teamwork and communication, strategic and implementation planning, and organization development consulting. In partnership with the <a href="https://www.aibs.org/home/index.html">American Institute of Biological Sciences</a>, I developed and facilitate a two-day hands-on workshop <a href="https://www.aibs.org/events/team_science_event.html">Enabling Interdisciplinary and Team Science</a>, which we have offered in Washington DC, and  on-site at universities across the nation. (Given COVID, the workshop is currently offered via video). I’m thrilled to facilitate this meeting and learn more about FuTRES and to hear everyone’s creative ideas!
+   </td>
+  </tr>
+</table>
