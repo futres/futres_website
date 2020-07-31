@@ -16,7 +16,7 @@ slug: biosketch2020
 I am currently investigating changes in large mammal occurrences in the Indian Subcontinent over the last 4 million years, and look forward to learning about ways to standardize my data, and share ecomorphological data that I have collected over the years.
     </td>
    <td  width="30%">
-     <img src="/media/biosketches/2020/AJukar.png" width="200" class="center">
+     <img src="/media/biosketches/2020/AJukar.jpg" width="200" class="center">
   <p>
      <strong><a href="https://advaitjukar.weebly.com/">Advait Jukar</a></strong>
      <p>
@@ -30,7 +30,7 @@ I am currently investigating changes in large mammal occurrences in the Indian S
   
   <tr>
    <td width="30%">
-     <img src="/media/biosketches/2020/AShupinksi.png" width="200" class="center">
+     <img src="/media/biosketches/2020/AShupinksi.jpg" width="200" class="center">
      <p>
        <strong>Alexandra Shupinkski</strong
      <p>
@@ -122,7 +122,7 @@ I would like to gain new informatics and analytical skills while connecting with
   
   <tr>
    <td width="30%">
-     <img src="/media/biosketches/2020/BPobiner.png" width="200" class="center">
+     <img src="/media/biosketches/2020/BPobiner.jpg" width="200" class="center">
      <p>
        <strong><a href="https://humanorigins.si.edu/about/human-origins-program-team/briana-pobiner">Briana Pobiner</a></strong
      <p>
@@ -150,7 +150,7 @@ During my studies I’ve learned that zooarchaeologists are important contributo
 I’m looking forward to learning how FuTRES can help increase access to datasets across disciplines for more informed and collaborative research.
    </td>
    <td  width="30%">
-     <img src="/media/biosketches/2020/BMistretta.png" width="200" class="center">
+     <img src="/media/biosketches/2020/BMistretta.jpg" width="200" class="center">
      <p>
        <strong><a href="http://www.bamarchaeology.com/">Brittany Mistretta</a></strong>
      <p>
@@ -162,7 +162,7 @@ I’m looking forward to learning how FuTRES can help increase access to dataset
   
   <tr>
    <td width="30%">
-     <img src="/media/biosketches/2020/BKohli.png" width="200" class="center">
+     <img src="/media/biosketches/2020/BKohli.jpg" width="200" class="center">
      <p>
        <strong><a href="https://brookskohli.weebly.com/">Brooks Kohli</a></strong
      <p>
@@ -198,7 +198,7 @@ Most of my trait datasets are taxon-centric (North American rodents) and consist
     <a href="https://scholar.google.com/citations?user=DPABkrgAAAAJ&hl=en">Google Scholar Profile</a>
    </td>
    <td  width="30%">
-    <img src="/media/biosketches/2020/BMcLean.png" width="200" class="center">
+    <img src="/media/biosketches/2020/BMcLean.jpg" width="200" class="center">
     <p>
       <strong><a href="https://bryanmclean.weebly.com/">Bryan McLean</a></strong>
     <p>
@@ -212,7 +212,7 @@ Most of my trait datasets are taxon-centric (North American rodents) and consist
   
   <tr>
    <td width="30%">
-     <img src="/media/biosketches/2020/CCrawford.png" width="200" class="center">
+     <img src="/media/biosketches/2020/CCrawford.jpg" width="200" class="center">
      <p>
        <strong>Callie Crawford</strong
      <p>
@@ -242,7 +242,7 @@ I am looking forward to this workshop and learning how to use the FuTRES framewo
     <a href="https://vivo.brown.edu/display/cjanis">My Brown University webpage</a> has links to my publications.
    </td>
    <td  width="30%">
-     <img src="/media/biosketches/2020/CJanis.png" width="200" class="center">
+     <img src="/media/biosketches/2020/CJanis.jpg" width="200" class="center">
      <p>
     <strong>Christine Janis</strong>
      <p>
@@ -324,7 +324,7 @@ Examples of recent papers from my lab with traits:
 <a href="https://bioone.org/journals/journal-of-herpetology/volume-53/issue-4/19-044/First-Record-of-the-Anuran-Family-Rhinophrynidae-from-the-Oligocene/10.1670/19-044.full">Blackburn et al. 2019. First record of the anuran family Rhinophrynidae from the Oligocene of eastern North America. Journal of Herpetology.</a>
    </td>
    <td  width="30%">
-     <img src="/media/biosketches/2020/DBlackburn.png" width="200" class="center">
+     <img src="/media/biosketches/2020/DBlackburn.jpg" width="200" class="center">
      <p>
        <strong><a href="https://www.blackburnlab.org/">David Blackburn</a></strong>
      <p>
@@ -370,7 +370,7 @@ I’ve always been a believer in sharing data so that science can progress and l
 A sampling of my publications and other background may be found on <a href="https://www.researchgate.net/profile/Gina_Semprebon">Research Gate</a>.
    </td>
    <td  width="30%">
-     <img src="/media/biosketches/2020/GSemprebon.png" width="200" class="center">
+     <img src="/media/biosketches/2020/GSemprebon.jpg" width="200" class="center">
      <p>
        <strong><a href="https://sites.google.com/site/ginasemprebon/
   ">Gina Semprebon</a></strong>
@@ -383,7 +383,7 @@ A sampling of my publications and other background may be found on <a href="http
   
   <tr>
    <td width="30%">
-     <img src="/media/biosketches/2020/HMachado.png" width="200" class="center">
+     <img src="/media/biosketches/2020/HMachado.jpg" width="200" class="center">
      <p>
        <strong>Helena Machado</strong
      <p>
@@ -407,7 +407,7 @@ Here’s a paper on <a href="https://www.frontiersin.org/articles/10.3389/fevo.2
 My archaeological research interests include how and why people move across landscapes, what role subsistence plays in site choice, impacts on faunal communities from seasonal and climatic environmental changes, and exploring their resiliency to change. My dissertation research is focused on faunal assemblages from the last ~4,000-2,500 years within the Florida Everglades, a dynamic freshwater wetlands ecosystem.
    </td>
    <td  width="30%">
-     <img src="/media/biosketches/2020/JGreenb.png" width="200" class="center">
+     <img src="/media/biosketches/2020/JGreen.png" width="200" class="center">
      <p>
        <strong>Jennifer Green</strong>
      <p>
@@ -419,7 +419,7 @@ My archaeological research interests include how and why people move across land
   
   <tr>
    <td width="30%">
-     <img src="/media/biosketches/2020/JMcGuire.png" width="200" class="center">
+     <img src="/media/biosketches/2020/JMcGuire.jpg" width="200" class="center">
      <p>
        <strong><a href="http://www.mcguire.gatech.edu/">Jenny McGuire</a></strong
      <p>
@@ -503,7 +503,7 @@ My archaeological research interests include how and why people move across land
 I am interested in the discussion of databases of trait data at the specimen level and the species level. I am currently working on assembling several body size databases including a 20,000 specimen database of geomyoid body masses.
    </td>
    <td  width="30%">
-     <img src="/media/biosketches/2020/JCalede.png" width="200" class="center">
+     <img src="/media/biosketches/2020/JCalede.jpg" width="200" class="center">
      <p>
        <strong>Jonathan Calede</strong>
      <p>
@@ -543,7 +543,7 @@ I regularly collect trait data (mainly measurements of skull and teeth of mammal
     <a href="https://scholar.google.fr/citations?user=o7vBlbcAAAAJ&hl=en">Google Scholar</a>
  </td>
    <td  width="30%">
-     <img src="/media/biosketches/2020/JCarrillo.png" width="200" class="center">
+     <img src="/media/biosketches/2020/JCarrillo.jpg" width="200" class="center">
      <p>
        <strong><a href="https://paleo.mnhn.fr/fr/annuaire/juan-carrillo-6000">Juan D. Carrillo</a></strong>
      <p>
@@ -584,7 +584,7 @@ I regularly collect trait data (mainly measurements of skull and teeth of mammal
   
   <tr>
    <td width="30%">
-     <img src="/media/biosketches/2020/LBrenskelle.png" width="200" class="center">
+     <img src="/media/biosketches/2020/LBrenskelle.jpg" width="200" class="center">
      <p>
        <strong>Laura Brenskelle</strong
      <p>
@@ -634,7 +634,7 @@ I regularly collect trait data (mainly measurements of skull and teeth of mammal
   
   <tr>
    <td width="30%">
-     <img src="/media/biosketches/2020/LBarrow.png" width="200" class="center">
+     <img src="/media/biosketches/2020/LBarrow.jpg" width="200" class="center">
      <p>
        <strong><a href="https://barrowevobio.wixsite.com/lisabarrow">Lisa Barrow</a></strong
      <p>
@@ -656,7 +656,7 @@ As of January 2021, I will be Assistant Professor and Curator of Herpetology at 
    <td colspan="2" width="70%">I am a PhD Candidate in the Department of Anthropology at UC Berkeley. My research sits at the intersection of anthropological archaeology and historical ecology, focusing on indigenous stewardship of aquatic ecosystems in Central America and relations with fish and shellfish communities. I also explores the effects that natural disasters, such as volcanic events, have had on these ecosystems and the humans who lived with them in order to contemplate more sustainable ways of being in the wake of anthropogenic climate change. I currently directs Darién Profundo, which takes a deep history approach to the Darién Province of Panama and partners with community members and a team of ecologists from the Universidad Tecnológica de Panamá.
    </td>
    <td  width="30%">
-     <img src="/media/biosketches/2020/LGill.png" width="200" class="center">
+     <img src="/media/biosketches/2020/LGill.jpg" width="200" class="center">
      <p>
        <strong>Lucy Gill</strong>
      <p>
@@ -671,7 +671,7 @@ As of January 2021, I will be Assistant Professor and Curator of Herpetology at 
   
   <tr>
    <td width="30%">
-     <img src="/media/biosketches/2020/MHantak.png" width="200" class="center">
+     <img src="/media/biosketches/2020/MHantak.jpg" width="200" class="center">
      <p>
        <strong>Maggie Hantak</strong
      <p>
@@ -693,7 +693,7 @@ As of January 2021, I will be Assistant Professor and Curator of Herpetology at 
 I am keen to learn about new methods of analysing and sharing data about function trait diversity and distributions to apply these to my research and to expand available datasets. 
    </td>
    <td  width="30%">
-     <img src="/media/biosketches/2020/MJohnson.png" width="200" class="center">
+     <img src="/media/biosketches/2020/MJohnson.jpg" width="200" class="center">
       <p>
         <strong><a href="https://www.ucl.ac.uk/archaeology/people/research-students/mark-johnson">Mark Johnson</a></strong>
      <p>
@@ -772,7 +772,7 @@ I am always interested in learning about new ways to curate and analyze these ty
   
   <tr>
    <td width="30%">
-     <img src="/media/biosketches/2020/MKoo.png" width="200" class="center">
+     <img src="/media/biosketches/2020/MKoo.jpg" width="200" class="center">
      <p>
        <strong>Michelle Koo</strong
      <p>
@@ -801,7 +801,7 @@ Many of my publications compare life-history and morphological traits among anur
     I am also on <a href="https://amphibiaweb.org/">AmphibiaWeb</a>’s trait committee. 
    </td>
    <td  width="30%">
-     <img src="/media/biosketches/2020/MWomack.png" width="200" class="center">
+     <img src="/media/biosketches/2020/MWomack.jpg" width="200" class="center">
      <p>
        <strong>Molly Womack</strong>
      <p>
@@ -813,7 +813,7 @@ Many of my publications compare life-history and morphological traits among anur
   
   <tr>
    <td width="30%">
-     <img src="/media/biosketches/2020/MChurchill.png" width="200" class="center">
+     <img src="/media/biosketches/2020/MChurchill.jpg" width="200" class="center">
      <p>
        <strong>Morgan Churchill</strong
      <p>
@@ -849,7 +849,7 @@ A reasonably up to date list of my publications can be found on <a href="https:/
   
   <tr>
    <td width="30%">
-     <img src="/media/biosketches/2020/NUpham.png" width="200" class="center">
+     <img src="/media/biosketches/2020/NUpham.jpg" width="200" class="center">
      <p>
        <strong><a href="https://n8u.org/">Nate Upham</a></strong
      <p>
@@ -942,7 +942,7 @@ Recently, with my research group, I have developed a new method to retrodeform f
 You can check my research activity on <a href="https://www.researchgate.net/profile/Omar_Cirilli">my ResearchGate webpage</a>. 
    </td>
    <td  width="30%">
-     <img src="/media/biosketches/2020/OCirilli.png" width="200" class="center">
+     <img src="/media/biosketches/2020/OCirilli.jpg" width="200" class="center">
      <p>
        <strong>Omar Cirilli</strong>
      <p>
@@ -956,7 +956,7 @@ You can check my research activity on <a href="https://www.researchgate.net/prof
   
   <tr>
    <td width="30%">
-     <img src="/media/biosketches/2020/RShort.png" width="200" class="center">
+     <img src="/media/biosketches/2020/RShort.jpg" width="200" class="center">
      <p>
        <strong>Rachel Short</a> </strong
       <p>
@@ -972,7 +972,7 @@ You can check my research activity on <a href="https://www.researchgate.net/prof
    <td colspan="2" width="70%">I am Executive Director of the Alexandria Archive Institute, the non-profit organization that develops Open Context. In this capacity, I collaborate on projects that advance data publishing and data literacy in various archaeological and cultural heritage communities. I have a PhD in archaeology (University of Edinburgh) and have spent more than 25 years conducting zooarchaeological research at sites in the Near East and Europe. I am President of the International Council for Archaeozoology (2018-2022 term) and a member of the Digital Technology Committee of the Archaeological Institute of America (AIA). I also served on the Publications Committee for the Society for American Archaeology (SAA) and the American Schools of Oriental Research (ASOR). I am the series co-editor for Archaeobiology (Lockwood Press) and Executive Editor of Open Context. 
    </td>
    <td  width="30%">
-     <img src="/media/biosketches/2020/SKansa.png" width="200" class="center">
+     <img src="/media/biosketches/2020/SKansa.jpg" width="200" class="center">
      <p>
        <strong>Sarah Kansa</strong>
      <p>
@@ -1014,7 +1014,7 @@ I’m a beginner in R and willing to try and gather as many skills as possible i
 In addition to isotopic analyses, I maintain a skeletal collection of fauna, including chimpanzees, collected opportunistically at Kibale National Park, Uganda, and I am interested in digitizing specimens to make the collections accessible worldwide.
    </td>
    <td  width="30%">
-     <img src="/media/biosketches/2020/SNelson.png" width="200" class="center">
+     <img src="/media/biosketches/2020/SNelson.jpg" width="200" class="center">
      <p>
        <strong><a href="https://svnelson.wixsite.com/svnelson">Sherry Nelson</a></strong>
      <p>
@@ -1027,7 +1027,7 @@ In addition to isotopic analyses, I maintain a skeletal collection of fauna, inc
   <tr>
    <td width="30%">
      <p">
-     <strong>Silvia Pineda=Muñoz</strong
+     <strong>Silvia Pineda-Muñoz</strong
      <p>
      Georgia Tech
      <p>
@@ -1041,7 +1041,7 @@ In addition to isotopic analyses, I maintain a skeletal collection of fauna, inc
    <td colspan="2" width="70%">Hello! I’m looking forward to learning a lot from everyone at the workshop. I’m interested in paleontology, evolution, ontogeny, paleoecology, functional morphology, and morphometrics. Lately, I’ve been most interested in the role of developmental plasticity, and behavior during life, in shaping functional traits. My research has focused on the morphology, taxonomy, paleoecology, and evolution of Old World monkeys, especially from the Plio-Pleistocene of eastern Africa. 
    </td>
    <td  width="30%">
-     <img src="/media/biosketches/2020/SFrost.png" width="200" class="center">
+     <img src="/media/biosketches/2020/SFrost.jpg" width="200" class="center">
      <p>
        <strong>Stephen Frost</strong>
      <p>
@@ -1201,7 +1201,7 @@ Relevant papers:
    </td>
    <td width="30%">
   
-<img src="/media/biosketches/2019/mbalk.jpg" width="200" class="center">
+<img src="/media/biosketches/2020/MBalk.jpg" width="200" class="center">
 
 <p>
 <strong><a href="https://sites.google.com/view/megbalk">Meghan Balk </a></strong>
@@ -1259,7 +1259,7 @@ Ontologies
   <tr>
    <td width="30%">
 
-<img src="/media/biosketches/2019/rbernor.png" width="200" class="center">
+<img src="/media/biosketches/2020/RBernor.png" width="200" class="center">
 
 <p>
 <strong>Ray Bernor</strong>
