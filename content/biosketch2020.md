@@ -256,6 +256,7 @@ I am looking forward to this workshop and learning how to use the FuTRES framewo
   
   <tr>
    <td width="30%">
+     <img src="/media/biosketches/2020/DReuter.jpg" width="200" class="center">
      <p>
      <strong><a href="https://blogs.uoregon.edu/danareuter/">Dana Reuter</a></strong
      <p>
@@ -297,8 +298,35 @@ I tend to work with mammal body size, dietary, and geographic range data mined f
        VertNet Coordinator
        <p>
          Informatics
+        <p>
+          <a href="http://vertnet.org/">VertNet</a>
    </td>
-   <td colspan="2" width="70%">
+   <td colspan="2" width="70%">From there to here,
+from here to there,
+I’ll move your data
+everywhere.
+ <p>
+   
+   <p>
+Be it one fish or three,
+a flower or flea,
+I’ll clean up your data
+and publish on IPT.
+ <p>
+   
+ <p>
+Stop feeling pandered
+by some data standard
+together we’ll make
+your data well-mannered.
+<p>
+  
+ <p>
+  <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102623">GBIF Integrated Publishing Toolkit</a>
+  <p>
+    
+  <p>
+  <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0029715">Darwin Core</a>
    </td>
   </tr>
   
@@ -462,6 +490,7 @@ My archaeological research interests include how and why people move across land
   
   <tr>
    <td width="30%">
+      <img src="/media/biosketches/2020/JWieczorek.jpg" width="200" class="center">
      <p>
      <strong>John Wieczorek</strong
      <p>
