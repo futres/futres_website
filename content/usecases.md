@@ -54,3 +54,8 @@ Allometry has been used in the context of three different phenomena (ontogenetic
 Most allometries assume a power function relationship for prediction, are there other functions which might be better predictors across taxa? 
 
 We compiles a dataset across the mammal tree of life to test various functions to test allometries in mammals.  
+
+<h3>Determining Best Predictor for Body Size from Limb Elements</h3>
+Lead: <em>J. Saarinen</em> and <em>R.L. Bernor</em>
+
+We tested published dental and limb bone measurement -based regression equations (Janis 1990, McFadden and Hubert 1990, Scott 1990, Aberdi et al. 1995) for estimating body mass of horses (Equidae) by comparing how accurately the resulting body mass estimates from these equations for modern zebras (Equus quagga and E. grevyi) match published mean body masses of these species (Kowak 1999). Based on % prediction errors of the estimates from different skeletal measurements, we created a "best practice" -scheme for estimating equid body masses in terms of the choise of skeletal elements that most accurately estimate body mass in equids. Metapodial articular and mid-shaft widths were found to be among the best and most frequently available measurements, and they predict body mass more consistently than dental measurements, so they have the priority in equid body mass estimation. Of dental measurements, first upper and lower molar lengths provide the best body mass estimates for modern zebras. The work has been done (as thoroughly as published records allow), so not much further input from FuTRES is necessary, except in the form of discussion.
