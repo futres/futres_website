@@ -178,11 +178,11 @@ I’m looking forward to learning how FuTRES can help increase access to dataset
    <p>
 Relevant papers:  
   <p>
-<a href="https://academic.oup.com/jmammal/article/100/2/285/5477494">Kohli and Rowe. 2019. Beyond guilds: the promise of continuous traits for mammalian functional diversity</a>
+    <a href="https://academic.oup.com/jmammal/article/100/2/285/5477494"><b>Kohli</b> and Rowe. 2019. Beyond guilds: the promise of continuous traits for mammalian functional diversity</a>
   <p>
     
    <p> 
-<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ecog.03747">Kohli et al. 2018. A trait‐based framework for discerning drivers of species co‐occurrence across heterogeneous landscapes</a>
+<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ecog.03747"><b>Kohli</b> et al. 2018. A trait‐based framework for discerning drivers of species co‐occurrence across heterogeneous landscapes</a>
    </td>
   </tr>
   
@@ -349,7 +349,7 @@ Examples of recent papers from my lab with traits:
   <p>
     
   <p>  
-<a href="https://bioone.org/journals/journal-of-herpetology/volume-53/issue-4/19-044/First-Record-of-the-Anuran-Family-Rhinophrynidae-from-the-Oligocene/10.1670/19-044.full">Blackburn et al. 2019. First record of the anuran family Rhinophrynidae from the Oligocene of eastern North America. Journal of Herpetology.</a>
+<a href="https://bioone.org/journals/journal-of-herpetology/volume-53/issue-4/19-044/First-Record-of-the-Anuran-Family-Rhinophrynidae-from-the-Oligocene/10.1670/19-044.full"><b>Blackburn</b> et al. 2019. First record of the anuran family Rhinophrynidae from the Oligocene of eastern North America. Journal of Herpetology.</a>
    </td>
    <td  width="30%">
      <img src="/media/biosketches/2020/DBlackburn.jpg" width="200" class="center">
@@ -378,7 +378,7 @@ Examples of recent papers from my lab with traits:
      <p>
        <a href="https://twitter.com/DenneReed">@DenneReed</a>
    </td>
-   <td colspan="2" width="70%">I am a paleoanthropologists working in East Africa studying human evolution and paleoecology. I direct the Paleo Core project (https://paleocore.org) which hosts specimen level fossil occurrence data for paleoanthropologists and paleontologists. I’m looking forward to exploring methods for linking fossil occurrence data to systematic descriptive trait data about the individual fossils.
+   <td colspan="2" width="70%">I am a paleoanthropologists working in East Africa studying human evolution and paleoecology. I direct the <a href="https://paleocore.org">Paleo Core project</a> which hosts specimen level fossil occurrence data for paleoanthropologists and paleontologists. I’m looking forward to exploring methods for linking fossil occurrence data to systematic descriptive trait data about the individual fossils.
   <p>
     
   <p>  
@@ -468,15 +468,15 @@ My archaeological research interests include how and why people move across land
    <p>
      
    <p>
-<a href="https://www.schweizerbart.de/papers/njgpa/detail/291/90570/Investigation_of_the_mobility_of_American_lion_Panthera_atrox_from_Mexico_Cedral_San_Luis_Potosi_using_Sr_isotopes">Pérez-Crespo, V.A., P. Schaaf, G. Solís-Pichardo, J. Arroyo-Cabrales, and J.R. Torres-Hernández. 2019. Investigation of the mobility of American lion (Panthera atrox) from México (Cedral, San Luis Potosí) using Sr isotopes.  Neues Jahrbuch für Geologie und Paläontologie Abhandlungen (N. Jb. Geol. Paläont. Abh.), 291/3:351-357.</a>
+<a href="https://www.schweizerbart.de/papers/njgpa/detail/291/90570/Investigation_of_the_mobility_of_American_lion_Panthera_atrox_from_Mexico_Cedral_San_Luis_Potosi_using_Sr_isotopes">Pérez-Crespo, V.A., P. Schaaf, G. Solís-Pichardo, <b>J. Arroyo-Cabrales</b>, and J.R. Torres-Hernández. 2019. Investigation of the mobility of American lion (Panthera atrox) from México (Cedral, San Luis Potosí) using Sr isotopes.  Neues Jahrbuch für Geologie und Paläontologie Abhandlungen (N. Jb. Geol. Paläont. Abh.), 291/3:351-357.</a>
    <p>
      
    <p>  
-<a href="https://reader.elsevier.com/reader/sd/pii/S146290111830474X?token=643536383EE8601A8C819A69DAECE16C277F2764E8BC1E78D7D24E2E697B202026E5DEC2CE45344971730D4D157425B9">Ochoa-Ochoa, L.M., C.A. Ríos-Muñoz⁠, S.B. Johnson, O.A. Flores-Villela, J. Arroyo-Cabrales, and M. Martínez-Gordillo.  2019.  Invasive species: Legislation and species list considerations from Mexico.  Environmental Science and Policy, 96:59-63.</a>
+<a href="https://reader.elsevier.com/reader/sd/pii/S146290111830474X?token=643536383EE8601A8C819A69DAECE16C277F2764E8BC1E78D7D24E2E697B202026E5DEC2CE45344971730D4D157425B9">Ochoa-Ochoa, L.M., C.A. Ríos-Muñoz⁠, S.B. Johnson, O.A. Flores-Villela, <b>J. Arroyo-Cabrales</b>, and M. Martínez-Gordillo.  2019.  Invasive species: Legislation and species list considerations from Mexico.  Environmental Science and Policy, 96:59-63.</a>
    <p>
      
    <p>  
-<a href="https://royalsocietypublishing.org/doi/pdf/10.1098/rsbl.2019.0148">Schubert, B.W., J.C. Chatters, J. Arroyo-Cabrales, J. X. Samuels, L.H. Soibelzon, F.J. Prevosti, C. Widga, A. Nava, D. Rissolo, and P. Luna Erreguerena.  2019.  Yucatán carnivorans shed light on Great American Biotic Interchange.  Biology Letters, 15:20190148. http://dx.doi.org/10.1098/rsbl.2019.0148</a>
+<a href="https://royalsocietypublishing.org/doi/pdf/10.1098/rsbl.2019.0148">Schubert, B.W., J.C. Chatters, <b>J. Arroyo-Cabrales</b>, J. X. Samuels, L.H. Soibelzon, F.J. Prevosti, C. Widga, A. Nava, D. Rissolo, and P. Luna Erreguerena.  2019.  Yucatán carnivorans shed light on Great American Biotic Interchange.  Biology Letters, 15:20190148. http://dx.doi.org/10.1098/rsbl.2019.0148</a>
    </td>
    <td  width="30%">
      <p>
@@ -521,11 +521,11 @@ My archaeological research interests include how and why people move across land
   <p>
     
   <p>  
-<a href="https://www.tandfonline.com/doi/full/10.1080/14772019.2020.1765889">Calede and Samuels (2020) on horn evolution and body size changes in mylagaulid rodents.</a>
+  <a href="https://www.tandfonline.com/doi/full/10.1080/14772019.2020.1765889"><b>Calede</b> and Samuels (2020) on horn evolution and body size changes in mylagaulid rodents.</a>
   <p>
     
   <p>  
-<a href="https://www.tandfonline.com/doi/full/10.1080/02724634.2020.1767117">Calede (2020) on the pattern and processes of fuel change in Montana 30 to 26 million years ago.</a>
+  <a href="https://www.tandfonline.com/doi/full/10.1080/02724634.2020.1767117"><b>Calede</b> (2020) on the pattern and processes of fuel change in Montana 30 to 26 million years ago.</a>
   <p>
     
   <p>
@@ -708,7 +708,7 @@ As of January 2021, I will be Assistant Professor and Curator of Herpetology at 
      <p>
      Vertebrates
      <p>
-       <a href="https://twitter.com/MaggieHantak>@MaggieHantak</a>
+       <a href="https://twitter.com/MaggieHantak">@MaggieHantak</a>
    </td>
    <td colspan="2" width="70%">I am currently a Postdoc in the Guralnick lab. My research has been centered around the evolution of color polymorphism, and my future goal is to understand how climate and anthropogenic factors influence the distribution of color morphs and associated trait changes. I am also interested in patterns of body size change over spatial and temporal scales, and I will look at these trends using large trait datasets of mammals, amphibians, and reptiles. I look forward to learning new methods that will help in analyzing these types of datasets.
    </td>
@@ -788,7 +788,7 @@ My primary research focus is the Neogene Siwalik sequence of Pakistan. I am fort
 I am always interested in learning about new ways to curate and analyze these types of data, as well as 3D images. I am particularly interested in discussing long-term viability and accessibility of data and data formats.
     </td>
    <td  width="30%">
-     <img src="/media/biosketches/2020/MMorga.png" width="200" class="center">
+     <img src="/media/biosketches/2020/MMorgan.png" width="200" class="center">
      <p>
        <strong>Michèle Morgan</strong>
      <p>
@@ -928,13 +928,13 @@ My datasets include fish remains taxonomic identifications, skeletal measurement
    <td width="30%">
      <img src="/media/biosketches/2020/NdelaSancha.png" width="200" class="center">
      <p>
-       <strong>Noé U. De La Sancha</strong
+       <strong>Noé U. De La Sancha</strong>
      <p>
      Chicago State University
      <p>
      Mammalogy
      <p>
-       <a href='https://twitter.com/noe_delasancha">@noe_delasancha</a>
+       <a href="https://twitter.com/noe_delasancha">@noe_delasancha</a>
      <p>
    </td>
    <td colspan="2" width="70%">I would say I am a classically trained mammalogist. I’m currently an assistant professor at Chicago State University and a research associate at The Field Museum. I began with application of linear morphometrics on mammals for various type of taxonomic and systematic needs for biodiversity analyses. I then grew to enjoy the application of multivariate approaches to address questions dealing with ontogenetic variation, species delimitations, and correlating morphology with environmental variables. In my lab we have been working with traditional linear morphometrics and 2D geometric morphometrics. I began working on Matlab and then made a transition to R and love learning new applications and potentially developing new approaches to morphology as it applies to taxonomy, functional ecology and diversity, biogeography, population variation, and evolutionary biology. I would love to learn more about 3D geometric morphometrics and techniques for modularity type questions. I would be very interested in learning about any newer multivariate approaches and big data management. I am looking forward to a collaborative atmosphere with like-minded people.  
@@ -987,7 +987,7 @@ You can check my research activity on <a href="https://www.researchgate.net/prof
    <td width="30%">
      <img src="/media/biosketches/2020/RShort.jpg" width="200" class="center">
      <p>
-       <strong>Rachel Short</a> </strong
+       <strong>Rachel Short</a> </strong>
       <p>
       Texas A&M University
       <p>
@@ -1085,7 +1085,7 @@ In addition to isotopic analyses, I maintain a skeletal collection of fauna, inc
    <td width="30%">
      <img src="/media/biosketches/2020/SPilaarBirch.png" width="200" class="center">
      <p>
-       <strong>Suzanne Pilaar Birch</strong
+       <strong>Suzanne Pilaar Birch</strong>
      <p>
      University of Georgia
      <p>
@@ -1146,7 +1146,7 @@ I would like to see a growing user base arise from this workshop. I am hoping to
 <p>
 <a href="https://academic.oup.com/jmammal/article/90/6/1449/901095">Here’s a paper on ecomorphology in small mammals</a>
 <p>
-<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0146221">And here’s a fun paper on rhinoceros arthritis over the last 50 million years</a>
+And <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0146221">here’s a fun paper on rhinoceros arthritis over the last 50 million years</a>
 <p>
    </td>
   </tr>
@@ -1157,11 +1157,11 @@ I would like to see a growing user base arise from this workshop. I am hoping to
 <p>
 A couple of relevant publications:
 <p>
-<strong>Deck, J</strong>, Gaither M, Ewing R, et al. “The Genomic Observatories Metadatabase (GeOMe): A new repository for field and sampling event metadata associated with genetic samples”, PLOSBiology 2017. doi:10.1371/journal.pbio.2002925
+<bg>Deck, J</b>, Gaither M, Ewing R, et al. “The Genomic Observatories Metadatabase (GeOMe): A new repository for field and sampling event metadata associated with genetic samples”, PLOSBiology 2017. doi:10.1371/journal.pbio.2002925
 <p>
  
 <p>
-<strong>Deck, J</strong>. Guralnick, R, Walls, R,  et al. “<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5MNl30UAAAAJ&sortby=pubdate&citation_for_view=5MNl30UAAAAJ:WF5omc3nYNoC">Meeting report: Identifying practical applications of ontologies for biodiversity informatics</a>”, Standards in Genomic Sciences 10 (1), 2015
+<b>Deck, J</b>, Guralnick, R, Walls, R,  et al. “<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5MNl30UAAAAJ&sortby=pubdate&citation_for_view=5MNl30UAAAAJ:WF5omc3nYNoC">Meeting report: Identifying practical applications of ontologies for biodiversity informatics</a>”, Standards in Genomic Sciences 10 (1), 2015
    </td>
    <td width="30%">
 
@@ -1233,7 +1233,7 @@ Relevant papers:
 <img src="/media/biosketches/2020/MBalk.jpg" width="200" class="center">
 
 <p>
-<strong><a href="https://sites.google.com/view/megbalk">Meghan Balk </a></strong>
+<strong><a href="https://sites.google.com/view/megbalk">Meghan Balk</a></strong>
 <p>
 University of Arizona
 <p>
@@ -1244,9 +1244,8 @@ Paleobiology
   </tr>
   <tr>
    <td width="30%">
-
-<p>
-
+     <p>
+       
 <p>
 <strong>Neeka Sewnath/a></strong>
 <p>
@@ -1305,11 +1304,11 @@ Paleobiology
 <p>
 A domain-relevant paper:
 <p>
-<a href="https://www.pnas.org/content/pnas/early/2019/05/09/1817999116.full.pdf">Folk, R. A, R. L. Stubbs, M. E. Mort, J. M. Allen, P. Soltis, D. E. Soltis* and R. P. Guralnick*. 2019.  Rates of niche and phenotype evolution lag behind diversification in a temperate radiation.  Proceedings of the National Academy of Sciences. </a> 
+<a href="https://www.pnas.org/content/pnas/early/2019/05/09/1817999116.full.pdf">Folk, R. A, R. L. Stubbs, M. E. Mort, J. M. Allen, P. Soltis, D. E. Soltis and <b>R. P. Guralnick</b>. 2019.  Rates of niche and phenotype evolution lag behind diversification in a temperate radiation.  Proceedings of the National Academy of Sciences. </a> 
 <p>
 An informatics-oriented paper:
 <p>
-<a href="https://www.nature.com/articles/s41559-018-0667-3.pdf">Kissling, D, R. Walls, A. Bowser, M. O. Jones, J. Kattge, D. Agosti, J. Amengual, A. Basset, P. M. van Bodegom  , J. H. C. Cornelissen, E. G. Denny, S. Deudero, W. Egloff , S. C. Elmendorf, E. A. García, K. D. Jones, O. R. Jones , S. Lavorel, D. Lear, L. M. Navarro,, S. Pawar , R. Pirzl, N. Rüger, S. Sal, R. Salguero-Gómez, D. Schigel, K-S Schulz, A. Skidmore, & R. P. Guralnick*.  2018.  Towards global data products of Essential Biodiversity Variables (EBVs) on species traits.  Nature Ecology and Evolution 2:1531–1540.</a>
+<a href="https://www.nature.com/articles/s41559-018-0667-3.pdf">Kissling, D, R. Walls, A. Bowser, M. O. Jones, J. Kattge, D. Agosti, J. Amengual, A. Basset, P. M. van Bodegom  , J. H. C. Cornelissen, E. G. Denny, S. Deudero, W. Egloff , S. C. Elmendorf, E. A. García, K. D. Jones, O. R. Jones , S. Lavorel, D. Lear, L. M. Navarro,, S. Pawar , R. Pirzl, N. Rüger, S. Sal, R. Salguero-Gómez, D. Schigel, K-S Schulz, A. Skidmore, & <b>R. P. Guralnick</b>.  2018.  Towards global data products of Essential Biodiversity Variables (EBVs) on species traits.  Nature Ecology and Evolution 2:1531–1540.</a>
    </td>
    <td width="30%">
 
