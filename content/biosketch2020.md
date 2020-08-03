@@ -693,7 +693,7 @@ As of January 2021, I will be Assistant Professor and Curator of Herpetology at 
      <p>
      Zooarchaeology
      <p>
-       <a href="https://twitter.com/LucyLGill>@LucyLGill</a>
+       <a href="https://twitter.com/LucyLGill">@LucyLGill</a>
     <p>
    </td>
   </tr>
