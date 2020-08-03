@@ -1017,7 +1017,7 @@ You can check my research activity on <a href="https://www.researchgate.net/prof
    <td width="30%">
      <img src="/media/biosketches/2020/SYrarrazaval.png" width="200" class="center">
      <p>
-       <strong>Sebastian Yrarrazaval</strong
+       <strong>Sebastian Yrarrazaval</strong>
      <p>
      Universidad de Chile
      <p>
