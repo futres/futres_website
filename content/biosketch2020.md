@@ -1247,7 +1247,7 @@ Paleobiology
      <p>
        
 <p>
-<strong>Neeka Sewnath/a></strong>
+<strong>Neeka Sewnath</a></strong>
 <p>
 University of Florida
 <p>
