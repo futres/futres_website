@@ -8,7 +8,7 @@ FuTRES is designed to be expandable, and we expect many novel uses for trait dat
 
 FuTRES will not be limited to mammal data, however, and we will welcome data from domain scientists across the tree of life. In the end, many other analyses are also possible, such as the examination of processes that control miniaturization and gigantism across vertebrates, testing whether deforestation has led to evolutionary changes in bird or insect wing-aspect ratio, determining whether pre- and early historic fishing significantly reduced trophic levels and disturbed ocean ecologies, and testing hypotheses about the limits of allometric scaling in relation to overall body size across lineages of vertebrates, as a few examples.
 
-<p><figure><img src="/media/guralnick_fig.png" width = "300"><figcaption><a href="https://elifesciences.org/articles/27166">Reimer <i>et al.</i> 2018 eLife</a></figcaption><figure>
+<p><figure><img src="/media/guralnick_fig.png" width = "100"><figcaption><a href="https://elifesciences.org/articles/27166">Reimer <i>et al.</i> 2018 eLife</a></figcaption><figure>
 <h3>Bergmann’s Rule</h3>
 
 Lead: <em>R. Guralnick</em>
@@ -17,7 +17,7 @@ Bergmann's rule is a widely accepted biogeographic rule that individuals within 
 See <a href="https://futres.org/news/">recent publications</a> related to this work.
 
 
-<p><figure><img src="/media/locomotionfigure.png" width = "300"><figcaption><a href="https://www.frontiersin.org/articles/10.3389/fevo.2019.00119/full">Janis & Bernor 2019 Frontiers In Ecology and Evolution</a></figcaption><figure>
+<p><figure><img src="/media/locomotionfigure.png" width = "100"><figcaption><a href="https://www.frontiersin.org/articles/10.3389/fevo.2019.00119/full">Janis & Bernor 2019 Frontiers In Ecology and Evolution</a></figcaption><figure>
 <h3>Equid Locomotion</h3>
 
 Lead: <em>R. Bernor</em>
@@ -31,7 +31,7 @@ Lead: <em>R. Bernor</em>
 
 Mammalian tooth crown height, or hypsodonty, and occlusal cutting-edge count has proven important for mapping continental-scale precipitation, temperature, and primary productivity patterns in the Neogene of Eurasia. These methods have recently been expanded as Functional Crown Types (FCT) in the Turkana Basin, Kenya. FCT is designed to capture functional durability, structural strength, and cutting power. These factors relate to the environment through available foods, with harder, dustier, and less nutritious foods found in arid environments. Bernor will oversee the ingestion of FCT variables into FuTRES. Once these data are ingested, they can be cross-referenced with body size and limb proportion data to begin testing the hypothesis that these traits are linked as lineages of ungulate mammals have adapted to changing environments.
 
-<p><figure><img src="/media/kitty_fig.png" width = "300"><figure>
+<p><figure><img src="/media/kitty_fig.png" width = "100"><figure>
 <h3>Using Prey Body Size Data to Track Human Impact</h3>
 
 Lead: <em>K. Emery</em>
