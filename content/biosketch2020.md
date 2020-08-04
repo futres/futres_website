@@ -22,7 +22,8 @@ I am currently investigating changes in large mammal occurrences in the Indian S
      <br>
      Yale University
      <br>
-     Paleobioloty
+     Paleobioloy
+    <br>
     <a href="https://twitter.com/amjukar">@amjukar</a>
    </td>
   </tr>
@@ -30,13 +31,12 @@ I am currently investigating changes in large mammal occurrences in the Indian S
   <tr>
    <td width="30%">
      <img src="/media/biosketches/2020/AShupinksi.jpg" width="200" class="center">
-     <p>
+     <br>
        <strong>Alexandra Shupinkski</strong
-     <p>
+     <br>
      University of Nebraska
-     <p>
+     <br>
      Paleoecology
-
    </td>
    <td colspan="2" width="70%">I am a third year PhD student at the University of Nebraska-Lincoln.  I am a paleoecologist interested in the evolutionary history of mammal communities and the way they assemble through time.  My research aims to disentangle biotic and abiotic factors that significantly impact community structure prior to and during the presence of hominids using a macroecological approach.  Currently, I am looking at the functional diversity of Cenozoic mammal communities in North America.
   <p>
@@ -53,9 +53,9 @@ I am excited to learn about new analytical tools and the most effective ways to 
      <img src="/media/biosketches/2020/APeng.png" width="200" class="center">
      <p>
      <strong>Amanda Peng</strong>
-     <p>
+     <br>
      University of Oregon
-     <p>
+     <br>
      Paleobiology
    </td>
   </tr>
@@ -65,9 +65,9 @@ I am excited to learn about new analytical tools and the most effective ways to 
      <img src="/media/biosketches/2020/AWeller.png" width="200" class="center">
      <p>
        <strong>Amanda Weller</strong
-     <p>
+     <br>
      University of North Carolina, Greensboro
-     <p>
+     <br>
      Mammalogy
    </td>
    <td colspan="2" width="70%">I am an incoming PhD student at University of North Carolina Greensboro focusing on Palearctic mammalian biodiversity and morphological evolution.  I am interested in the distribution of simple and complex mammal trait variation in Old World ecosystems. 
@@ -85,9 +85,9 @@ I would like to gain new informatics and analytical skills while connecting with
      <img src="/media/biosketches/2020/AVillasenor.png" width="200" class="center">
      <p>
      <strong>Amelia Villaseñor</strong>
-     <p>
+     <br>
      University of Arkansas
-     <p>
+     <br>
      Zooarchaeology, Paleoecology
    </td>
   </tr>
@@ -97,11 +97,10 @@ I would like to gain new informatics and analytical skills while connecting with
      <img src="/media/biosketches/2020/ABelenGalanLopez.png" width="200" class="center">
      <p>
        <strong>Ana Belén Galán López</strong
-     <p>
+     <br>
      TRACES-UMR5608/ Université de Montréal
-     <p>
+     <br>
      Zooarchaeology
-     <p>
    </td>
    <td colspan="2" width="70%">I am a zooarchaeologist and Marie Curie Postdoctoral fellow. The last few years I have devoted and focused my research on taphonomy and osteometry fields in order to reconstruct subsistence strategies to help us to a better understanding of human behaviour. My current research, Emorph Project, is focused on ecomorphology to provide a referential framework to reconstruct migratory patterns of Palaeolithic reindeer during Magdalenian period in South western France and assess how they affected human hunting strategies and socio-economic decisions, which will allow us to better understand their behaviour and identify the precise role of reindeer in their economy.
    </td>
@@ -113,9 +112,9 @@ I would like to gain new informatics and analytical skills while connecting with
    <td  width="30%">
      <p>
      <strong>Antoine Souron</strong>
-     <p>
+     <br>
      Université de Bordeaux
-     <p>
+     <br>
      Paleontology
    </td>
   </tr>
@@ -125,9 +124,9 @@ I would like to gain new informatics and analytical skills while connecting with
      <img src="/media/biosketches/2020/BPobiner.jpg" width="200" class="center">
      <p>
        <strong><a href="https://humanorigins.si.edu/about/human-origins-program-team/briana-pobiner">Briana Pobiner</a></strong
-     <p>
+     <br>
      National Museum of Natural History
-     <p>
+     <br>
      Zooarchaeology
    </td>
    <td colspan="2" width="70%">I am a zooarchaeologist focused on understanding the evolution of human diet. I conduct fieldwork and collections- based research on both modern and fossil bones, and I use taphonomic data (largely hominin butchery marks and carnivore tooth marks) to reconstruct access to animal food resources in the Early Pleistocene of Africa, Asia, Europe, and North America. I’m looking forward to discussing ways to standardize the collection of taphonomic data from zooarchaeological assemblages. 
@@ -153,9 +152,9 @@ I’m looking forward to learning how FuTRES can help increase access to dataset
      <img src="/media/biosketches/2020/BMistretta.jpg" width="200" class="center">
      <p>
        <strong><a href="http://www.bamarchaeology.com/">Brittany Mistretta</a></strong>
-     <p>
+     <br>
      University of Florida
-     <p>
+     <br>
        <a href="https://twitter.com/BAMistretta">@BAMistretta</a>
    </td>
   </tr>
@@ -165,11 +164,11 @@ I’m looking forward to learning how FuTRES can help increase access to dataset
      <img src="/media/biosketches/2020/BKohli.jpg" width="200" class="center">
      <p>
        <strong><a href="https://brookskohli.weebly.com/">Brooks Kohli</a></strong
-     <p>
+     <br>
      Ohio State University
-     <p>
+     <br>
      Mammalogy, Ecology
-     <p>
+     <br>
        <a href="https://twitter.com/brooksakohli">@brooksakohli</a>
    </td>
    <td colspan="2" width="70%">I am a mammalogist and ecologist interested in patterns and drivers of diversity.  I am particularly interested in using functional diversity to investigate the drivers of community assembly, elevational diversity gradients, and biodiversity change. As part of this work I use museum specimens to collect morphological, phenotypic, and life history trait data that offer higher-resolution data on species differences compared to categorical guild assignments, including kidney morphology, hair density, and craniodental morphology. I am interested in learning about tools for applying functional diversity to broad spatial and temporal scales as well as exploring intraspecific variation in key traits across species’ ranges and how it may influence analyses of functional biogeography.
@@ -201,11 +200,11 @@ Most of my trait datasets are taxon-centric (North American rodents) and consist
     <img src="/media/biosketches/2020/BMcLean.jpg" width="200" class="center">
     <p>
       <strong><a href="https://bryanmclean.weebly.com/">Bryan McLean</a></strong>
-    <p>
+    <br>
     University of North Carolina Greensboro
-    <p>
+    <br>
     Evolutionary Biology, Mammalogy
-    <p>   
+    <br>   
       <a href="https://twitter.com/bryansmclean">@bryansmclean</a>
    </td>
   </tr>
@@ -215,11 +214,11 @@ Most of my trait datasets are taxon-centric (North American rodents) and consist
      <img src="/media/biosketches/2020/CCrawford.jpg" width="200" class="center">
      <p>
        <strong>Callie Crawford</strong
-     <p>
+     <br>
      New Jersey Institute of Technology
-     <p>
+     <br>
      Ichthyology
-     <p>
+     <br>
        <a href="https://twitter.com/CallieHCrawford">@CallieHCrawfrod</a>
    </td>
    <td colspan="2" width="70%">I am a PhD candidate working on the functional morphology of balitorid loaches, a group of small freshwater fishes from Southeast Asia. My focus has been on morphology and biomechanics but I am hoping to expand into more of an ecomorphology direction. I mostly work with CT scan data of fishes, both bony and cartilaginous.
@@ -245,11 +244,11 @@ I am looking forward to this workshop and learning how to use the FuTRES framewo
      <img src="/media/biosketches/2020/CJanis.jpg" width="200" class="center">
      <p>
     <strong>Christine Janis</strong>
-     <p>
+     <br>
      University of Bristol, UK 
-     <p>
+     <br>
      Brown University, USA
-     <p>
+     <br>
      Paleobiology
    </td>
   </tr>
@@ -259,9 +258,9 @@ I am looking forward to this workshop and learning how to use the FuTRES framewo
      <img src="/media/biosketches/2020/DReuter.jpg" width="200" class="center">
      <p>
      <strong><a href="https://blogs.uoregon.edu/danareuter/">Dana Reuter</a></strong
-     <p>
+     <br>
      University of Oregon
-     <p>
+     <br>
      Paleobiology
    </td>
    <td colspan="2" width="70%">I am a paleoecologist interested in understanding the processes that govern mammalian diet and community structure change through time. Some of my work focuses on extant mammals where I use phylogenetic comparative methods to understand mammalian diet evolution, diversity, and how these relate to body mass. For my work on fossil assemblages, I use tooth morphology, and stable isotopic studies, to test hypotheses about the ecological links among extinct taxa and their environment. To better understand how past climate change has influenced structural change, I combine my research to reconstruct food webs for fossil assemblages. I hope that by using the fossil record to explore past ecological structure, my research not only helps expand our paleontological knowledge but also informs how modern communities might respond to current human-influenced climate change and extinction.
@@ -283,9 +282,9 @@ I tend to work with mammal body size, dietary, and geographic range data mined f
      <img src="/media/biosketches/2020/DFraser.png" width="200" class="center">
      <p>
        <strong>Dani Fraser</strong>
-     <p>
+     <br>
      Canada Museum of Nature
-     <p>
+     <br>
      Paleontology
    </td>
   </tr>
@@ -294,11 +293,11 @@ I tend to work with mammal body size, dietary, and geographic range data mined f
    <td width="30%">
      <p>
      <strong>David Bloom</strong
-      <p>
+      <br>
        VertNet Coordinator
-       <p>
+       <br>
          Informatics
-        <p>
+        <br>
           <a href="http://vertnet.org/">VertNet</a>
    </td>
    <td colspan="2" width="70%">From there to here,
@@ -355,13 +354,13 @@ Examples of recent papers from my lab with traits:
      <img src="/media/biosketches/2020/DBlackburn.jpg" width="200" class="center">
      <p>
        <strong><a href="https://www.blackburnlab.org/">David Blackburn</a></strong>
-     <p>
+     <br>
      University of Florida
-     <p>
+     <br>
      Florida Museum of Natural History
-     <p>
+     <br>
      Herpetology
-     <p>
+     <br>
        <a href="https://twitter.com/davidcblackburn">@davidcblackburn</a>
    </td>
   </tr>
@@ -371,11 +370,11 @@ Examples of recent papers from my lab with traits:
      <img src="/media/biosketches/2020/DReed.png" width="200" class="center">
      <p>
        <strong><a href="https://paleocore.org/">Denné Reed</a></strong
-     <p>
+     <br>
      University of Texas, Austin
-     <p>
+     <br>
      Paleoanthropology
-     <p>
+     <br>
        <a href="https://twitter.com/DenneReed">@DenneReed</a>
    </td>
    <td colspan="2" width="70%">I am a paleoanthropologists working in East Africa studying human evolution and paleoecology. I direct the <a href="https://paleocore.org">Paleo Core project</a> which hosts specimen level fossil occurrence data for paleoanthropologists and paleontologists. I’m looking forward to exploring methods for linking fossil occurrence data to systematic descriptive trait data about the individual fossils.
@@ -402,9 +401,9 @@ A sampling of my publications and other background may be found on <a href="http
      <p>
        <strong><a href="https://sites.google.com/site/ginasemprebon/
   ">Gina Semprebon</a></strong>
-     <p>
+     <br>
      Bay Path University
-     <p>
+     <br>
      Paleoecology
    </td>
   </tr>
@@ -414,9 +413,9 @@ A sampling of my publications and other background may be found on <a href="http
      <img src="/media/biosketches/2020/HMachado.jpg" width="200" class="center">
      <p>
        <strong>Helena Machado</strong
-     <p>
+     <br>
      University of Oregon
-     <p>
+     <br>
      Paleobiology
    </td>
    <td colspan="2" width="70%">I’m a Ph.D. candidate at University of Oregon’s Earth Sciences department. I mostly work on fossil horses and one of my main research questions regards the relationship between South and North American Equus. I’m currently collecting morphometric data from the literature for the FuTRES database. I’m looking forward to learning more about ontology-based datasets and different methods we can apply in functional traits analyses.
@@ -438,9 +437,9 @@ My archaeological research interests include how and why people move across land
      <img src="/media/biosketches/2020/JGreen.png" width="200" class="center">
      <p>
        <strong>Jennifer Green</strong>
-     <p>
+     <br>
      University of Tennessee
-     <p>
+     <br>
      Anthropology, Zooarchaeology
    </td>
   </tr>
@@ -450,13 +449,13 @@ My archaeological research interests include how and why people move across land
      <img src="/media/biosketches/2020/JMcGuire.jpg" width="200" class="center">
      <p>
        <strong><a href="http://www.mcguire.gatech.edu/">Jenny McGuire</a></strong
-     <p>
+     <br>
      Georgia Tech
-     <p>
+     <br>
      Spatial Ecology & Paleontology
-     <p>
+     <br>
        <a href="https://twitter.com/jennymcgphd">@jennymcgphd</a>
-     <p>
+     <br>
        <a href="http://www.instagram.com/mapsnbones/">Mapsnbones</a>
    </td>
    <td colspan="2" width="70%">I’m an Assistant Professor at Georgia Tech, looking at Quaternary ecological changes in response to anthropogenic and environmental changes. I received my PhD from UC-Berkeley and did postdocs at NESCent & the University of Washington. I am particularly interested in connecting paleontological research to pragmatic solutions for maintaining biodiversity. I have previously studied how intraspecific morphology is patterned by environmental gradients. I also have been working with Michelle Lawing, Jason Head, and others to look at strategies for using ecometric relationships to evaluate ecosystem function.
@@ -483,9 +482,9 @@ Ardelean, C:F., L. Becerra-Valdivia, M.W. Pedersen, J.-L. Schwenning, C. G. Ovia
    <img src="/media/biosketches/2020/JArroyoCabrales.jpg" width="200" class="center">
      <p>
      <strong>Joaquin Arroyo-Cabrales</strong>
-     <p>
+     <br>
      Instituto Nacional de Antropología e Historia, Mexico
-     <p>
+     <br>
     Archaeozoology & Vertebrate Paleontology
    </td>
   </tr>
@@ -495,9 +494,9 @@ Ardelean, C:F., L. Becerra-Valdivia, M.W. Pedersen, J.-L. Schwenning, C. G. Ovia
       <img src="/media/biosketches/2020/JWieczorek.jpg" width="200" class="center">
      <p>
      <strong>John Wieczorek</strong
-     <p>
+     <br>
      VertNet, Rauthiflor LLC, UC, Berkeley
-     <p>  
+     <br>  
      Informatics
    </td>
    <td colspan="2" width="70%">I help people through their biodiversity data anxieties (practicing without a license). I claim to be qualified because I have been doing it without getting caught for 23 years and with only minor complaints. Come to me if you suffer from Degenerative Darwin Core Syndrome, Georeferencing Withdrawal, Biodiversity Data Publication OCD, etc. I can provide references if necessary, such as:
@@ -537,9 +536,9 @@ I am interested in the discussion of databases of trait data at the specimen lev
      <img src="/media/biosketches/2020/JCalede.jpg" width="200" class="center">
      <p>
        <strong>Jonathan Calede</strong>
-     <p>
+     <br>
      The Ohio State University
-     <p>
+     <br>
      Paleobiology
        <a href="https://twitter.com/CaledeLab">@CaledeLab</a>
    </td>
@@ -549,9 +548,9 @@ I am interested in the discussion of databases of trait data at the specimen lev
    <td width="30%">
      <p>
      <strong><Joshua Doby</strong
-     <p>
+     <br>
      University of Florida
-     <p>
+     <br>
      Paleontology, Ecology
    </td>
    <td colspan="2" width="70%">I am an incoming PhD student in the Guralnick Lab. My background is in the systematics and biogeography of Neogene shrews where I primarily focused on the Late Miocene. Since moving to Florida, I have begun work on a systematic review of Florida Soricidae, including some of the earliest members of the family. Currently, my primary work is using the National Ecological Observatory Network data to parse out evolutionary drivers of plant communities, focusing mainly on the nitrogen-fixing clade. 
@@ -591,9 +590,9 @@ I regularly collect trait data (mainly measurements of skull and teeth of mammal
      <img src="/media/biosketches/2020/JSaarinen.png" width="200" class="center">
      <p>
        <strong>Juha Saarinen</strong
-     <p>
+     <br>
      University of Helsinki
-     <p>
+     <br>
      Paleobiology
    </td>
    <td colspan="2" width="70%">I am a paleontologist specialized in paleoecology and ecometrics of mammals during the Cenozoic. Currently I work as a post-doctoral researcher at the University of Helsinki, Finland, and I was a visiting researcher in the Natural History Museum of London for 2015-2017. My current research interests include new methods to estimate diets and body size of fossil large herbivorous mammals, the evolution and dietary changes of proboscideans during the Neogene in East Africa, body size changes and paleoecology of mammals during the Cenozoic, and ecometric modelling of paleoenvironments based on functional traits of herbivorous mammals. I have compiled and managed a large dataset of fossil mammal body mass estimates from the Cenozoic of all continents (especially Old World and North America) during the last few years. Lately I have concentrated on improving body mass estimate understudied taxa such as fossil proboscideans.
@@ -606,9 +605,9 @@ I regularly collect trait data (mainly measurements of skull and teeth of mammal
    <td  width="30%">
      <p>
      <strong>Keiko Meshida</strong>
-     <p>
+     <br>
      Howard University
-     <p>
+     <br>
      Mammalogy
    </td>
   </tr>
@@ -618,9 +617,9 @@ I regularly collect trait data (mainly measurements of skull and teeth of mammal
      <img src="/media/biosketches/2020/LBrenskelle.jpg" width="200" class="center">
      <p>
        <strong>Laura Brenskelle</strong
-     <p>
+     <br>
      University of Florida
-     <p>
+     <br>
      Informatics
    </td>
    <td colspan="2" width="70%">I am a PhD student at the University of Florida in biodiversity informatics. I am a Research Assistant on the FuTRES project, applying my knowledge about natural history specimen data standards and ontologies to the use cases.
@@ -668,11 +667,11 @@ I regularly collect trait data (mainly measurements of skull and teeth of mammal
      <img src="/media/biosketches/2020/LBarrow.jpg" width="200" class="center">
      <p>
        <strong><a href="https://barrowevobio.wixsite.com/lisabarrow">Lisa Barrow</a></strong
-     <p>
+     <br>
      University of New Mexico
-     <p>
+     <br>
      Herpetology
-     <p>
+     <br>
        <a href="https://twitter.com/barrowevobio">@barrowevobio</a>
    </td>
    <td colspan="2" width="70%">My research typically combines fieldwork, museum collections, genetic/genomic data, and ecological/trait data to ask questions about biodiversity of amphibians and reptiles. Currently I am a postdoc in the <a href="https://carstenslab.osu.edu/">Carstens lab</a> at Ohio State University, working on a project to predict amphibian genetic diversity based on traits and geography (<a href="https://www.biorxiv.org/content/10.1101/2020.05.03.073049v1">Link to preprint</a>)
@@ -690,13 +689,12 @@ As of January 2021, I will be Assistant Professor and Curator of Herpetology at 
      <img src="/media/biosketches/2020/LGill.jpg" width="200" class="center">
      <p>
        <strong>Lucy Gill</strong>
-     <p>
+     <br>
      UC Berkeley
-     <p>
+     <br>
      Zooarchaeology
-     <p>
+     <br>
        <a href="https://twitter.com/LucyLGill">@LucyLGill</a>
-    <p>
    </td>
   </tr>
   
@@ -705,11 +703,11 @@ As of January 2021, I will be Assistant Professor and Curator of Herpetology at 
      <img src="/media/biosketches/2020/MHantak.jpg" width="200" class="center">
      <p>
        <strong>Maggie Hantak</strong
-     <p>
+     <br>
      University of Florida
-     <p>
+     <br>
      Vertebrates
-     <p>
+     <br>
        <a href="https://twitter.com/MaggieHantak">@MaggieHantak</a>
    </td>
    <td colspan="2" width="70%">I am currently a Postdoc in the Guralnick lab. My research has been centered around the evolution of color polymorphism, and my future goal is to understand how climate and anthropogenic factors influence the distribution of color morphs and associated trait changes. I am also interested in patterns of body size change over spatial and temporal scales, and I will look at these trends using large trait datasets of mammals, amphibians, and reptiles. I look forward to learning new methods that will help in analyzing these types of datasets.
@@ -727,9 +725,9 @@ I am keen to learn about new methods of analysing and sharing data about functio
      <img src="/media/biosketches/2020/MJohnson.jpg" width="200" class="center">
       <p>
         <strong><a href="https://www.ucl.ac.uk/archaeology/people/research-students/mark-johnson">Mark Johnson</a></strong>
-     <p>
+     <br>
      University of College London
-     <p>
+     <br>
      Zooarchaeology
    </td>
   </tr>
@@ -739,13 +737,13 @@ I am keen to learn about new methods of analysing and sharing data about functio
      <img src="/media/biosketches/2020/MUhen.png" width="200" class="center">
      <p>
        <strong>Mark Uhen</strong
-     <p>
+     <br>
        <a href="https://www2.gmu.edu">George Mason University</a>
-     <p>     
+     <br>     
      Marine Mammals
-     <p>
+     <br>
        <a href="http://uhenlab.weebly.com/">Uhen Lab</a>
-     <p>
+     <br>
        <a href="https://twitter.com/UhenLab">@UhenLab</a>
    </td>
    <td colspan="2" width="70%">I study major evolutionary transitions, diversity, and the relationships of fossil organisms to Cenozoic climate change, focusing mainly on marine mammals, and most specifically on fossil cetaceans. Much of my work has focused on archaeocete cetaceans, stem cetaceans that gave rise to all modern whales, dolphins, and porpoises. My work has taken me all around the globe to collect fossils in Alaska, the Gulf Coast of the US, the Pacific Coast of the US, Peru, Egypt, and West Africa, among others. I am also the Chair of the Executive Committee of the <a href="https://paleobiodb.org">Paleobiology Database</a>, a global community project to database all of the fossil occurrences on the planet. There you can find all published occurrences of fossil marine mammals in one place, along with their associated geologic and environmental data.
@@ -758,9 +756,9 @@ I am keen to learn about new methods of analysing and sharing data about functio
    <td  width="30%">
      <p>
      <strong>Marta Vidal-Garcia</strong>
-     <p>
+     <br>
      University of Calgary
-     <p>
+     <br>
      Vertebrates
    </td>
   </tr>
@@ -769,9 +767,9 @@ I am keen to learn about new methods of analysing and sharing data about functio
    <td width="30%">
      <p>
      <strong>Michelle LeFebvre</strong
-     <p>
+     <br>
      University of Florida
-     <p>
+     <br>
      Zooarchaeology
    </td>
    <td colspan="2" width="70%">
@@ -793,11 +791,10 @@ I am always interested in learning about new ways to curate and analyze these ty
      <img src="/media/biosketches/2020/MMorgan.png" width="200" class="center">
      <p>
        <strong>Michèle Morgan</strong>
-     <p>
+     <br>
      Harvard University
-     <p>
+     <br>
      Peabody Museum of Archaeology and Ethnology
-     <p>
    </td>
   </tr>
   
@@ -806,11 +803,10 @@ I am always interested in learning about new ways to curate and analyze these ty
      <img src="/media/biosketches/2020/MKoo.jpg" width="200" class="center">
      <p>
        <strong>Michelle Koo</strong
-     <p>
+     <br>
      UC Berkeley
-     <p>
+     <br>
      Informatics
-     <p>
    </td>
    <td colspan="2" width="70%">I am the staff curator of Biodiversity Informatics at the Museum of Vertebrate Zoology. I also chair the Berkeley Natural History Museums informatics efforts. I am particularly interested in life history traits and worked on an early effort to database traits with Rob Guralnick, Walter Jetz and David Wake on the NSF VertLife project. My current interest in traits is focused on amphibian life history traits and hope to integrate this effort with the <a href="https://amphibiaweb.org/">AmphibiaWeb</a> database where we have rich species and taxonomy data. An AmphibiaWeb trait working group, with Molly Womack and Dave Blackburn, was recently formed to propel work on amphibian traits. Understanding better trait ontological efforts and the specific workflows that FuTRES is developing will inform our progress and hopefully lead to productive collaborations.
    </td>
@@ -835,9 +831,9 @@ Many of my publications compare life-history and morphological traits among anur
      <img src="/media/biosketches/2020/MWomack.jpg" width="200" class="center">
      <p>
        <strong>Molly Womack</strong>
-     <p>
+     <br>
      Utah State University
-     <p>
+     <br>
      Herpetology
    </td>
   </tr>
@@ -847,9 +843,9 @@ Many of my publications compare life-history and morphological traits among anur
      <img src="/media/biosketches/2020/MChurchill.jpg" width="200" class="center">
      <p>
        <strong>Morgan Churchill</strong
-     <p>
+     <br>
      University of Wischonsin-Oshkosh
-     <p>
+     <br>
      Marine Vertebrates
    </td>
    <td colspan="2" width="70%">I am a marine mammal biologist and paleontologist whose research focuses on understanding how the transition from terrestrial realms to aquatic lifestyles have influenced the anatomy, ecology, and diversity of whales and seals over time. My research uses morphometrics and phylogenetic comparative approaches to address questions in marine mammal biology, and I also work on the systematics of different clades as well
@@ -871,9 +867,9 @@ A reasonably up to date list of my publications can be found on <a href="https:/
      <img src="/media/biosketches/2020/NSykes.png" width="200" class="center">
      <p>
        <strong>Naomi Sykes</strong>
-     <p>
+     <br>
      University of Exeter
-     <p>
+     <br>
      Archaeology
    </td>
   </tr>
@@ -883,11 +879,11 @@ A reasonably up to date list of my publications can be found on <a href="https:/
      <img src="/media/biosketches/2020/NUpham.jpg" width="200" class="center">
      <p>
        <strong><a href="https://n8u.org/">Nate Upham</a></strong
-     <p>
+     <br>
      Arizona State University
-     <p>
+     <br>
      Mammalogy
-     <p>
+     <br>
        <a href="https://twitter.com/n8_upham">@n8_upham</a>
    </td>
    <td colspan="2" width="70%">I’m an integrative evolutionary mammalogist with broad training working in the field, natural history museums, the genomics lab, and with bioinformatics. I’m now an Assistant Research Professor & Associate Curator of Mammals in the NEON Biocollections at ASU.
@@ -918,11 +914,10 @@ My datasets include fish remains taxonomic identifications, skeletal measurement
      <img src="/media/biosketches/2020/NJimenezCano.png" width="200" class="center">
      <p>
        <strong><a href="https://orcid.org/0000-0001-9973-2452">Nayeli Jiménez Cano</a></strong>
-     <p>
+     <br>
     Universidad Autónoma de Yucatán
-     <p>
+     <br>
     Zooarchaeology
-      <p>
    </td>
   </tr>
   
@@ -931,13 +926,12 @@ My datasets include fish remains taxonomic identifications, skeletal measurement
      <img src="/media/biosketches/2020/NdelaSancha.png" width="200" class="center">
      <p>
        <strong>Noé U. De La Sancha</strong>
-     <p>
+     <br>
      Chicago State University
-     <p>
+     <br>
      Mammalogy
-     <p>
+     <br>
        <a href="https://twitter.com/noe_delasancha">@noe_delasancha</a>
-     <p>
    </td>
    <td colspan="2" width="70%">I would say I am a classically trained mammalogist. I’m currently an assistant professor at Chicago State University and a research associate at The Field Museum. I began with application of linear morphometrics on mammals for various type of taxonomic and systematic needs for biodiversity analyses. I then grew to enjoy the application of multivariate approaches to address questions dealing with ontogenetic variation, species delimitations, and correlating morphology with environmental variables. In my lab we have been working with traditional linear morphometrics and 2D geometric morphometrics. I began working on Matlab and then made a transition to R and love learning new applications and potentially developing new approaches to morphology as it applies to taxonomy, functional ecology and diversity, biogeography, population variation, and evolutionary biology. I would love to learn more about 3D geometric morphometrics and techniques for modularity type questions. I would be very interested in learning about any newer multivariate approaches and big data management. I am looking forward to a collaborative atmosphere with like-minded people.  
   <p>
@@ -976,11 +970,11 @@ You can check my research activity on <a href="https://www.researchgate.net/prof
      <img src="/media/biosketches/2020/OCirilli.jpg" width="200" class="center">
      <p>
        <strong>Omar Cirilli</strong>
-     <p>
+     <br>
      University of Florence - University of Pisa
-     <p>
+     <br>
      Paleobiology
-     <p>
+     <br>
      omar.cirilli@phd.unipi.it
    </td>
   </tr>
@@ -990,9 +984,9 @@ You can check my research activity on <a href="https://www.researchgate.net/prof
      <img src="/media/biosketches/2020/RShort.jpg" width="200" class="center">
      <p>
        <strong>Rachel Short</a> </strong>
-      <p>
+      <br>
       Texas A&M University
-      <p>
+      <br>
       Paleobiology
    </td>
    <td colspan="2" width="70%">I am a new NSF Postdoctoral Research Fellow in the Department of Ecology and Conservation Biology at Texas A&M and the School of Biological Sciences at Georgia Tech. I recently received my PhD in Ecosystem Science and Management at Texas A&M. I use trait-based approaches for understanding community-level faunal responses to environmental change. Much of my work focuses on using trait-environment relationships in ungulate communities, including hypsodonty and limb metrics. I am interested in how ecological and evolutionary processes drive community assemblage patterns and what we can learn from traits in the fossil record to inform modern conservation and management.
@@ -1081,11 +1075,10 @@ From a traits perspective most of my past work involved mammal diet and its rela
      <img src="/media/biosketches/2020/SFrost.jpg" width="200" class="center">
      <p>
        <strong>Stephen Frost</strong>
-     <p>
+     <br>
      University of Oregon
-     <p>
+     <br>
      Anthroplogy
-     <p>
    </td>
   </tr>
   
@@ -1094,15 +1087,14 @@ From a traits perspective most of my past work involved mammal diet and its rela
      <img src="/media/biosketches/2020/SPilaarBirch.png" width="200" class="center">
      <p>
        <strong>Suzanne Pilaar Birch</strong>
-     <p>
+     <br>
      University of Georgia
-     <p>
+     <br>
      Zooarchaeology
-     <p>
+     <br>
        <a href="https://twitter.com/suzie_birch">@suzie_birch</a>
-     <p>
+     <br>
        My <a href="https://research.franklin.uga.edu/quaternary">lab website</a> needs a facelift, but is recent enough.
-    <p>
    </td>
    <td colspan="2" width="70%">I’m a zooarchaeologist specializing in stable isotope analysis of faunal remains, but one of my pet peeves is when people do not record detailed information about specimens before sampling for biomolecular/geochemical analyses (or bother to consider the zooarchaeological context!) I also think zooarchaeologists and paleontologists should talk to each other more...
   <p>
@@ -1126,9 +1118,9 @@ ETA: I’m excited to “see” everyone again this year and meet those who are 
    <td  width="30%">
      <p>
      <strong>Virginia Butler</strong>
-     <p>
+     <br>
      Portland State Univeristy
-     <p>
+     <br>
      Zooarchaeology
    </td>
   </tr>
@@ -1141,12 +1133,12 @@ ETA: I’m excited to “see” everyone again this year and meet those who are 
   <tr>
    <td width="30%">
     <img src="/media/biosketches/2020/EDavis.png" width="200" class="center">
-    <strong>Edward Davis</strong>
     <p>
+      <strong>Edward Davis</strong>
+    <br>
     University of Oregon
-    <p>
+    <br>
     Paleobiology
-    <p>
    </td>
    <td colspan="2" width="70%">My research focuses on the evolution of morphology and species distributions in the context of changing environments. My data contribution will be mostly through supporting the ingestion of legacy paleo data from the literature, because I have funding from NSF to support graduate student effort in data mining.
 <p>
@@ -1178,11 +1170,10 @@ A couple of relevant publications:
 <strong>John Deck</strong>
 <p>
 Berkeley Natural History Museums, UC Berkeley
-<p>
+<br>
 Biocode, LLC
-<p>
+<br>
 Tech Team
- <p>
    </td>
   </tr>
   <tr>
@@ -1191,13 +1182,13 @@ Tech Team
 <img src="/media/biosketches/2020/KEmery.jpg" width="200" class="center">
 <p>
 <strong>Kitty Emery</strong>
-<p>
+<br>
 Florida Museum of Natural History, University of Florida
-<p>
+<br>
 <a href="https://www.floridamuseum.ufl.edu/envarch/">Environmental Archaeology</a>
-<p>
+<br>
 Zooarchaeology
-<p>
+<br>
 <a href="https://twitter.com/ZooArchNet">@ZooArchNet</a>
    </td>
    <td colspan="2" width="70%">Hi everyone! I'm an environmental archaeologist with a specialty in zooarchaeology. I love tromping around in the forests and mountains of Central America digging up data on the ancient relationship between people, animals, and environments.  
@@ -1242,11 +1233,11 @@ Relevant papers:
 
 <p>
 <strong><a href="https://sites.google.com/view/megbalk">Meghan Balk</a></strong>
-<p>
+<br>
 University of Arizona
-<p>
+<br>
 Paleobiology
-<p>
+<br>
 <a href="https://twitter.com/MegBalk">@MegBalk</a>
    </td>
   </tr>
@@ -1256,11 +1247,10 @@ Paleobiology
        
 <p>
 <strong>Neeka Sewnath</a></strong>
-<p>
+<br>
 University of Florida
-<p>
+<br>
 Informatics
-<p>
    </td>
    <td colspan="2" width="70%">
    </td>
@@ -1281,27 +1271,25 @@ Informatics
    <td width="30%">
 
 <img src="/media/biosketches/2020/RWalls.png" width="200" class="center">
-
 <p>
 <strong>Ramona Walls</strong>
-<p>
+<br>
 University of Arizona
-<p>
+<br>
 Ontologies
-<p>
+<br>
 <a href="https://twitter.com/Ramona_Walls">@Ramona_Walls</a>
    </td>
   </tr>
   <tr>
    <td width="30%">
 
-<img src="/media/biosketches/2020/RBernor.png" width="200" class="center">
-
+<img src="/media/biosketches/2020/RBernor.png" width="200" class="center"
 <p>
 <strong>Ray Bernor</strong>
-<p>
+<br>
 Howard University
-<p>
+<br>
 Paleobiology
    </td>
    <td colspan="2" width="70%">I am an evolutionary biologist/vertebrate paleontologist that works mostly in the Neogene and Quaternary of Eurasia and Africa.  I am concerned with large mammals, but within this group I work on  fossil and recent Equidae.  I frame large mammal evolution within a chronologic and biogeographic framework to understand the relationships between tectonics, climate change, environmental response, mammalian evolution and biogeographic distribution patterns.  The image to the right includes a small part of the extant zebras in the National Museum of Kenya, Nairobi that I am studying along with their Pleistocene representatives.
@@ -1324,9 +1312,9 @@ An informatics-oriented paper:
 
 <p>
 <strong><a href="https://sites.google.com/site/robgur/">Rob Guralnick </a></strong>
-<p>
+<br>
 University of Florida
-<p>
+<br>
 Informatics/Interdisciplinary
    </td>
   </tr>
@@ -1337,7 +1325,7 @@ Informatics/Interdisciplinary
 
 <p>
   <strong><a href="mailto:kathy@mkjoyceassociates.com">Kathy Joyce</a></strong>
-<p>
+<br>
 President, M. Kathleen Joyce & Associates
   </td>
    <td colspan="2" width="70%">I am President and Principal Consultant of M. Kathleen Joyce & Associates, a small, woman-owned business that has successfully served clients for more than 25 years. I work mainly with science and health organizations, including universities. My areas of expertise are meeting planning and facilitation, education about teamwork and communication, strategic and implementation planning, and organization development consulting. In partnership with the <a href="https://www.aibs.org/home/index.html">American Institute of Biological Sciences</a>, I developed and facilitate a two-day hands-on workshop <a href="https://www.aibs.org/events/team_science_event.html">Enabling Interdisciplinary and Team Science</a>, which we have offered in Washington DC, and  on-site at universities across the nation. (Given COVID, the workshop is currently offered via video). I’m thrilled to facilitate this meeting and learn more about FuTRES and to hear everyone’s creative ideas!
