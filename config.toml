@@ -1,39 +1,95 @@
 baseURL = "https://futreswebsite.netlify.com/"
 languageCode = "en-us"
 title = "FuTRES"
-theme = ["futres","kube"]
+theme = ["futres", "kube"]
 homepageText = "FuTRES"
 publishDir = "docs"
 
 [[menu.main]]
-  name = "About"
-  weight = -6
-  identifier = "about"
-  url = "/about/"
+  name = "How It Works"
+  weight = -8
+  identifier = "how"
+  url = "/how/"
 
 [[menu.main]]
   name = "Team"
-  weight = -5
+  weight = -7
   identifier = "team"
   url = "/team/"
 
 [[menu.main]]
-  name = "Workshop"
-  weight = -4
+  name = "Workshops"
+  weight = -6
   identifier = "workshop"
   url = "/workshop/"
+  
+[[menu.main]]
+  name = "2019 Workshop"
+  parent = "workshop"
+  weight = -9
+  identifier = "workshop2019"
+  url = "/workshop2019/"
 
 [[menu.main]]
-  name = "Use Cases"
+  parent = "workshop"
+  name = "2019 Participants & Organizers"
+  weight = -5
+  identifier = "biosketch2019"
+  url = "/biosketch2019/"
+ 
+ [[menu.main]]
+  parent = "workshop"
+  name = "2020 Participants & Organizers"
+  weight = -5
+  identifier = "biosketch2020"
+  url = "/biosketch2020/"
+
+[[menu.main]]
+  name = "Code of Conduct"
+  parent = "workshop"
+  weight = -4
+  identifier = "codeofconduct"
+  url = "/codeofconduct/"
+
+[[menu.main]]
+  name = "Projects"
   weight = -3
-  identifier = "usecases"
-  url = "/usecases/"
+  identifier = "projects"
+  url = "/projects/"
 
 [[menu.main]]
   name = "Data"
-  weight = -2
+  parent = "products"
+  weight = 6 
   identifier = "data"
   url = "/data/"
+
+[[menu.main]]
+  name = "Talks & Papers"
+  parent = "products"
+  weight = 4
+  identifier = "publish"
+  url = "/publish/"
+  
+[[menu.main]]
+  name = "News"
+  parent = "products"
+  weight = 8 
+  identifier = "news"
+  url = "/news/"
+
+[[menu.main]]
+  name = "Outreach"
+  parent = "products"
+  weight = 10
+  identifier = "outreach"
+  url = "/outreach/"
+  
+[[menu.main]]
+  name = "Products"
+  weight = -2
+  identifier = "products"
+  url = "/products/"
 
 #[[menu.main]]
 #  name = "Query"

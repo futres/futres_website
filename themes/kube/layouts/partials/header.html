@@ -10,12 +10,50 @@
       <a href="/" title="home"><img src="/media/logo88.jpg"></a>
     </div>
     <nav id="top-nav-main">
-      <ul>
+      <!--<ul>
        {{ $currentPage := . }}
        {{ range .Site.Menus.main }}
     <li><a href="{{ .URL }}" {{if  $currentPage.IsMenuCurrent "main" . }} class="active"{{end}}>{{ .Name }}</a></li>
+
+	{{ if .HasChildren }} 
+	{{ range .Children }}
+	   <span>{{ .Name }}kkk</span> 
+	{{ end }}
+	{{end}}
+
     {{end}}
       </ul>
+      -->
+    {{ define "menu-item" }}
+  {{ $page := .page }}
+  {{ with .entry }}
+    {{ if .HasChildren }}
+      <div class="dropdown">
+      <a class="dropbtn">{{ .Name }}</a>
+	 <div class="dropdown-content">
+            {{ range .Children.ByWeight }}
+	        <a href="{{ .URL }}">{{ .Name }}</a><br>
+            {{ end }}
+      	 </div>
+      </div>
+    {{ else }}
+      <div class="dropdown">
+      <li class="{{ if $page.IsMenuCurrent "main" . }}active{{ end }}">
+        <a class="nodropbtn" href="{{ .URL }}">{{ .Name }}</a>
+      </li>
+      </div>
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+<ul>
+  {{ $page := . }}
+  {{ range .Site.Menus.main }}
+    {{ template "menu-item" (dict "entry" . "page" $page) }}
+  {{ end }}
+</ul> 
+
+
     </nav>
     <nav id="top-nav-extra"> 
       <ul>
