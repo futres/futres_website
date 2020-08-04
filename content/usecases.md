@@ -8,7 +8,7 @@ FuTRES is designed to be expandable, and we expect many novel uses for trait dat
 
 FuTRES will not be limited to mammal data, however, and we will welcome data from domain scientists across the tree of life. In the end, many other analyses are also possible, such as the examination of processes that control miniaturization and gigantism across vertebrates, testing whether deforestation has led to evolutionary changes in bird or insect wing-aspect ratio, determining whether pre- and early historic fishing significantly reduced trophic levels and disturbed ocean ecologies, and testing hypotheses about the limits of allometric scaling in relation to overall body size across lineages of vertebrates, as a few examples.
 
-<p><figure><img src="/media/guralnick_fig.png" width = "100"><figcaption><a href="https://elifesciences.org/articles/27166">Reimer <i>et al.</i> 2018 eLife</a></figcaption><figure>
+<p><figure><img src="/media/guralnick_fig.png" width = "200"><figcaption><a href="https://elifesciences.org/articles/27166">Reimer <i>et al.</i> 2018 eLife</a></figcaption><figure>
 <h3>Bergmann’s Rule</h3>
 
 Lead: <em>R. Guralnick</em>
@@ -17,21 +17,21 @@ Bergmann's rule is a widely accepted biogeographic rule that individuals within 
 See <a href="https://futres.org/news/">recent publications</a> related to this work.
 
 
-<p><figure><img src="/media/locomotionfigure.png" width = "100"><figcaption><a href="https://www.frontiersin.org/articles/10.3389/fevo.2019.00119/full">Janis & Bernor 2019 Frontiers In Ecology and Evolution</a></figcaption><figure>
+<p><figure><img src="/media/locomotionfigure.png" width = "200"><figcaption><a href="https://www.frontiersin.org/articles/10.3389/fevo.2019.00119/full">Janis & Bernor 2019 Frontiers In Ecology and Evolution</a></figcaption><figure>
 <h3>Equid Locomotion</h3>
 
 Lead: <em>R. Bernor</em>
 
 The primary activity overseen by Co-PI Bernor will be the ingestion and analysis of his data on equid distal limb elements. These data have been used to characterize the relationship between varying proportions of distal limb elements and locomotion and habitat. While previous research has revealed a great diversity of size and limb proportions in extinct horses, the ingestion into FuTRES offers a unique opportunity to compare these ‘wild’ pre-human-impact data to the distribution of limb proportions in modern equids of North America. Co-PIs Davis and Emery will work to ingest equid limb proportion data from the archaeological record of the USA. In this way, we can test the hypothesis that existing feral horses have adopted ecological roles analogous to the wild horses that were lost in the megafaunal extinction ~13,000 years ago.
 
-<p><figure><img src="/media/futres_fig.png"><figure>
+<p><figure><img src="/media/futres_fig.png" width = "200"><figure>
 <h3>Hypsodonty and Crown Type</h3>
 
 Lead: <em>R. Bernor</em>
 
 Mammalian tooth crown height, or hypsodonty, and occlusal cutting-edge count has proven important for mapping continental-scale precipitation, temperature, and primary productivity patterns in the Neogene of Eurasia. These methods have recently been expanded as Functional Crown Types (FCT) in the Turkana Basin, Kenya. FCT is designed to capture functional durability, structural strength, and cutting power. These factors relate to the environment through available foods, with harder, dustier, and less nutritious foods found in arid environments. Bernor will oversee the ingestion of FCT variables into FuTRES. Once these data are ingested, they can be cross-referenced with body size and limb proportion data to begin testing the hypothesis that these traits are linked as lineages of ungulate mammals have adapted to changing environments.
 
-<p><figure><img src="/media/kitty_fig.png" width = "100"><figure>
+<p><figure><img src="/media/kitty_fig.png" width = "200"><figure>
 <h3>Using Prey Body Size Data to Track Human Impact</h3>
 
 Lead: <em>K. Emery</em>
