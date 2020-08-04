@@ -1168,7 +1168,7 @@ A couple of relevant publications:
 <img src="/media/biosketches/2020/JDeck.png" width="200" class="center">
 <p>
 <strong>John Deck</strong>
-<p>
+<br>
 Berkeley Natural History Museums, UC Berkeley
 <br>
 Biocode, LLC
