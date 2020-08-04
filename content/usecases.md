@@ -8,15 +8,16 @@ FuTRES is designed to be expandable, and we expect many novel uses for trait dat
 
 FuTRES will not be limited to mammal data, however, and we will welcome data from domain scientists across the tree of life. In the end, many other analyses are also possible, such as the examination of processes that control miniaturization and gigantism across vertebrates, testing whether deforestation has led to evolutionary changes in bird or insect wing-aspect ratio, determining whether pre- and early historic fishing significantly reduced trophic levels and disturbed ocean ecologies, and testing hypotheses about the limits of allometric scaling in relation to overall body size across lineages of vertebrates, as a few examples.
 
-<p><figure><img src="/media/guralnick_fig.png"><figcaption><a href="https://elifesciences.org/articles/27166">Reimer <i>et al.</i> 2018 eLife</a></figcaption><figure>
+<p><figure><img src="/media/guralnick_fig.png" width = "300"><figcaption><a href="https://elifesciences.org/articles/27166">Reimer <i>et al.</i> 2018 eLife</a></figcaption><figure>
 <h3>Bergmann’s Rule</h3>
 
 Lead: <em>R. Guralnick</em>
 
 Bergmann's rule is a widely accepted biogeographic rule that individuals within a species are smaller in warmer environments. It provides a predictive framework for understanding potential response of species in the face of climatic changes. Co-PI Guralnick is investigating whether niche characteristics of species are predictive of relationship between abiotic factors and intraspecific body variation. To best do this, it is critical to aggregate specimen measurements from fossil and modern species and handle direct and inferred measurements of body size. Guralnick will develop use cases focusing on body size variation in small mammals with exemplary sampling in the modern and fossil record (e.g. deer mice) and develop new model frameworks for integrating fossil and modern body size datasets.
+See <a href="https://futres.org/news/">recent publications</a> related to this work.
 
 
-<p><figure><img src="/media/locomotionfigure.png"><figcaption><a href="https://www.frontiersin.org/articles/10.3389/fevo.2019.00119/full">Janis & Bernor 2019 Frontiers In Ecology and Evolution</a></figcaption><figure>
+<p><figure><img src="/media/locomotionfigure.png" width = "300"><figcaption><a href="https://www.frontiersin.org/articles/10.3389/fevo.2019.00119/full">Janis & Bernor 2019 Frontiers In Ecology and Evolution</a></figcaption><figure>
 <h3>Equid Locomotion</h3>
 
 Lead: <em>R. Bernor</em>
@@ -30,7 +31,7 @@ Lead: <em>R. Bernor</em>
 
 Mammalian tooth crown height, or hypsodonty, and occlusal cutting-edge count has proven important for mapping continental-scale precipitation, temperature, and primary productivity patterns in the Neogene of Eurasia. These methods have recently been expanded as Functional Crown Types (FCT) in the Turkana Basin, Kenya. FCT is designed to capture functional durability, structural strength, and cutting power. These factors relate to the environment through available foods, with harder, dustier, and less nutritious foods found in arid environments. Bernor will oversee the ingestion of FCT variables into FuTRES. Once these data are ingested, they can be cross-referenced with body size and limb proportion data to begin testing the hypothesis that these traits are linked as lineages of ungulate mammals have adapted to changing environments.
 
-<p><figure><img src="/media/kitty_fig.png" width = "500"><figure>
+<p><figure><img src="/media/kitty_fig.png" width = "300"><figure>
 <h3>Using Prey Body Size Data to Track Human Impact</h3>
 
 Lead: <em>K. Emery</em>
@@ -56,11 +57,33 @@ Most allometries assume a power function relationship for prediction, are there 
 We compiles a dataset across the mammal tree of life to test various functions to test allometries in mammals.  
 
 <h3>Determining Best Predictor for Body Size from Limb Elements</h3>
-Lead: <em>J. Saarinen</em> and <em>R.L. Bernor</em>
+
+Leads: <em>J. Saarinen</em> and <em>R.L. Bernor</em>
 
 We tested published dental and limb bone measurement -based regression equations (Janis 1990, McFadden and Hubert 1990, Scott 1990, Aberdi et al. 1995) for estimating body mass of horses (Equidae) by comparing how accurately the resulting body mass estimates from these equations for modern zebras (Equus quagga and E. grevyi) match published mean body masses of these species (Kowak 1999). Based on % prediction errors of the estimates from different skeletal measurements, we created a "best practice" -scheme for estimating equid body masses in terms of the choise of skeletal elements that most accurately estimate body mass in equids. Metapodial articular and mid-shaft widths were found to be among the best and most frequently available measurements, and they predict body mass more consistently than dental measurements, so they have the priority in equid body mass estimation. Of dental measurements, first upper and lower molar lengths provide the best body mass estimates for modern zebras. The work has been done (as thoroughly as published records allow), so not much further input from FuTRES is necessary, except in the form of discussion.
 
 <h3>Trait Variation in Mammals across Size, Climate, and Life History</h3>
+
 Lead: <em>M. Hantak</em>
 
-Animal body size is an important morphological attribute that is tightly linked with physiology, behavior, and ecology. Previous work has demonstrated variability in body mass and length correlations between small and large mammals. However, these relationships have never been examined in a single modeling framework that encompasses variation in environmental conditions or functional traits. Using the data ingested into FuTRES, we aim to examine body mass and length allometries among hundreds of mammals across a range of relative body sizes, while accounting for climatic conditions and life history traits.  
+Animal body size is an important morphological attribute that is tightly linked with physiology, behavior, and ecology. Previous work has demonstrated variability in body mass and length correlations between small and large mammals. However, these relationships have never been examined in a single modeling framework that encompasses variation in environmental conditions or functional traits. Using the data ingested into FuTRES, we aim to examine body mass and length allometries among hundreds of mammals across a range of relative body sizes, while accounting for climatic conditions and life history traits.
+
+<h3>Best Practices for Developing and Reporting Allometries</h3>
+
+Lead: <em>M.A. Balk</em>
+
+Biologist (modern and paleo) tend to use mean species' body size in studies. However, these values have been determined possibly from a small sample size, or are old and do not represent population or species trends. We use data ingested into FuTRES to recalculate species' body size distributions and further show how to best report these allometries so that a range of a trait can be recreated.
+
+<h3>Cleaning Big, Messy Data</h3>
+
+Lead: <em>M.A. Balk</em>
+
+Despite labs having standards for trait collection, these standards may not be the same across labs or may be errorenously entered into a data store. Using FuTRES as a case study, we develop method standards for cleaning big, messy data without making assumptions about ranges for species' traits based off the literature. Additionally, we will make these functions available for other data collectors to test.
+
+<h3>Tool Paramaterization for Predicting Body Size</h3>
+
+Lead: <em>E. Davis</em>
+
+<h3>Linking traits from the carcass down to the osteological traits of interest</h3>
+
+Leads: <em>K. Emery</em> and <em>S. Pilaar-Birch</em>
