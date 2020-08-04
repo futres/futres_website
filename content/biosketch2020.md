@@ -19,12 +19,11 @@ I am currently investigating changes in large mammal occurrences in the Indian S
      <img src="/media/biosketches/2020/AJukar.jpg" width="200" class="center">
   <p>
      <strong><a href="https://advaitjukar.weebly.com/">Advait Jukar</a></strong>
-     <p>
+     <br>
      Yale University
-     <p>
+     <br>
      Paleobioloty
-       <a href="https://twitter.com/amjukar">@amjukar</a>
-     <p>
+    <a href="https://twitter.com/amjukar">@amjukar</a>
    </td>
   </tr>
   
