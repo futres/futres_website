@@ -48,9 +48,10 @@ I am excited to learn about new analytical tools and the most effective ways to 
   </tr>
   
   <tr>
-   <td colspan="2" width="70%">
+   <td colspan="2" width="70%">I am a PhD candidate at the University of Oregon, and I am broadly interested in mammalian diversity patterns through time. I use the fossil record as well as modern data to investigate these trends, and am specifically interested in how diversity patterns relate to life history variables, as well as factors of the physical landscape and tectonic history. I have previously worked on collecting data from the literature for the FuTRES database, and am looking forward to learning more about ontology-based data. I have dental measurement data from Oligo-Miocene mammals of North America.
    </td>
    <td  width="30%">
+     <img src="/media/biosketches/2020/APeng.png" width="200" class="center">
      <p>
      <strong>Amanda Peng</strong>
      <p>
@@ -468,17 +469,19 @@ My archaeological research interests include how and why people move across land
    <p>
      
    <p>
-<a href="https://www.schweizerbart.de/papers/njgpa/detail/291/90570/Investigation_of_the_mobility_of_American_lion_Panthera_atrox_from_Mexico_Cedral_San_Luis_Potosi_using_Sr_isotopes">Pérez-Crespo, V.A., P. Schaaf, G. Solís-Pichardo, <b>J. Arroyo-Cabrales</b>, and J.R. Torres-Hernández. 2019. Investigation of the mobility of American lion (Panthera atrox) from México (Cedral, San Luis Potosí) using Sr isotopes.  Neues Jahrbuch für Geologie und Paläontologie Abhandlungen (N. Jb. Geol. Paläont. Abh.), 291/3:351-357.</a>
+  Recent publications:
+  Schubert, BW, Samuels, JX, Chatters, JC and <b>Arroyo-Cabrales, J.</B> 2020. Muknalia minima from the Yucatán of Mexico is synonymous with the collared peccary, Pecari tajacu (Artiodactyla: Tayassuidae). Open Quaternary, 6: 8, pp. 1–9. DOI: https://doi.org/10.5334/oq.84
    <p>
      
    <p>  
-<a href="https://reader.elsevier.com/reader/sd/pii/S146290111830474X?token=643536383EE8601A8C819A69DAECE16C277F2764E8BC1E78D7D24E2E697B202026E5DEC2CE45344971730D4D157425B9">Ochoa-Ochoa, L.M., C.A. Ríos-Muñoz⁠, S.B. Johnson, O.A. Flores-Villela, <b>J. Arroyo-Cabrales</b>, and M. Martínez-Gordillo.  2019.  Invasive species: Legislation and species list considerations from Mexico.  Environmental Science and Policy, 96:59-63.</a>
-   <p>
+Díaz-Sibaja, R., F.J. Jiménez-Moreno, R. Palomino-Merino, J.E. Espinosa Rosales, Z. Lagunas-Rodríguez, <b>J. Arroyo-Cabrales</b>, I. Alarcón-D. y G. Carbot-Chanona.  2020.  A fossil Bison antiquus from Puebla (Mexico) and a new minimum age for the Valsequillo fossil area.  Journal of South American Earth Sciences, 103. DOI: https://doi.org/10.1016/j.jsames.2020.102766 
+<p>
      
    <p>  
-<a href="https://royalsocietypublishing.org/doi/pdf/10.1098/rsbl.2019.0148">Schubert, B.W., J.C. Chatters, <b>J. Arroyo-Cabrales</b>, J. X. Samuels, L.H. Soibelzon, F.J. Prevosti, C. Widga, A. Nava, D. Rissolo, and P. Luna Erreguerena.  2019.  Yucatán carnivorans shed light on Great American Biotic Interchange.  Biology Letters, 15:20190148. http://dx.doi.org/10.1098/rsbl.2019.0148</a>
+Ardelean, C:F., L. Becerra-Valdivia, M.W. Pedersen, J.-L. Schwenning, C. G. Oviatt, J.I. Macías-Quintero, <b>J. Arroyo-Cabrales</b>, M. Sikora, Y.Z.E. Ocampo-Díaz, I.I. Rubio-Cisneros, J.G. Watling, V.B. de Medeiros, P.E. De Oliveira, L. Barba-Pingarrón, A. Ortiz-Butrón, J. Blancas-Vázquez, I. Rivera-González, C. Solís-Rosales, M. Rodríguez-Ceja, D.A. Gandy, Z. Navarro-Gutierrez, J.J. De La Rosa-Díaz, V. Huerta-Arellano, M.B. Marroquín-Fernández, L.M. Martínez-Riojas, A. López-Jiménez, T. Higham y E. Willerslev.  2020.  Evidence of human occupation in Mexico around the Last Glacial Maximum. Nature, https://doi.org/10.1038/s41586-020-2509-0 
    </td>
    <td  width="30%">
+   <img src="/media/biosketches/2020/JArroyoCabrales.jpg" width="200" class="center">
      <p>
      <strong>Joaquin Arroyo-Cabrales</strong>
      <p>
@@ -1055,14 +1058,20 @@ In addition to isotopic analyses, I maintain a skeletal collection of fauna, inc
   
   <tr>
    <td width="30%">
-     <p">
+     <img src="/media/biosketches/2020/SPinedaMunoz.jpg" width="200" class="center">
+     <p>
      <strong>Silvia Pineda-Muñoz</strong
      <p>
      Georgia Tech
      <p>
      Paleobiology
    </td>
-   <td colspan="2" width="70%">
+   <td colspan="2" width="70%">I am an ecologist and paleoecologist interested in conservation paleoecology and functional morphology in mammals. 
+I’m particularly interested in the role human expansion has had on species’ ecology and how anthropogenic impacts are shaping their functional traits. 
+<p>
+                              
+<p>
+From a traits perspective most of my past work involved mammal diet and its relationship with many functional traits such as body mass and tooth morphology. I also explore diet as a functional trait, how it varies at different temporal scales, and how to select a dietary classification that best matches our research questions. 
    </td>
   </tr>
   
