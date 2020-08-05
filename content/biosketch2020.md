@@ -298,11 +298,11 @@ your data well-mannered.
    </td>
    <td  width="30%">
      <p>
-     <strong>David Bloom</strong
+       <strong>David Bloom</strong>
       <br>
-       VertNet Coordinator
+      VertNet Coordinator
        <br>
-         Informatics
+       Informatics
         <br>
           <a href="http://vertnet.org/">VertNet</a>
    </td>
@@ -354,7 +354,7 @@ Pdfs of my recent publications are available on my website.
    <td  width="30%">
      <img src="/media/biosketches/2020/DReed.png" width="200" class="center">
      <p>
-       <strong><a href="https://paleocore.org/">Denné Reed</a></strong
+       <strong><a href="https://paleocore.org/">Denné Reed</a></strong>
      <br>
      University of Texas, Austin
      <br>
