@@ -32,7 +32,7 @@ I am currently investigating changes in large mammal occurrences in the Indian S
    <td width="30%">
      <img src="/media/biosketches/2020/AShupinksi.jpg" width="200" class="center">
      <br>
-       <strong>Alexandra Shupinkski</strong
+     <strong>Alexandra Shupinkski</strong>
      <br>
      University of Nebraska
      <br>
@@ -96,7 +96,7 @@ I would like to gain new informatics and analytical skills while connecting with
    <td width="30%">
      <img src="/media/biosketches/2020/ABelenGalanLopez.png" width="200" class="center">
      <p>
-       <strong>Ana Belén Galán López</strong
+       <strong>Ana Belén Galán López</strong>
      <br>
      TRACES-UMR5608/ Université de Montréal
      <br>
@@ -202,7 +202,7 @@ I am looking forward to this workshop and learning how to use the FuTRES framewo
    <td  width="30%">
      <img src="/media/biosketches/2020/CCrawford.jpg" width="200" class="center">
      <p>
-       <strong>Callie Crawford</strong
+       <strong>Callie Crawford</strong>
      <br>
      New Jersey Institute of Technology
      <br>
@@ -242,7 +242,7 @@ I am excited to talk to others about trait data standardization to allow for rep
    <td  width="30%">
      <img src="/media/biosketches/2020/DReuter.jpg" width="200" class="center">
      <p>
-     <strong><a href="https://blogs.uoregon.edu/danareuter/">Dana Reuter</a></strong
+       <strong><a href="https://blogs.uoregon.edu/danareuter/">Dana Reuter</a></strong>
      <br>
      University of Oregon
      <br>
@@ -400,7 +400,7 @@ A sampling of my publications and other background may be found on <a href="http
    <td width="30%">
      <img src="/media/biosketches/2020/HMachado.jpg" width="200" class="center">
      <p>
-       <strong>Helena Machado</strong
+       <strong>Helena Machado</strong>
      <br>
      University of Oregon
      <br>
@@ -436,7 +436,7 @@ My archaeological research interests include how and why people move across land
    <td width="30%">
      <img src="/media/biosketches/2020/JMcGuire.jpg" width="200" class="center">
      <p>
-       <strong><a href="http://www.mcguire.gatech.edu/">Jenny McGuire</a></strong
+       <strong><a href="http://www.mcguire.gatech.edu/">Jenny McGuire</a></strong>
      <br>
      Georgia Tech
      <br>
@@ -481,7 +481,7 @@ Ardelean, C:F., L. Becerra-Valdivia, M.W. Pedersen, J.-L. Schwenning, C. G. Ovia
    <td width="30%">
       <img src="/media/biosketches/2020/JWieczorek.jpg" width="200" class="center">
      <p>
-     <strong>John Wieczorek</strong
+       <strong>John Wieczorek</strong>
      <br>
      VertNet, Rauthiflor LLC, UC, Berkeley
      <br>  
@@ -535,7 +535,7 @@ I am interested in the discussion of databases of trait data at the specimen lev
   <tr>
    <td width="30%">
      <p>
-     <strong><Joshua Doby</strong
+       <strong><Joshua Doby</strong>
      <br>
      University of Florida
      <br>
@@ -577,7 +577,7 @@ I regularly collect trait data (mainly measurements of skull and teeth of mammal
    <td width="30%">
      <img src="/media/biosketches/2020/JSaarinen.png" width="200" class="center">
      <p>
-       <strong>Juha Saarinen</strong
+       <strong>Juha Saarinen</strong>
      <br>
      University of Helsinki
      <br>
@@ -604,7 +604,7 @@ I regularly collect trait data (mainly measurements of skull and teeth of mammal
    <td width="30%">
      <img src="/media/biosketches/2020/LBrenskelle.jpg" width="200" class="center">
      <p>
-       <strong>Laura Brenskelle</strong
+       <strong>Laura Brenskelle</strong>
      <br>
      University of Florida
      <br>
@@ -654,7 +654,7 @@ I regularly collect trait data (mainly measurements of skull and teeth of mammal
    <td width="30%">
      <img src="/media/biosketches/2020/LBarrow.jpg" width="200" class="center">
      <p>
-       <strong><a href="https://barrowevobio.wixsite.com/lisabarrow">Lisa Barrow</a></strong
+       <strong><a href="https://barrowevobio.wixsite.com/lisabarrow">Lisa Barrow</a></strong>
      <br>
      University of New Mexico
      <br>
@@ -690,7 +690,7 @@ As of January 2021, I will be Assistant Professor and Curator of Herpetology at 
    <td width="30%">
      <img src="/media/biosketches/2020/MHantak.jpg" width="200" class="center">
      <p>
-       <strong>Maggie Hantak</strong
+       <strong>Maggie Hantak</strong>
      <br>
      University of Florida
      <br>
@@ -724,7 +724,7 @@ I am keen to learn about new methods of analysing and sharing data about functio
    <td width="30%">
      <img src="/media/biosketches/2020/MUhen.png" width="200" class="center">
      <p>
-       <strong>Mark Uhen</strong
+       <strong>Mark Uhen</strong>
      <br>
        <a href="https://www2.gmu.edu">George Mason University</a>
      <br>     
@@ -754,7 +754,7 @@ I am keen to learn about new methods of analysing and sharing data about functio
   <tr>
    <td width="30%">
      <p>
-     <strong>Michelle LeFebvre</strong
+       <strong>Michelle LeFebvre</strong>
      <br>
      University of Florida
      <br>
@@ -790,7 +790,7 @@ I am always interested in learning about new ways to curate and analyze these ty
    <td width="30%">
      <img src="/media/biosketches/2020/MKoo.jpg" width="200" class="center">
      <p>
-       <strong>Michelle Koo</strong
+       <strong>Michelle Koo</strong>
      <br>
      UC Berkeley
      <br>
@@ -830,7 +830,7 @@ Many of my publications compare life-history and morphological traits among anur
    <td width="30%">
      <img src="/media/biosketches/2020/MChurchill.jpg" width="200" class="center">
      <p>
-       <strong>Morgan Churchill</strong
+       <strong>Morgan Churchill</strong>
      <br>
      University of Wischonsin-Oshkosh
      <br>
@@ -866,7 +866,7 @@ A reasonably up to date list of my publications can be found on <a href="https:/
    <td width="30%">
      <img src="/media/biosketches/2020/NUpham.jpg" width="200" class="center">
      <p>
-       <strong><a href="https://n8u.org/">Nate Upham</a></strong
+       <strong><a href="https://n8u.org/">Nate Upham</a></strong>
      <br>
      Arizona State University
      <br>
@@ -1041,7 +1041,7 @@ In addition to isotopic analyses, I maintain a skeletal collection of fauna, inc
    <td width="30%">
      <img src="/media/biosketches/2020/SPinedaMunoz.jpg" width="200" class="center">
      <p>
-     <strong>Silvia Pineda-Muñoz</strong
+       <strong>Silvia Pineda-Muñoz</strong>
      <p>
      Georgia Tech
      <p>
