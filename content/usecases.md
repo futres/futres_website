@@ -12,8 +12,15 @@ FuTRES will not be limited to mammal data, however, and we will welcome data fro
 
 Lead: <em>R. Guralnick</em>
 
-<div><figure><p><img src="/media/guralnick_fig.png" width = "50%" style="float:left;caption-side:bottom;text-align:center;border:none;word-wrap:normal;"><figcaption><a href="https://elifesciences.org/articles/27166">Reimer <i>et al.</i> 2018 eLife</a></figcaption></figure></div>(Update14) Bergmann's rule is a widely accepted biogeographic rule that individuals within a species are smaller in warmer environments. It provides a predictive framework for understanding potential response of species in the face of climatic changes. Co-PI Guralnick is investigating whether niche characteristics of species are predictive of relationship between abiotic factors and intraspecific body variation. To best do this, it is critical to aggregate specimen measurements from fossil and modern species and handle direct and inferred measurements of body size. Guralnick will develop use cases focusing on body size variation in small mammals with exemplary sampling in the modern and fossil record (e.g. deer mice) and develop new model frameworks for integrating fossil and modern body size datasets.</p>
-  See <a href="https://futres.org/news/">recent publications</a> related to this work.</div>
+<div><figure><p><img src="/media/guralnick_fig.png" width = "50%" style="float:left;caption-side:bottom;text-align:center;border:none;word-wrap:normal;"><figcaption><a href="https://elifesciences.org/articles/27166">Reimer <i>et al.</i> 2018 eLife</a></figcaption></figure></div>(Update14) 
+
+<div class=figure>
+  <p><img src="/media/guralnick_fig.png"
+    width="30%";
+          style="float:left;">
+  <p><a href="https://elifesciences.org/articles/27166">Reimer <i>et al.</i> 2018 eLife</a>
+Bergmann's rule is a widely accepted biogeographic rule that individuals within a species are smaller in warmer environments. It provides a predictive framework for understanding potential response of species in the face of climatic changes. Co-PI Guralnick is investigating whether niche characteristics of species are predictive of relationship between abiotic factors and intraspecific body variation. To best do this, it is critical to aggregate specimen measurements from fossil and modern species and handle direct and inferred measurements of body size. Guralnick will develop use cases focusing on body size variation in small mammals with exemplary sampling in the modern and fossil record (e.g. deer mice) and develop new model frameworks for integrating fossil and modern body size datasets.
+<br>See <a href="https://futres.org/news/">recent publications</a> related to this work.</div>
 
 
 <h3>Equid Locomotion</h3>
