@@ -368,6 +368,10 @@ Pdfs of my recent publications are available on my website.
    <td width="30%">
     <p>
       <strong>Doug Boyer</strong>
+      <br>
+      Duke Univeristy
+      <br>
+      Informatics
    </td>
    <td colspan="2" width="70%">
    </td>
