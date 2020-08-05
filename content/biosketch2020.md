@@ -138,39 +138,6 @@ Recent relevant publication: <a href="https://doi.org/10.1002/evan.21824">The zo
   </tr>
   
   <tr>
-   <td colspan="2" width="70%">I’m a PhD candidate in the Department of Anthropology at UF. Archaeology and natural history museum collections are invaluable to my research, which draws on human behavioral ecology, biodiversity studies, and zooarchaeological analysis to examine how people in the Caribbean interacted with animals and their environments during pre-Contact periods.
-  <p>
-  
-  <p>
-During my studies I’ve learned that zooarchaeologists are important contributors to trait-based datasets! Some of my relevant work includes describing extinct rodent species known only from Grenadian archaeological contexts and working with collaborators to investigate how past ritual activities impacted the biogeography of Caribbean rock iguana by comparing biomarkers of specimens from archaeological and neontological collections. 
-  <p>
-    
-  <p>  
-I’m looking forward to learning how FuTRES can help increase access to datasets across disciplines for more informed and collaborative research.
-   </td>
-   <td  width="30%">
-     <img src="/media/biosketches/2020/BMistretta.jpg" width="200" class="center">
-     <p>
-       <strong><a href="http://www.bamarchaeology.com/">Brittany Mistretta</a></strong>
-     <br>
-     University of Florida
-     <br>
-       <a href="https://twitter.com/BAMistretta">@BAMistretta</a>
-   </td>
-  </tr>
-  
-  <tr>
-   <td width="30%">
-     <img src="/media/biosketches/2020/BKohli.jpg" width="200" class="center">
-     <p>
-       <strong><a href="https://brookskohli.weebly.com/">Brooks Kohli</a></strong
-     <br>
-     Ohio State University
-     <br>
-     Mammalogy, Ecology
-     <br>
-       <a href="https://twitter.com/brooksakohli">@brooksakohli</a>
-   </td>
    <td colspan="2" width="70%">I am a mammalogist and ecologist interested in patterns and drivers of diversity.  I am particularly interested in using functional diversity to investigate the drivers of community assembly, elevational diversity gradients, and biodiversity change. As part of this work I use museum specimens to collect morphological, phenotypic, and life history trait data that offer higher-resolution data on species differences compared to categorical guild assignments, including kidney morphology, hair density, and craniodental morphology. I am interested in learning about tools for applying functional diversity to broad spatial and temporal scales as well as exploring intraspecific variation in key traits across species’ ranges and how it may influence analyses of functional biogeography.
   <p>
     
@@ -183,9 +150,31 @@ Relevant papers:
    <p> 
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ecog.03747"><b>Kohli</b> et al. 2018. A trait‐based framework for discerning drivers of species co‐occurrence across heterogeneous landscapes</a>
    </td>
+   <td  width="30%">
+     <img src="/media/biosketches/2020/BKohli.jpg" width="200" class="center">
+     <p>
+       <strong><a href="https://brookskohli.weebly.com/">Brooks Kohli</a></strong
+     <br>
+     Ohio State University
+     <br>
+     Mammalogy, Ecology
+     <br>
+       <a href="https://twitter.com/brooksakohli">@brooksakohli</a>
+   </td>
   </tr>
   
   <tr>
+   <td width="30%">
+     <img src="/media/biosketches/2020/BMcLean.jpg" width="200" class="center">
+    <p>
+      <strong><a href="https://bryanmclean.weebly.com/">Bryan McLean</a></strong>
+    <br>
+    University of North Carolina Greensboro
+    <br>
+    Evolutionary Biology, Mammalogy
+    <br>   
+      <a href="https://twitter.com/bryansmclean">@bryansmclean</a>
+   </td>
    <td colspan="2" width="70%">I am an integrative biologist interested in landscape- to continental-scale patterns of mammalian evolution and responses of mammals to past and present environmental change. I use empirical (molecular, phenotypic, trait-based) datasets as well as informatics tools to understand the ecological and environmental contexts in which mammalian phenotypes, life histories, and ecological traits evolve. 
   <p>
     
@@ -196,21 +185,21 @@ Most of my trait datasets are taxon-centric (North American rodents) and consist
   <p>  
     <a href="https://scholar.google.com/citations?user=DPABkrgAAAAJ&hl=en">Google Scholar Profile</a>
    </td>
-   <td  width="30%">
-    <img src="/media/biosketches/2020/BMcLean.jpg" width="200" class="center">
-    <p>
-      <strong><a href="https://bryanmclean.weebly.com/">Bryan McLean</a></strong>
-    <br>
-    University of North Carolina Greensboro
-    <br>
-    Evolutionary Biology, Mammalogy
-    <br>   
-      <a href="https://twitter.com/bryansmclean">@bryansmclean</a>
-   </td>
   </tr>
   
   <tr>
-   <td width="30%">
+   <td colspan="2" width="70%">
+     I am a PhD candidate working on the functional morphology of balitorid loaches, a group of small freshwater fishes from Southeast Asia. My focus has been on morphology and biomechanics but I am hoping to expand into more of an ecomorphology direction. I mostly work with CT scan data of fishes, both bony and cartilaginous.
+  <p>
+    
+  <p>  
+I am looking forward to this workshop and learning how to use the FuTRES framework to share and obtain datasets and develop collaborations. 
+  <p>
+    
+  <p>  
+<a href="https://scholar.google.com/citations?view_op=search_authors&mauthors=Callie+Crawford&hl=en&oi=ao">Google Scholar Profile</a>
+   </td>
+   <td  width="30%">
      <img src="/media/biosketches/2020/CCrawford.jpg" width="200" class="center">
      <p>
        <strong>Callie Crawford</strong
@@ -221,26 +210,10 @@ Most of my trait datasets are taxon-centric (North American rodents) and consist
      <br>
        <a href="https://twitter.com/CallieHCrawford">@CallieHCrawfrod</a>
    </td>
-   <td colspan="2" width="70%">I am a PhD candidate working on the functional morphology of balitorid loaches, a group of small freshwater fishes from Southeast Asia. My focus has been on morphology and biomechanics but I am hoping to expand into more of an ecomorphology direction. I mostly work with CT scan data of fishes, both bony and cartilaginous.
-  <p>
-    
-  <p>  
-I am looking forward to this workshop and learning how to use the FuTRES framework to share and obtain datasets and develop collaborations. 
-  <p>
-    
-  <p>  
-<a href="https://scholar.google.com/citations?view_op=search_authors&mauthors=Callie+Crawford&hl=en&oi=ao">Google Scholar Profile</a>
-   </td>
   </tr>
   
   <tr>
-   <td colspan="2" width="70%">I’m a supposedly retired paleomammalogist, interested in the ecomorphology of large mammals (including ungulates, carnivorans, and marsupials) in relation to Cenozoic climatic change. I have lots of photographic and measurement data that I would be delighted to share with people.
-  <p>
-    
-  <p>  
-    <a href="https://vivo.brown.edu/display/cjanis">My Brown University webpage</a> has links to my publications.
-   </td>
-   <td  width="30%">
+   <td width="30%">
      <img src="/media/biosketches/2020/CJanis.jpg" width="200" class="center">
      <p>
     <strong>Christine Janis</strong>
@@ -251,10 +224,22 @@ I am looking forward to this workshop and learning how to use the FuTRES framewo
      <br>
      Paleobiology
    </td>
+   <td colspan="2" width="70%">I’m a supposedly retired paleomammalogist, interested in the ecomorphology of large mammals (including ungulates, carnivorans, and marsupials) in relation to Cenozoic climatic change. I have lots of photographic and measurement data that I would be delighted to share with people.
+  <p>
+    
+  <p>  
+    <a href="https://vivo.brown.edu/display/cjanis">My Brown University webpage</a> has links to my publications.
+   </td>
   </tr>
   
   <tr>
-   <td width="30%">
+   <td colspan="2" width="70%">I am a paleoecologist interested in understanding the processes that govern mammalian diet and community structure change through time. Some of my work focuses on extant mammals where I use phylogenetic comparative methods to understand mammalian diet evolution, diversity, and how these relate to body mass. For my work on fossil assemblages, I use tooth morphology, and stable isotopic studies, to test hypotheses about the ecological links among extinct taxa and their environment. To better understand how past climate change has influenced structural change, I combine my research to reconstruct food webs for fossil assemblages. I hope that by using the fossil record to explore past ecological structure, my research not only helps expand our paleontological knowledge but also informs how modern communities might respond to current human-influenced climate change and extinction.
+  <p>
+    
+   <p> 
+I am excited to talk to others about trait data standardization to allow for reproducibility and collaboration. I have lots of tooth measurements for both modern and extinct mammals from collections around the USA.
+   </td>
+   <td  width="30%">
      <img src="/media/biosketches/2020/DReuter.jpg" width="200" class="center">
      <p>
      <strong><a href="https://blogs.uoregon.edu/danareuter/">Dana Reuter</a></strong
@@ -263,23 +248,11 @@ I am looking forward to this workshop and learning how to use the FuTRES framewo
      <br>
      Paleobiology
    </td>
-   <td colspan="2" width="70%">I am a paleoecologist interested in understanding the processes that govern mammalian diet and community structure change through time. Some of my work focuses on extant mammals where I use phylogenetic comparative methods to understand mammalian diet evolution, diversity, and how these relate to body mass. For my work on fossil assemblages, I use tooth morphology, and stable isotopic studies, to test hypotheses about the ecological links among extinct taxa and their environment. To better understand how past climate change has influenced structural change, I combine my research to reconstruct food webs for fossil assemblages. I hope that by using the fossil record to explore past ecological structure, my research not only helps expand our paleontological knowledge but also informs how modern communities might respond to current human-influenced climate change and extinction.
-  <p>
-    
-   <p> 
-I am excited to talk to others about trait data standardization to allow for reproducibility and collaboration. I have lots of tooth measurements for both modern and extinct mammals from collections around the USA.
-   </td>
   </tr>
   
   <tr>
-   <td colspan="2" width="70%">I am a palaeoecologist and evolutionary biologist interested in how and why mammal communities form with the goal of understanding the emergence of modern mammal communities and how they might change under ongoing global change. I use a wide array of analytical tools including, but not limited to, computational biology, phylogenetics, palaeodietary methods, field work, and stable isotopes. My research program is multidisciplinary and integrates the study of both extant and extinct mammals.
-  <p>
-    
-  <p>  
-I tend to work with mammal body size, dietary, and geographic range data mined from fossil collections and publications. I am looking forward to learning to use the FuTRES framework to share the datasets that I have and am developing.
-   </td>
-   <td  width="30%">
-     <img src="/media/biosketches/2020/DFraser.png" width="200" class="center">
+   <td width="30%">
+      <img src="/media/biosketches/2020/DFraser.png" width="200" class="center">
      <p>
        <strong>Dani Fraser</strong>
      <br>
@@ -287,19 +260,15 @@ I tend to work with mammal body size, dietary, and geographic range data mined f
      <br>
      Paleontology
    </td>
+   <td colspan="2" width="70%">I am a palaeoecologist and evolutionary biologist interested in how and why mammal communities form with the goal of understanding the emergence of modern mammal communities and how they might change under ongoing global change. I use a wide array of analytical tools including, but not limited to, computational biology, phylogenetics, palaeodietary methods, field work, and stable isotopes. My research program is multidisciplinary and integrates the study of both extant and extinct mammals.
+  <p>
+    
+  <p>  
+I tend to work with mammal body size, dietary, and geographic range data mined from fossil collections and publications. I am looking forward to learning to use the FuTRES framework to share the datasets that I have and am developing.
+   </td>
   </tr>
   
   <tr>
-   <td width="30%">
-     <p>
-     <strong>David Bloom</strong
-      <br>
-       VertNet Coordinator
-       <br>
-         Informatics
-        <br>
-          <a href="http://vertnet.org/">VertNet</a>
-   </td>
    <td colspan="2" width="70%">From there to here,
 from here to there,
 I’ll move your data
@@ -327,9 +296,32 @@ your data well-mannered.
   <p>
   <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0029715">Darwin Core</a>
    </td>
+   <td  width="30%">
+     <p>
+     <strong>David Bloom</strong
+      <br>
+       VertNet Coordinator
+       <br>
+         Informatics
+        <br>
+          <a href="http://vertnet.org/">VertNet</a>
+   </td>
   </tr>
   
   <tr>
+   <td width="30%">
+     <img src="/media/biosketches/2020/DBlackburn.jpg" width="200" class="center">
+     <p>
+       <strong><a href="https://www.blackburnlab.org/">David Blackburn</a></strong>
+     <br>
+     University of Florida
+     <br>
+     Florida Museum of Natural History
+     <br>
+     Herpetology
+     <br>
+       <a href="https://twitter.com/davidcblackburn">@davidcblackburn</a>
+   </td>
    <td colspan="2" width="70%">I’m interested in the diversity and evolution of amphibians. I oversee the <a href="https://www.idigbio.org/wiki/index.php/OVert:_Open_Exploration_of_Vertebrate_Diversity_in_3D">openVertebrate (oVert) Thematic Collection Network</a>, am on the steering committee for AmphibiaWeb, and am a CoPI on iDigBio. 
   <p>
     
@@ -350,23 +342,16 @@ Examples of recent papers from my lab with traits:
   <p>  
 <a href="https://bioone.org/journals/journal-of-herpetology/volume-53/issue-4/19-044/First-Record-of-the-Anuran-Family-Rhinophrynidae-from-the-Oligocene/10.1670/19-044.full"><b>Blackburn</b> et al. 2019. First record of the anuran family Rhinophrynidae from the Oligocene of eastern North America. Journal of Herpetology.</a>
    </td>
-   <td  width="30%">
-     <img src="/media/biosketches/2020/DBlackburn.jpg" width="200" class="center">
-     <p>
-       <strong><a href="https://www.blackburnlab.org/">David Blackburn</a></strong>
-     <br>
-     University of Florida
-     <br>
-     Florida Museum of Natural History
-     <br>
-     Herpetology
-     <br>
-       <a href="https://twitter.com/davidcblackburn">@davidcblackburn</a>
-   </td>
   </tr>
   
   <tr>
-   <td width="30%">
+   <td colspan="2" width="70%">I am a paleoanthropologists working in East Africa studying human evolution and paleoecology. I direct the <a href="https://paleocore.org">Paleo Core project</a> which hosts specimen level fossil occurrence data for paleoanthropologists and paleontologists. I’m looking forward to exploring methods for linking fossil occurrence data to systematic descriptive trait data about the individual fossils.
+  <p>
+    
+  <p>  
+Pdfs of my recent publications are available on my website.
+   </td>
+   <td  width="30%">
      <img src="/media/biosketches/2020/DReed.png" width="200" class="center">
      <p>
        <strong><a href="https://paleocore.org/">Denné Reed</a></strong
@@ -377,11 +362,14 @@ Examples of recent papers from my lab with traits:
      <br>
        <a href="https://twitter.com/DenneReed">@DenneReed</a>
    </td>
-   <td colspan="2" width="70%">I am a paleoanthropologists working in East Africa studying human evolution and paleoecology. I direct the <a href="https://paleocore.org">Paleo Core project</a> which hosts specimen level fossil occurrence data for paleoanthropologists and paleontologists. I’m looking forward to exploring methods for linking fossil occurrence data to systematic descriptive trait data about the individual fossils.
-  <p>
-    
-  <p>  
-Pdfs of my recent publications are available on my website.
+  </tr>
+  
+  <tr>
+   <td width="30%">
+    <p>
+      <strong>Doug Boyer</strong>
+   </td>
+   <td colspan="2" width="70%">
    </td>
   </tr>
   
