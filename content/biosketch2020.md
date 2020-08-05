@@ -64,7 +64,7 @@ I am excited to learn about new analytical tools and the most effective ways to 
    <td width="30%">
      <img src="/media/biosketches/2020/AWeller.png" width="200" class="center">
      <p>
-       <strong>Amanda Weller</strong
+       <strong>Amanda Weller</strong>
      <br>
      University of North Carolina, Greensboro
      <br>
@@ -123,7 +123,7 @@ I would like to gain new informatics and analytical skills while connecting with
    <td width="30%">
      <img src="/media/biosketches/2020/BPobiner.jpg" width="200" class="center">
      <p>
-       <strong><a href="https://humanorigins.si.edu/about/human-origins-program-team/briana-pobiner">Briana Pobiner</a></strong
+       <strong><a href="https://humanorigins.si.edu/about/human-origins-program-team/briana-pobiner">Briana Pobiner</a></strong>
      <br>
      National Museum of Natural History
      <br>
@@ -153,7 +153,7 @@ Relevant papers:
    <td  width="30%">
      <img src="/media/biosketches/2020/BKohli.jpg" width="200" class="center">
      <p>
-       <strong><a href="https://brookskohli.weebly.com/">Brooks Kohli</a></strong
+       <strong><a href="https://brookskohli.weebly.com/">Brooks Kohli</a></strong>
      <br>
      Ohio State University
      <br>
