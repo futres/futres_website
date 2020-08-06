@@ -4,9 +4,12 @@ language: en
 slug: workshop2020
 ---
 
-<h4><a href="https://futres.org/biosketch2020/">Particpants & Organizers</a></h4>
-
-<h5>Premeeting 
+<h5>Premeeting</h5>
+- Biosketch of <a href="https://futres.org/biosketch2020/">Particpants & Organizers</a>
+- <a href="https://docs.google.com/forms/d/e/1FAIpQLSe3sGU-481X1BCYY51sfudARb1_G_hwWFu0YnvLgiLuXhRoEg/viewform">Survey</a>
+- <a href="https://youtu.be/2zr7aJ_KZlI">FuTRES Overview</a>
+- Current FuTRES Projects
+- FuTRES Pipeline
 
 <br>
 
