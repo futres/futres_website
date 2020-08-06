@@ -22,7 +22,7 @@ slug: workshop2020
 | 9:00&nbsp;AM | Opening Remarks <br> <ul><li>Welcome (Project Team)</li><li>ZOOM Overview (Facilitator)</li><li>Meeting Objectives (Project Team)</li><li>Agenda Overview (Facilitator)</li><li>Participant Agreements (Facilitator)</li></ul> | All Participants <br> Large Group |
 | 9:20&nbsp;AM | <ul><li>Ontology 101 (Brian Stucky; 30 min.)</li><li>RShinyApp (Prasiddhi Gyawali; 10 min.)</li></ul> | All Participants <br> Large Group |
 | 10:00&nbsp;AM | Discussion <br> <ul><li>How can FuTREs impact/change how we are approaching science right now?</li><ul><li>Large Group discussion to identify main topics discussion to identify main topics (30 min.)</li><li>Small Group discussions to expand on main topics (30 min.)</li><li>Small Group reports (20 min.)</li><li>Identification of discussion topics for afternoon Small Group (10 min.)</li></ul></ul> | All Participants <br> Large Group and Small Group |
-| 11:30&nbsp;AM | Break | |
+| 11:30&nbsp;AM | Break |  |
 | 12:30&nbsp;PM | <ul><li>FuTRES Videos Available</li><li>Technical assistance / Questions & Answeres about FuTRES (Project Team)</li></ul> | Optional |
 | 1:00&nbsp;PM | Small Group facilitated discussions <ul><li>Small groups convened based on items in pre-meeting survey, morning discussion, and individual interests</li><ul><li>Focus on networking and developing ideas for specific proposals</li></ul></ul> | Small Groups |
 | 2:30&nbsp;PM | ZOOM remains open for individual or small group discussions and networking | As interested |
