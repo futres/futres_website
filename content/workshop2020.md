@@ -5,15 +5,16 @@ slug: workshop2020
 ---
 
 <h5>Premeeting</h5>
-- Biosketch of <a href="https://futres.org/biosketch2020/">Particpants & Organizers</a>
-- <a href="https://docs.google.com/forms/d/e/1FAIpQLSe3sGU-481X1BCYY51sfudARb1_G_hwWFu0YnvLgiLuXhRoEg/viewform">Survey</a>
-- <a href="https://youtu.be/2zr7aJ_KZlI">FuTRES Overview</a>
-- Current FuTRES Projects
-- FuTRES Pipeline
+- Biosketch of <a href="https://futres.org/biosketch2020/">Particpants & Organizers</a> <br>
+- <a href="https://docs.google.com/forms/d/e/1FAIpQLSe3sGU-481X1BCYY51sfudARb1_G_hwWFu0YnvLgiLuXhRoEg/viewform">Survey</a> <br>
+- <a href="https://youtu.be/2zr7aJ_KZlI">FuTRES Overview</a> <br>
+- Current FuTRES Projects <br>
+- FuTRES Pipeline <br>
 
 <br>
 
-**Tuesday, August 11**<br>
+**Tuesday, August 11**
+
 | Time | Activity | Participants |
 | :--- | :--- | :--- |
 | <img width=50/>|<img width=700/>|<img width=250/>|
@@ -27,7 +28,7 @@ slug: workshop2020
 | 2:30&nbsp;PM | ZOOM remains open for individual or small group discussions and networking | As interested |
 | 3:30&nbsp;PM | ZOOM closes |  |
 
-**Wednesday, August 12**<br>
+**Wednesday, August 12**
 
 | Time | Activity | Participants |
 | :--- | :--- | :--- |
@@ -42,7 +43,7 @@ slug: workshop2020
 | 2:30&nbsp;PM | ZOOM remains open for individual or small group discussions and networking | As interested |
 | 3:30&nbsp;PM | ZOOM closes |  |
 
-**Thursday, August 13**<br>
+**Thursday, August 13**
 
 | Time | Activity | Participants |
 | :--- | :--- | :--- |
