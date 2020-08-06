@@ -30,7 +30,7 @@ I am currently investigating changes in large mammal occurrences in the Indian S
   
   <tr>
    <td width="30%">
-     <img src="/media/biosketches/2020/AShupinksi.jpg" width="200" class="center">
+     <img src="/media/biosketches/2020/AShupinski.jpg" width="200" class="center">
      <br>
      <strong>Alexandra Shupinkski</strong>
      <br>
