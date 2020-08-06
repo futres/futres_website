@@ -7,9 +7,9 @@ slug: workshop2020
 <h5>Premeeting</h5>
 - Biosketch of <a href="https://futres.org/biosketch2020/">Particpants & Organizers</a> <br>
 - <a href="https://docs.google.com/forms/d/e/1FAIpQLSe3sGU-481X1BCYY51sfudARb1_G_hwWFu0YnvLgiLuXhRoEg/viewform">Survey</a> <br>
-- <a href="https://youtu.be/2zr7aJ_KZlI">FuTRES Overview</a> <br>
-- Current FuTRES Projects <br>
-- FuTRES Pipeline <br>
+- <a href="https://youtu.be/2zr7aJ_KZlI">FuTRES Overview</a> (video) <br> 
+- Current FuTRES Projects (video) <br>
+- FuTRES Pipeline (video) <br> 
 
 <br>
 
