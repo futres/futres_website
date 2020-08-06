@@ -4,7 +4,7 @@ language: en
 slug: workshop2019
 ---
 
-<h4><a href="https://futres.org/biosketch/">Particpants & Organizers</a></h4>
+<h4><a href="https://futres.org/biosketch2019/">Particpants & Organizers</a></h4>
 
 <h5>Outcomes from July 15-17, 2019 Workshop:</h5>
 - Meeting report published through PenSoft<br>
