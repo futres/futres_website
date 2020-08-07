@@ -14,6 +14,12 @@ slug: workshop2020
 
 <br>
 
+<h5>Agenda:</h5>
+(All times are in Pacific Daylight Time)
+
+<a href="https://bit.ly/3gDWlnJ"><strong>Notes for Meeting</strong></a>
+
+
 **Tuesday, August 11**
 
 | Time | Activity | Participants |
