@@ -4,7 +4,7 @@ language: en
 slug: workshop2020
 ---
 
-<h5>Premeeting Materials</h5>
+<h3>Premeeting Materials</h3>
 - Biosketch of <a href="https://futres.org/biosketch2020/">Particpants & Organizers</a> <br>
 - <a href="https://docs.google.com/forms/d/e/1FAIpQLSe3sGU-481X1BCYY51sfudARb1_G_hwWFu0YnvLgiLuXhRoEg/viewform">Survey</a> <br>
 - <a href="https://youtu.be/2zr7aJ_KZlI">FuTRES Overview</a> (video) <br> 
@@ -14,7 +14,7 @@ slug: workshop2020
 
 <br>
 
-<h5>Agenda:</h5>
+<h3>Agenda:</h3>
 
 <a href="https://bit.ly/3gDWlnJ"><strong>Notes for Meeting</strong></a>
 (All times are in Pacific Daylight Time)
