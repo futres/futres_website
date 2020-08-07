@@ -366,14 +366,14 @@ Pdfs of my recent publications are available on my website.
   
   <tr>
    <td width="30%">
-    <p>
-      <strong>Doug Boyer</strong>
+    <img src="/media/biosketches/2020/DBoyer.png" width="200" class="center">
+     <strong><a href="http://www.dougmboyer.com/">Doug Boyer</a></strong>
       <br>
       Duke Univeristy
       <br>
-      Informatics
+      Anthropology, Informatics
    </td>
-   <td colspan="2" width="70%">
+   <td colspan="2" width="70%">I am a comparative morphologist and paleontologist who works primarily from 3d-digitized materials because it improves the potential for 1) quantitative approaches, 2) repurposing data towards future studies, and 3) data transparency.  I started and manage the Duke and NSF funded data repository MorphoSource.org, which specializes in sharing and archiving of 3D data on natural and cultural heritage objects.   A major goal of the repository’s data model and informatic structure is to seamlessly connect scan data to specimen records authored by collection institutions. Of possible interest to FuTRES is MorphoSource’s plans to support creation, saving and query of annotations via its web viewer (<a href="https://aleph-viewer.com/">demo</a>). My lab also develops tools for computer aided landmarking (https://toothandclaw.github.io/). Last spring Dave Blackburn (UF Herpetology) and I co-hosted an iDigBio-funded seminar to evaluate the <a href="https://www.idigbio.org/wiki/index.php/Integrating_Institutional_Archives_with_Disciplinary_Web_Repositories">informatic resource integration requirements for realizing the extended specimen network</a>.
    </td>
   </tr>
   
@@ -494,8 +494,6 @@ Ardelean, C:F., L. Becerra-Valdivia, M.W. Pedersen, J.-L. Schwenning, C. G. Ovia
    <td colspan="2" width="70%">I help people through their biodiversity data anxieties (practicing without a license). I claim to be qualified because I have been doing it without getting caught for 23 years and with only minor complaints. Come to me if you suffer from Degenerative Darwin Core Syndrome, Georeferencing Withdrawal, Biodiversity Data Publication OCD, etc. I can provide references if necessary, such as:
   <p>
     
-  
-    
   <p>  
     <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0029715">Darwin Core</a>
   <p>
@@ -538,7 +536,8 @@ I am interested in the discussion of databases of trait data at the specimen lev
   
   <tr>
    <td width="30%">
-     <p>
+     <img src="/media/biosketches/2020/JDoby.png" width="200" class="center">
+     <br>
        <strong><Joshua Doby</strong>
      <br>
      University of Florida
@@ -757,14 +756,21 @@ I am keen to learn about new methods of analysing and sharing data about functio
   
   <tr>
    <td width="30%">
-     <p>
+     <img src="/media/biosketches/2020/MLeFebvre.png" width="200" class="center">
        <strong>Michelle LeFebvre</strong>
      <br>
      University of Florida
      <br>
      Zooarchaeology
    </td>
-   <td colspan="2" width="70%">
+   <td colspan="2" width="70%">Hello! I am an archaeologist with interest in the historical ecology of human-environment relationships, and in particular human-animal dynamics in coastal and island settings. Beaches in the Caribbean and Florida are the name of my field game! I have methodological expertise in zooarchaeology. Much of my recent work involves interdisciplinary collaborations across paleontology, archaeology, and neontology (and a healthy dose of informatics!) to elucidate long term patterns of human impacts on animal biodiversity through time and into the future.
+I am super lucky to work with the ZooArchNet project and team lead by Kitty Emery and Rob Guralnick. I am particularly keen to learn more about how we can mobilize trait data across paleo-, archaeo-, and neo- datasets for the purpose of “big data” synthesis.
+     <p>
+     <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0215369">ZooArchNet: Connecting zooarchaeological specimens to the biodiversity and archaeology data networks</a>
+       <p>
+      <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0220284">The zooarchaeology and isotopic ecology of the Bahamian hutia (<i>Geocapromys ingrahami</i>): Evidence for pre-Columbian anthropogenic management</a>
+         <p>
+      <a href="https://www.nature.com/articles/s41598-020-58224-y">Ancient DNA and high-resolution chronometry reveal a long-term human role in the historical diversity and biogeography of the Bahamian hutia</a>
    </td>
   </tr>
   
@@ -1235,9 +1241,7 @@ Paleobiology
   </tr>
   <tr>
    <td width="30%">
-     <p>
-       
-<p>
+     <img src="/media/biosketch/2020/NSewnath.jpg" width="200" class="center">
 <strong>Neeka Sewnath</a></strong>
 <br>
 University of Florida
