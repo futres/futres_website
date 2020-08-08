@@ -8,7 +8,7 @@ slug: workshop2020
 - Biosketch of <a href="https://futres.org/biosketch2020/">Particpants & Organizers</a> <br>
 - <a href="https://docs.google.com/forms/d/e/1FAIpQLSe3sGU-481X1BCYY51sfudARb1_G_hwWFu0YnvLgiLuXhRoEg/viewform">Survey</a> <br>
 - <a href="https://youtu.be/2zr7aJ_KZlI">FuTRES Overview</a> (video) <br> 
-- Current FuTRES Projects (video) <br>
+- <a href="https://youtu.be/FhlhELGXY6M">Current FuTRES Projects</a> (video) <br>
 - <a href="https://www.youtube.com/watch?v=WyJKmFsUVKc">Ingesting data into FuTRES</a> (video) <br>
 - <a href="https://youtu.be/tn_Rf9CQX3Y">FuTRES Pipeline</a> (video) <br> 
 
