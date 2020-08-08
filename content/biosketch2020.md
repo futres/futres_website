@@ -1111,7 +1111,15 @@ ETA: I’m excited to “see” everyone again this year and meet those who are 
   </tr>
   
   <tr>
-   <td colspan="2" width="70%">
+   <td colspan="2" width="70%">My research mainly falls in zooarchaeology – and especially the long-term connections between people and fish.   I have worked on projects in the Pacific Northwest of North America, the arid American west, and Oceania.  My work has considered analytic methods, taphonomy, use of fish remains for conservation biology; the use of fish records to understand human bio-cultural evolution.  Another side of my professional work relates to public outreach and education.
+     <p>
+       
+  <p>
+I am about to leave an administrative position at my university and am looking forward to having more time to devote to research – as well as connect scholarship to real world issues (related to conservation biology; tribal links to food; general scientific literacy). 
+ <p>
+   
+ <p>
+I’m a strong supporter of collective action— and am pleased to learn about this group that has many goals/interests aligned with my own.  We’ll do more together than in isolation.
    </td>
    <td  width="30%">
      <p>
