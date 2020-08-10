@@ -30,7 +30,7 @@ slug: workshop2020
   <br>
   
 <a href="https://bit.ly/3gDWlnJ"><strong>Notes for Meeting</strong></a> <br>
-<a href="https://arizona.zoom.us/j/95599884123"><strong>Zoom</strong></a> <img src="/media/vidicon.jpeg" width="30"> <br> 
+<a href="https://arizona.zoom.us/j/95599884123"><strong>Zoom</strong></a> <img src="/media/vidicon.jpeg" width="25"> <br> 
 
 <br>
 
