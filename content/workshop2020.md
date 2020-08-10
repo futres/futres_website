@@ -16,7 +16,9 @@ slug: workshop2020
 
 <h3>Meeting Materials</h3>
 - <a href="https://futres.org/codeofconduct/">Code of Conduct</a> <br>
-- <a href="https://drive.google.com/file/d/1IRb4W6t8NWqTE52SsCcF14sZx2FWwOPz/view?usp=sharing">Pre-Survey Data</a> <br>
+- <a href="https://drive.google.com/file/d/1IRb4W6t8NWqTE52SsCcF14sZx2FWwOPz/view?usp=sharing">Pre-Survey Data</a> <br
+
+<br>
 
 <strong>Participant Responsibilities: </strong> <br>
   - Participate fully <br> 
