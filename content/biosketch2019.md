@@ -17,7 +17,7 @@ I'm looking forward to learn new methods and contribute with ideas in the functi
    <td  width="30%">
      
 <
-src="/media/biosketches/jacruz.png" width="200" class="center">
+src="/media/biosketches/2019/jacruz.png" width="200" class="center">
 
 <p>
 <strong>J. Alberto Cruz </strong>
