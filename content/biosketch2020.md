@@ -115,6 +115,7 @@ I would like to gain new informatics and analytical skills while connecting with
    </td>
    <td  width="30%">
      <img src="/media/biosketches/2020/ASouron.jpg" width="200" class="center">
+  <p>
      <strong>Antoine Souron</strong>
      <br>
      PACEA, Université de Bordeaux
