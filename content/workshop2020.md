@@ -14,9 +14,23 @@ slug: workshop2020
 
 <br>
 
-<h3>Agenda:</h3>
+<h3>Meeting Materials</h3>
+- <a href="https://futres.org/codeofconduct/">Code of Conduct</a> <br>
+- <a href="https://drive.google.com/file/d/1IRb4W6t8NWqTE52SsCcF14sZx2FWwOPz/view?usp=sharing">Pre-Survey Data</a> <br>
+- <a href="https://bit.ly/3gDWlnJ"><strong>Notes for Meeting</strong></a> <br>
 
-<a href="https://bit.ly/3gDWlnJ"><strong>Notes for Meeting</strong></a>
+<br>
+
+<h4>Participant Responsibilities: </h4> <br>
+  - Participate fully <br> 
+  - Let one person speak at a time <br>
+  - Give others a chance to speak <br>
+  - Honor timelines <br>
+  - Criticize ideas, not people <br>
+  
+<br>
+
+<h3>Agenda:</h3>
 (All times are in Pacific Daylight Time)
 
 **Tuesday, August 11**
