@@ -107,13 +107,17 @@ I would like to gain new informatics and analytical skills while connecting with
   </tr>
   
   <tr>
-   <td colspan="2" width="70%">
+   <td colspan="2" width="70%">I am a paleontologist specialized on the evolution of African suids. I am particularly interested in understanding the timing of adaptations to herbivorous diets (and especially graminivorous diets) during the Neogene and Quaternary. I therefore quantify morphological changes of craniomandibular and dental structures and compare the timing of morphological changes to dietary changes reconstructed from independent proxies such as dental microwear and enamel biogeochemistry. A long term objective would be to disentangle the relative importance of biotic and abiotic factors as drivers of adaptations. I focus on the fossil record from eastern Africa but also study fossils from other parts of Africa and Eurasia. I am also interested in other mammals who display herbivorous adaptations such as hippopotamids, cercopithecids, and hominids.
+<p>
+  
+<p>
+  <a href="https://www.researchgate.net/profile/Antoine_Souron">My ResearchGate profile</a>
    </td>
    <td  width="30%">
-     <p>
+     <img src="/media/biosketches/2020/ASouron.jpg" width="200" class="center">
      <strong>Antoine Souron</strong>
      <br>
-     Université de Bordeaux
+     PACEA, Université de Bordeaux
      <br>
      Paleontology
    </td>
