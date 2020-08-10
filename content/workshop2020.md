@@ -34,7 +34,9 @@ slug: workshop2020
 <br>
 
 <h3>Agenda:</h3>
-(All times are in Pacific Daylight Time)
+(All times are in Pacific Daylight Time) <br>
+
+<br>
 
 **Tuesday, August 11**
 
