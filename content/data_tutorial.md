@@ -38,8 +38,7 @@ slug: data_tutorial
 1. Check that the term is not currently there
   - go to GEOME -> FuTRES Template -> measurementType DEF
 2. Go to <a href="https://github.com/futres/fovt">FuTRES Ontology of Vertebrate Traits (FOVT)</a>
-3. Click on "Issues" -> "New issue"
-  * Type in term request
+3. Create a <a href="https://github.com/futres/fovt-data-pipeline/issues/new">New issue</a>
   * Needs:
     + anatomical feature
     + anatomical points and/or anatomical axis
