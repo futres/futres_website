@@ -1240,7 +1240,11 @@ University of Florida
 <br>
 Informatics
    </td>
-   <td colspan="2" width="70%">
+   <td colspan="2" width="70%">I am currently an informatics graduate student in the Guralnick Lab at the University of Florida. My research focuses on helping document the development of turkey husbandry and domestication throughout ancient Mesoamerica through methods of DNA sequencing and computational analysis. 
+<p>
+ 
+ <p>
+In FuTRES, I work on processing large datasets as well as help develop the methods for standardizing trait data and facilitating data migration. I am very passionate about applying computational techniques to biological methods.  In addition, I currently work as a honey bee ecotoxicologist.
    </td>
   </tr>
   <tr>
