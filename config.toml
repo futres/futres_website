@@ -10,6 +10,14 @@ publishDir = "docs"
   weight = -8
   identifier = "how"
   url = "/how/"
+  
+  
+[[menu.main]]
+  name = "Data Tutorial"
+  parent = "how"
+  weight = 6 
+  identifier = "data_tutorial"
+  url = "/data_tutorial/"
 
 [[menu.main]]
   name = "Team"
@@ -70,13 +78,6 @@ publishDir = "docs"
   weight = 6 
   identifier = "data"
   url = "/data/"
-  
-[[menu.main]]
-  name = "Data Tutorial"
-  parent = "products"
-  weight = 6 
-  identifier = "data_tutorial"
-  url = "/data_tutorial/"
 
 [[menu.main]]
   name = "Talks & Papers"
