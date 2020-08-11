@@ -5,9 +5,9 @@ slug: data_tutorial
 ---
 
 <h2>Contents:</h2>
-<a href="#Generating a template">Generating a template</a>
-<a href="#Uploading and validating data">Uploading and validating data</a>
-<a href="#Requesting trait terms">Requesting trait terms</a>
+<a href="#Generating a template">Generating a template</a> <br>
+<a href="#Uploading and validating data">Uploading and validating data</a> <br>
+<a href="#Requesting trait terms">Requesting trait terms</a> <br>
 
 <h3 id="Generating a template">Generating a template</h3>
 
