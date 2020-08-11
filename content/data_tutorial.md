@@ -9,9 +9,9 @@ slug: data_tutorial
 1. Go to <a href="geome-db.org/about">GEOME</a> and create an account
 2. Create a project and join the FuTRES Team
 3. Select the template generator to create a spreadsheet for entering data
-  - Select terms
-  - Export to a spreadsheet application
-    - Speadsheet has:
+  * Select terms
+  * Export to a spreadsheet application
+    + Speadsheet has:
       - Instructions
       - Template (required field in red)
       - Controlled vocabulary
@@ -20,13 +20,13 @@ slug: data_tutorial
 <h3> Uploading and validating data</h3>
 
 1. Upload to GEOME under your project in FuTRES Team
-  - Can load multiple spreadsheets at one time under same expedition name
-  - Will give an error if a value in a field is wrong (e.g., a string where numbers should be)
+  * Can load multiple spreadsheets at one time under same expedition name
+  * Will give an error if a value in a field is wrong (e.g., a string where numbers should be)
 2. Name your project:
-  - Each project has its own abstract
-  - FuTRES_taxon_contributor_locality_time/period
+  * Each project has its own abstract
+  * FuTRES_taxon_contributor_locality_time/period
 3. Name your expedition:
-  - FuTRES_taxon_contributor_locality_time.period and version number or date
+  * FuTRES_taxon_contributor_locality_time.period and version number or date
 
 <h3>Requesting trait terms</h3>
 
@@ -34,9 +34,9 @@ slug: data_tutorial
   - go to GEOME -> FuTRES Template -> measurementType DEF
 2. Go to <a href="https://github.com/futres/fovt">FuTRES Ontology of Vertebrate Traits (FOVT)</a>
 3. Click on "Issues" -> "New issue"
-  - Type in term request
-  - Needs:
-    - anatomical feature
-    - anatomical points and/or anatomical axis
-    - measurement (e.g., width, length, etc.)
-    - reference for measurement (illustration if have it)
+  * Type in term request
+  * Needs:
+    + anatomical feature
+    + anatomical points and/or anatomical axis
+    + measurement (e.g., width, length, etc.)
+    + reference for measurement (illustration if have it)
