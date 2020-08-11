@@ -4,7 +4,12 @@ language: en
 slug: data_tutorial
 ---
 
-<h3> Generating a template</h3>
+<h2>Contents:</h2>
+<a href="#Generating a template">Generating a template</a>
+<a href="#Uploading and validating data">Uploading and validating data</a>
+<a href="#Requesting trait terms">Requesting trait terms</a>
+
+<h3 id="Generating a template">Generating a template</h3>
 
 1. Go to <a href="geome-db.org/about">GEOME</a> and create an account
 2. Create a project and join the FuTRES Team
@@ -17,7 +22,7 @@ slug: data_tutorial
       - Controlled vocabulary
       - Definition for attributes
 
-<h3> Uploading and validating data</h3>
+<h3 id="Uploading and validating data"> Uploading and validating data</h3>
 
 1. Upload to GEOME under your project in FuTRES Team
   * Can load multiple spreadsheets at one time under same expedition name
@@ -28,7 +33,7 @@ slug: data_tutorial
 3. Name your expedition:
   * FuTRES_taxon_contributor_locality_time.period and version number or date
 
-<h3>Requesting trait terms</h3>
+<h3 id="Requesting trait terms">Requesting trait terms</h3>
 
 1. Check that the term is not currently there
   - go to GEOME -> FuTRES Template -> measurementType DEF
