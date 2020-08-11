@@ -5,9 +5,9 @@ slug: data
 ---
 
 ## Contributing Data to FuTRES
-FuTRES is partnering with [GEOME] (https://geome-db.org/) to help users load and validate data.  View the [FuTRES Template](https://geome-db.org/workbench/template?projectid=156) on the GEOME site.  You can create an account and a new project in GEOME, and be sure to select the "FuTRES" team during the project creation process.  General instructions on using GEOME are available on the [GEOME Getting Started] (https://geome-db.org/about) and a short youtube video on [Loading FuTRES data into GEOME](https://www.youtube.com/watch?v=WyJKmFsUVKc&feature=youtu.be).   Please reach out to our team with any questions!
+FuTRES is partnering with <a href="https://geome-db.org/">GEOME</a> to help users load and validate data.  View the <a href="https://geome-db.org/workbench/template?projectid=156">FuTRES Template</a> on the GEOME site.  You can create an account and a new project in GEOME, and be sure to select the "FuTRES" team during the project creation process.  General instructions on using GEOME are available on the <a href="https://geome-db.org/about">GEOME Getting Started</a> and a short youtube video on <a href="https://www.youtube.com/watch?v=WyJKmFsUVKc&feature=youtu.be">Loading FuTRES data into GEOME</a>. Please reach out to our team with any questions!
 
-FuTRES will deliver all processed trait data via an application programming interface (API), web interface, and R package by Summer of 2019.  Currently, code and configuration files for our data processing pipeline can be found at [fovt-data-pipeline](https://github.com/futres/fovt-data-pipeline), which contains all of the settings for processing incoming datasets and aligning with the [FuTRES ontology for vertebrate traits](https://github.com/futres/fovt).  
+FuTRES will deliver all processed trait data via an application programming interface (API), web interface, and R package by Summer of 2019.  Currently, code and configuration files for our data processing pipeline can be found at <a href="https://github.com/futres/fovt-data-pipeline">fovt-data-pipeline</a>, which contains all of the settings for processing incoming datasets and aligning with the <a href="https://github.com/futres/fovt">FuTRES ontology for vertebrate traits</a>.  
 
 ## Data added to FuTRES
 
