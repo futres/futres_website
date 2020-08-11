@@ -70,6 +70,13 @@ publishDir = "docs"
   weight = 6 
   identifier = "data"
   url = "/data/"
+  
+[[menu.main]]
+  name = "Data Tutorial"
+  parent = "products"
+  weight = 6 
+  identifier = "data_tutorial"
+  url = "/data_tutorial/"
 
 [[menu.main]]
   name = "Talks & Papers"
