@@ -4,7 +4,7 @@ language: en
 slug: data
 ---
 
-## <a href="futres.org/data/data_tutorial">Tutorial</a>
+## <a href="https://futres.org/data_tutorial/">Tutorial</a>
 
 ## Contributing Data to FuTRES
 FuTRES is partnering with <a href="https://geome-db.org/">GEOME</a> to help users load and validate data.  View the <a href="https://geome-db.org/workbench/template?projectid=156">FuTRES Template</a> on the GEOME site.  You can create an account and a new project in GEOME, and be sure to select the "FuTRES" team during the project creation process.  General instructions on using GEOME are available on the <a href="https://geome-db.org/about">GEOME Getting Started</a> and a short youtube video on <a href="https://www.youtube.com/watch?v=WyJKmFsUVKc&feature=youtu.be">Loading FuTRES data into GEOME</a>. Please reach out to our team with any questions!
