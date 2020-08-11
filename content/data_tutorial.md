@@ -36,7 +36,7 @@ slug: data_tutorial
 <h3 id="Requesting trait terms">Requesting trait terms</h3>
 
 1. Check that the term is not currently there
-  - go to GEOME -> FuTRES Template -> measurementType DEF
+  - Click on measurementType DEF of <a href="https://geome-db.org/workbench/template">template</a>
 2. Go to <a href="https://github.com/futres/fovt">FuTRES Ontology of Vertebrate Traits (FOVT)</a>
 3. Create a <a href="https://github.com/futres/fovt-data-pipeline/issues/new">New issue</a>
   * Needs:
