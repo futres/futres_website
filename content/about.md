@@ -30,7 +30,9 @@ style="float:left;">
 
 <p>The next step in the workflow - reasoning - uses the bundled <a href="https://github.com/INCATools/ontology-development-kit">Ontology Development Kit</a> that supports multiple description logic profiles through multiple reasoners. The workflow provides an optional configuration file to OntoPilot that further allows users to customize the reasoning process.</p>
 
-<p>The reformatting workflow converts the data to a series of CSV files via a customizable SPARQL query through <a href="https://github.com/biocodellc/query_fetcher">query_fetcher</a>, a bundled package for fast conversion of RDF to tabular data that is built upon the <a href="https://jena.apache.org/index.html">Apache Jena Java Library</a>. The output data can be loaded into whatever data storage system the user prefers, including key/value stores (e.g., ElasticSearch), relational databases (e.g., PostgreSQL), or triplestores (e.g., Blazegraph).</p>
+<p>The reformatting workflow converts the data to a series of CSV files via a customizable SPARQL query through <a href="https://github.com/biocodellc/query_fetcher">query_fetcher</a>, a bundled package for fast conversion of RDF to tabular data that is built upon the <a href="https://jena.apache.org/index.html">Apache Jena Java Library</a>. The output data can be loaded into whatever data storage system the user prefers, including key/value stores (e.g., ElasticSearch), relational databases (e.g., PostgreSQL), or triplestores (e.g., Blazegraph).
+
+<a href="https://www.youtube.com/watch?v=tn_Rf9CQX3Y&feature=youtu.be"><strong>FOVT Data Pipeline (video)</strong></a></p>
 
 <h1><img src="/media/ontologyIcon.png"
 width="100"
