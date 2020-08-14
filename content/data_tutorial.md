@@ -9,6 +9,8 @@ slug: data_tutorial
 <a href="#Uploading and validating data">Uploading and validating data</a> <br>
 <a href="#Requesting trait terms">Requesting trait terms</a> <br>
 
+<a href="https://www.youtube.com/watch?v=WyJKmFsUVKc"><strong>Loading Data into GEOME (video)</strong></a>
+
 <h3 id="Generating a template">Generating a template</h3>
 
 1. Go to <a href="geome-db.org/about">GEOME</a> and create an account
