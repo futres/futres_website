@@ -18,6 +18,10 @@ Cirilli, O., A.M. Jukar, R. Potts, L. Rook and <b>R.L. Bernor</b>.  2019 The Dee
 <b>E.B. Davis</b>. 2019. Keeping your data alive with harmonized repositories. Western Association of Vertebrate Paleontology, Keynote presentation, Eugene OR.
 
 ## Publications
+(18) Bernor, R.L., M. Beech and F. Bibi. In press. The Baynunah Equidae, Late Miocene, United Arab Emerites. In: Vertebrate Paleobiology and Paleoanthropology Book Series, Springer-Verlag.
+
+(16) Cirilli, O., L. Pandolfi, and R.L. Bernor. In final revision. The Villafranchian Perissodactyls of Italy: knowledge of the fossil record and future research perspectives. Geobios
+
 (15) Cirilli, O., R.L. Bernor, L. Rook 2020. New Evidences on the Hipparion sample from Il Casino (Siena, Late Miocene, Italy). Preliminary Report. Fossilia – Reports in Paleontology, 2: 9-11, 10.32774/FosRepPal.2020.0603
 
 (14) Machado, H., L. Avilla 2019. The diversity of South American Equus: Did size really matter? Ecology and Evolution 7:235
