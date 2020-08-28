@@ -5,9 +5,9 @@ slug: data_tutorial
 ---
 
 <h2>Contents:</h2>
-<a href="#Generating a template">Generating a template</a> <br>
-<a href="#Uploading and validating data">Uploading and validating data</a> <br>
-<a href="#Requesting trait terms">Requesting trait terms</a> <br>
+<b><a href="#Generating a template">Generating a template</a></b> <br>
+<b><a href="#Uploading and validating data">Uploading and validating data</a></b> <br>
+<b><a href="#Requesting trait terms">Requesting trait terms</a></b> <br>
 
 <a href="https://www.youtube.com/watch?v=WyJKmFsUVKc"><strong>Loading Data into GEOME (video)</strong></a>
 
