@@ -13,7 +13,7 @@ slug: data_tutorial
 
 <h3 id="Generating a template">Generating a template</h3>
 
-1. Go to <a href="geome-db.org/about">GEOME</a> and create an account
+1. Go to <a href="https://geome-db.org/about">GEOME</a> and create an account
 2. Create a project and join the FuTRES Team
 3. Select the template generator to create a spreadsheet for entering data
   * Select terms
