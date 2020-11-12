@@ -5,6 +5,8 @@ slug: publish
 ---
 
 ## Talks
+Cirilli, O., M. Melchionna, C. Serio, <b>R.L. Bernor</b>, M. Bukhsianidze, D. Lordkipanidze, L. Rook, A. Profico, P. Raia. 2020. Target deformation of the Equus stenonis holotype skull: a new protocol for 3D virtual reconstructions. The Paleontological Association Annual Meeting. Poster.
+
 <b>Balk, M.A.</b>, <b>Walls, R.L.</b>, <b>Guralnick, R.P.</b>, <b>Davis, E.B.</b>, <b>Deck, J.</b>, <b>Emery, K.F.</b>, <b>Bernor, R.L.</b>, <b>Brenskelle, L.</b>, <b>Boileau, A.</b> 2019. FuTRES: functional trait resource for environmental studies. Biodiversity_Next, Leiden, Netherlands. Oral Presentation.
 
 Cirilli, O., L. Pandolfi, <b>R.L. Bernor</b>, and L. Rook.  2019.  Lights and shadows on the Villafranchian perissodactyls of Italy.  EAVP 2019 (European Association of Vertebrate Paleontology) - 17th Conference of the EAVP - 2019- Bruxelles - July 2-6 - Royal Belgian Institute of Natural Sciences. Abstract Volume to be printed. 
