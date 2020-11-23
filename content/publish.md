@@ -20,13 +20,13 @@ Cirilli, O., A.M. Jukar, R. Potts, L. Rook and <b>R.L. Bernor</b>.  2019 The Dee
 <b>E.B. Davis</b>. 2019. Keeping your data alive with harmonized repositories. Western Association of Vertebrate Paleontology, Keynote presentation, Eugene OR.
 
 ## Publications
-(20) Cherin, M., Cirilli, O., Azzará, B., Bernor, R.L. Accepted. Equus stenonis (Equidae, Mammalia) from the Early Pleistocene of Pantalla (Italy) and the dispersion of stenonine horses in Europe. Bollettino della Società Paleontologica Italiana.
+(20) Cherin, M., Cirilli, O., Azzará, B., Bernor, R.L. Published online. <a href="http://paleoitalia.org/archives/bollettino-spi/113/published-online-novembre-2020/">Equus stenonis (Equidae, Mammalia) from the Early Pleistocene of Pantalla (Italy) and the dispersion of stenonine horses in Europe</a>. Bollettino della Società Paleontologica Italiana.
 
 (19) Omar, C., R.L. Bernor, L. Rook. In final revision. New insights on the early Pleistocene equids from ROca-Neyra (France, Central Europe); implications for the <i>Hipparion</i> LAD and the <i>Equus</i> FAD in Europr. Journal of Paleontology.
 
 (18) Bernor, R.L., M. Beech, F. Bibi. In press. The Baynunah Equidae, Late Miocene, United Arab Emerites. In: Vertebrate Paleobiology and Paleoanthropology Book Series, Springer-Verlag.
 
-(16) Cirilli, O., L. Pandolfi, R.L. Bernor. In final revision. The Villafranchian Perissodactyls of Italy: knowledge of the fossil record and future research perspectives. Geobios
+(16) Cirilli, O., L. Pandolfi, R.L. Bernor. In press. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0016699520300875">The Villafranchian Perissodactyls of Italy: knowledge of the fossil record and future research perspectives</a>. Geobios
 
 (15) Cirilli, O., R.L. Bernor, L. Rook 2020. New Evidences on the Hipparion sample from Il Casino (Siena, Late Miocene, Italy). Preliminary Report. Fossilia – Reports in Paleontology, 2: 9-11, 10.32774/FosRepPal.2020.0603
 
