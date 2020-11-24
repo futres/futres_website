@@ -25,7 +25,7 @@ sectionPagesMenu = "main"
 
   [[menu.main]]
     name = "Team"
-    weight = 2
+    weight = 4
     identifier = "team"
     url = "/team/"
 
@@ -78,7 +78,7 @@ sectionPagesMenu = "main"
 
   [[menu.main]]
     name = "Products"
-    weight = 5
+    weight = 2
     identifier = "products"
     url = "/products/"
 

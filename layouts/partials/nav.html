@@ -7,7 +7,7 @@
                 {{ if .HasChildren }} 
                 
                     <li class="drop">
-                        <a href='{{ .URL }}' {{if  $currentPage.IsMenuCurrent "main" . }} class="active" {{end}}>
+                        <a href='{{ .URL }}' class="triangle" {{if  $currentPage.IsMenuCurrent "main" . }} class="active" {{end}}>
                             {{ .Name }}
                         </a>
 
