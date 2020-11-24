@@ -1,7 +1,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1865e135-1a60-4eca-8a60-b256b0e7cf9e/deploy-status)](https://app.netlify.com/sites/futreswebsite/deploys)
 
-[Development Version](https://blissful-williams-72d04e.netlify.app/):
-[![Netlify Status](https://api.netlify.com/api/v1/badges/db587385-da74-4618-90cc-cac672cc64a6/deploy-status)](https://app.netlify.com/sites/blissful-williams-72d04e/deploys)
+[Development Version](https://futres.netlify.app/):
+[![Netlify Status](https://api.netlify.com/api/v1/badges/db587385-da74-4618-90cc-cac672cc64a6/deploy-status)](https://app.netlify.com/sites/futres/deploys)
 
 # FuTRES Website Source Files
 
