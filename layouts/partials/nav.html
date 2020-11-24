@@ -1,0 +1,33 @@
+<nav id="main-nav-container">
+
+    <ul class="main-nav">
+        <!-- {{ $currentPage := . }} -->
+            {{ range .Site.Menus.main }}
+
+                {{ if .HasChildren }} 
+                
+                    <li class="drop">
+                        <a href='{{ .URL }}' {{if  $currentPage.IsMenuCurrent "main" . }} class="active" {{end}}>
+                            {{ .Name }}
+                        </a>
+
+                        <ul class="drop-content"> 
+                            {{ range .Children.ByWeight }}
+        
+                                <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+        
+                            {{ end }}
+                        </ul>
+                    </li>
+
+                {{ else }}
+
+                    <li>
+                        <a href="{{ .URL }}">{{ .Name }}</a><br>
+                    </li>
+
+                {{ end }}
+
+            {{ end }}
+    </ul>
+

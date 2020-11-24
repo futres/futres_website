@@ -1,0 +1,28 @@
+/* LANDING / HOME PAGE */
+#home-tab {
+  margin: 0;
+  height: 94vh;
+  width: 100%;
+}
+
+#hero-image {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../media/hero-img.png');
+  height: 100%;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+#hero-text {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  text-align: left;
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}

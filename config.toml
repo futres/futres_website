@@ -4,110 +4,108 @@ title = "FuTRES"
 theme = ["futres", "kube"]
 homepageText = "FuTRES"
 publishDir = "docs"
+sectionPagesMenu = "main"
 
-[[menu.main]]
-  name = "How It Works"
-  weight = -8
-  identifier = "how"
-  url = "/how/"
+[markup.goldmark.renderer] 
+  unsafe= true
+
+[menu]
+  [[menu.main]]
+    name = "How It Works"
+    identifier = "how_it_works"
+    weight = 1
+    url = "/how_it_works/"
+
+  [[menu.main]]
+    name = "Data Tutorial"
+    parent = "how_it_works"
+    weight = 1
+    identifier = "data_tutorial"
+    url = "/data_tutorial/"
+
+  [[menu.main]]
+    name = "Team"
+    weight = 2
+    identifier = "team"
+    url = "/team/"
+
+  [[menu.main]]
+    name = "Workshops"
+    weight = 3
+    identifier = "workshop"
+    url = "/workshop/"
+    
+  [[menu.main]]
+    name = "2019 Workshop"
+    parent = "workshop"
+    weight = 3
+    identifier = "workshop2019"
+    url = "/workshop2019/"
+
+  [[menu.main]]
+    parent = "workshop"
+    name = "2019 Participants & Organizers"
+    weight = 3
+    identifier = "biosketch2019"
+    url = "/biosketch2019/"
   
-  
-[[menu.main]]
-  name = "Data Tutorial"
-  parent = "how"
-  weight = 6 
-  identifier = "data_tutorial"
-  url = "/data_tutorial/"
+  [[menu.main]]
+    name = "2020 Workshop"
+    parent = "workshop"
+    weight = 3
+    identifier = "workshop2020"
+    url = "/workshop2020/"
+    
+  [[menu.main]]
+    parent = "workshop"
+    name = "2020 Participants & Organizers"
+    weight = 3
+    identifier = "biosketch2020"
+    url = "/biosketch2020/"
 
-[[menu.main]]
-  name = "Team"
-  weight = -7
-  identifier = "team"
-  url = "/team/"
+  [[menu.main]]
+    name = "Code of Conduct"
+    parent = "workshop"
+    weight = 3
+    identifier = "codeofconduct"
+    url = "/codeofconduct/"
 
-[[menu.main]]
-  name = "Workshops"
-  weight = -6
-  identifier = "workshop"
-  url = "/workshop/"
-  
-[[menu.main]]
-  name = "2019 Workshop"
-  parent = "workshop"
-  weight = -9
-  identifier = "workshop2019"
-  url = "/workshop2019/"
+  [[menu.main]]
+    name = "Projects"
+    weight = 4
+    identifier = "projects"
+    url = "/projects/"
 
-[[menu.main]]
-  parent = "workshop"
-  name = "2019 Participants & Organizers"
-  weight = -9
-  identifier = "biosketch2019"
-  url = "/biosketch2019/"
- 
-[[menu.main]]
-  name = "2020 Workshop"
-  parent = "workshop"
-  weight = -5
-  identifier = "workshop2020"
-  url = "/workshop2020/"
-  
- [[menu.main]]
-  parent = "workshop"
-  name = "2020 Participants & Organizers"
-  weight = -5
-  identifier = "biosketch2020"
-  url = "/biosketch2020/"
+  [[menu.main]]
+    name = "Products"
+    weight = 5
+    identifier = "products"
+    url = "/products/"
 
-[[menu.main]]
-  name = "Code of Conduct"
-  parent = "workshop"
-  weight = -4
-  identifier = "codeofconduct"
-  url = "/codeofconduct/"
+  [[menu.main]]
+    name = "Data"
+    parent = "products"
+    weight = 5
+    identifier = "data"
+    url = "/data/"
 
-[[menu.main]]
-  name = "Projects"
-  weight = -3
-  identifier = "projects"
-  url = "/projects/"
+  [[menu.main]]
+    name = "Talks & Papers"
+    parent = "products"
+    weight = 5
+    identifier = "publish"
+    url = "/publish/"
+    
+  [[menu.main]]
+    name = "News"
+    parent = "products"
+    # weight = 5 
+    identifier = "news"
+    url = "/news/"
 
-[[menu.main]]
-  name = "Data"
-  parent = "products"
-  weight = 6 
-  identifier = "data"
-  url = "/data/"
-
-[[menu.main]]
-  name = "Talks & Papers"
-  parent = "products"
-  weight = 4
-  identifier = "publish"
-  url = "/publish/"
-  
-[[menu.main]]
-  name = "News"
-  parent = "products"
-  weight = 8 
-  identifier = "news"
-  url = "/news/"
-
-[[menu.main]]
-  name = "Outreach"
-  parent = "products"
-  weight = 10
-  identifier = "outreach"
-  url = "/outreach/"
-  
-[[menu.main]]
-  name = "Products"
-  weight = -2
-  identifier = "products"
-  url = "/products/"
-
-#[[menu.main]]
-#  name = "Query"
-#  weight = -1
-#  identifier = "query"
-#  url = "/query/"
+  [[menu.main]]
+    name = "Outreach"
+    parent = "products"
+    weight = 5
+    identifier = "outreach"
+    url = "/outreach/"
