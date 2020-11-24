@@ -116,10 +116,3 @@ sectionPagesMenu = "main"
   #   weight = 5
   #   identifier = "outreach"
   #   url = "/outreach/"
-
-  # [[menu.main]]
-  #   name = "Query"
-  #   parent = "products"
-  #   weight = 5
-  #   identifier = "query"
-  #   url = "/query/"
