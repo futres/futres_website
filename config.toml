@@ -83,29 +83,43 @@ sectionPagesMenu = "main"
     url = "/products/"
 
   [[menu.main]]
-    name = "Data"
+    name = "Contribute Data"
     parent = "products"
-    weight = 5
-    identifier = "data"
-    url = "/data/"
+    weight = 2
+    identifier = "contribute-data"
+    url = "/contribute-data/"
 
   [[menu.main]]
     name = "Talks & Papers"
     parent = "products"
-    weight = 5
+    weight = 3
     identifier = "publish"
     url = "/publish/"
     
   [[menu.main]]
     name = "News"
     parent = "products"
-    # weight = 5 
+    weight = 4 
     identifier = "news"
     url = "/news/"
 
   [[menu.main]]
-    name = "Outreach"
+    name = "Dashboard"
     parent = "products"
-    weight = 5
-    identifier = "outreach"
-    url = "/outreach/"
+    weight = 1
+    identifier = "dashboard"
+    url = "/dashboard/"
+
+  # [[menu.main]]
+  #   name = "Outreach"
+  #   parent = "products"
+  #   weight = 5
+  #   identifier = "outreach"
+  #   url = "/outreach/"
+
+  # [[menu.main]]
+  #   name = "Query"
+  #   parent = "products"
+  #   weight = 5
+  #   identifier = "query"
+  #   url = "/query/"
