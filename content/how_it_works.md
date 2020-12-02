@@ -1,7 +1,7 @@
 ---
 title: How It Works
 language: en
-slug: how
+slug: how_it_works
 ---
 <p>The purpose of FuTRES is to make trait data from biological and paleontological specimens accessible in a format that improves discoverability and promotes novel research. By following a few steps and using new tools developed by the FuTRES team, these data can be shared on the FuTRES platform, which is backed by an ontological framework that enables logical reasoning.</p>
 

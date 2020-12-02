@@ -1,7 +1,7 @@
 ---
-title: Data
+title: Contribute Data
 language: en
-slug: data
+slug: contribute-data
 ---
 
 ## <a href="https://futres.org/data_tutorial/">Tutorial</a>

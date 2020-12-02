@@ -3,6 +3,7 @@ title: Data Tutorial
 language: en
 slug: data_tutorial
 ---
+We ask researchers wishing to contribute data to FuTRES to use the following procedure to provide data.  
 
 <h2>Contents:</h2>
 <b><a href="#Generating a template">Generating a template</a></b> <br>

@@ -1,0 +1,24 @@
+{{ define "title"}} {{ .Site.Title}} {{end}}
+{{ define "header"}} {{ partial "header" .}} {{end}}
+{{ define "main"}}
+
+{{ range  $.Params.css }}
+<link rel="stylesheet" href="{{ . }}" | relURL/>
+{{ end }}
+  <div id="home-tab">
+
+    <div id="hero-image">
+      <div id="hero-text">
+        <p>{{.Description}}</p>
+        <div>
+          <button class="nav-btn" onclick="location.href='/about'">Read More</button>
+        </div>
+      </div>
+    </div>
+
+  </div>
+{{ end }}
+{{ define "footer"}} {{ partial "footer" .}} 
+{{end}}
+
+
