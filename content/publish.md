@@ -20,41 +20,43 @@ Cirilli, O., A.M. Jukar, R. Potts, L. Rook and <b>R.L. Bernor</b>.  2019 The Dee
 <b>E.B. Davis</b>. 2019. Keeping your data alive with harmonized repositories. Western Association of Vertebrate Paleontology, Keynote presentation, Eugene OR.
 
 ## Publications
-(20) Cherin, M., Cirilli, O., Azzará, B., Bernor, R.L. Published online. <a href="http://paleoitalia.org/archives/bollettino-spi/113/published-online-novembre-2020/">Equus stenonis (Equidae, Mammalia) from the Early Pleistocene of Pantalla (Italy) and the dispersion of stenonine horses in Europe</a>. Bollettino della Società Paleontologica Italiana.
+(21) Saarinen, J., Cirilli, O., Meshida, K., Strani, F., and Bernor, R.L. In revision. Testing equid body mass estiamte equations on modern zebras - with implications to understanding the relationship of body size, diet, and habitats of <i>Equus</i> in the Pleistocene of Europe. Frontiers in Ecology and Evolution.
+
+(20) Cherin, M., Cirilli, O., Azzará, B., Bernor, R.L. Published online. <a href="http://paleoitalia.org/archives/bollettino-spi/113/published-online-novembre-2020/"><i>Equus stenonis</i> (Equidae, Mammalia) from the Early Pleistocene of Pantalla (Italy) and the dispersion of stenonine horses in Europe</a>. Bollettino della Società Paleontologica Italiana. 53(3): 1-8.
 
 (19) Omar, C., R.L. Bernor, L. Rook. In final revision. New insights on the early Pleistocene equids from ROca-Neyra (France, Central Europe); implications for the <i>Hipparion</i> LAD and the <i>Equus</i> FAD in Europr. Journal of Paleontology.
 
 (18) Bernor, R.L., M. Beech, F. Bibi. In press. The Baynunah Equidae, Late Miocene, United Arab Emerites. In: Vertebrate Paleobiology and Paleoanthropology Book Series, Springer-Verlag.
 
-(16) Cirilli, O., L. Pandolfi, R.L. Bernor. In press. <a href="https://authors.elsevier.com/c/1cB1s3p0e~RTB">The Villafranchian Perissodactyls of Italy: knowledge of the fossil record and future research perspectives</a>. Geobios
+(16) Cirilli, O., L. Pandolfi, R.L. Bernor. 2020 <a href="https://authors.elsevier.com/c/1cB1s3p0e~RTB">The Villafranchian Perissodactyls of Italy: knowledge of the fossil record and future research perspectives</a>. Geobios, 63: 1-21
 
 (15) Cirilli, O., R.L. Bernor, L. Rook 2020. New Evidences on the Hipparion sample from Il Casino (Siena, Late Miocene, Italy). Preliminary Report. Fossilia – Reports in Paleontology, 2: 9-11, 10.32774/FosRepPal.2020.0603
 
-(14) Machado, H., L. Avilla 2019. The diversity of South American Equus: Did size really matter? Ecology and Evolution 7:235
+(14) Machado, H., L. Avilla 2019. The diversity of South American Equus: Did size really matter? Ecology and Evolution, 7: 235
 
-(13) Baron-Ortiz, C.I., L.S. Avilla, C.N. Jass, V. M. Bravo-Cuevas, H. Machado, D. Mothe 2019. What is Equus? reconciling taxonomy and phylogenetic analyses. Frontiers in Ecology and Evolution 7:343
+(13) Baron-Ortiz, C.I., L.S. Avilla, C.N. Jass, V. M. Bravo-Cuevas, H. Machado, D. Mothe 2019. What is Equus? reconciling taxonomy and phylogenetic analyses. Frontiers in Ecology and Evolution, 7: 343
 
-(12) Cirilli O., S. Zouhri, S. El Boughabi, M.G. Benvenuti, M. Papini, R.L. Bernor, L. Rook 2020. The Hipparionine horse (Perissodactyla: Mammalia) from the Late Miocene of Tizi N’Tadderht) Southern Ouarzazate Basin; Central High Atlas; Morocco). Rivista Italiana di Paleontologia e Stratigrafia, 126, 1-12. https://doi.org/10.13130/2039-4942/12716
+(12) Cirilli O., S. Zouhri, S. El Boughabi, M.G. Benvenuti, M. Papini, R.L. Bernor, L. Rook 2020. The Hipparionine horse (Perissodactyla: Mammalia) from the Late Miocene of Tizi N’Tadderht) Southern Ouarzazate Basin; Central High Atlas; Morocco). Rivista Italiana di Paleontologia e Stratigrafia, 126: 1-12. https://doi.org/10.13130/2039-4942/12716
 
-(11) Bernor R.L, N.T. Boaz, O. Cirilli, L. Rook 2020. Sahabi Eurygnathohippus feibeli: its systematic, stratigraphic, chronologic and Biogeographic contexts. Rivista Italiana di Paleontologia e Stratigrafia,126: 561-581. 10.13130/2039-4942/13937
+(11) Bernor R.L, N.T. Boaz, O. Cirilli, L. Rook 2020. Sahabi Eurygnathohippus feibeli: its systematic, stratigraphic, chronologic and Biogeographic contexts. Rivista Italiana di Paleontologia e Stratigrafia,126: 561-581. doi: 10.13130/2039-4942/13937
 
-(10) Cirilli, O., M. Melchionna, C. Serio, <b>R.L. Bernor</b>, M. Bukhsianidze, D. Lordkipanidze, L. Rook, A. Profico, P. Raia. 2020. <a href="https://www.frontiersin.org/articles/10.3389/feart.2020.00247/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Earth_Science&id=521626">Target Deformation of the Equus stenonis Holotype Skull: A Virtual Reconstruction</a>. Frontiers in Earth Sciences. doi: https://doi.org/10.3389/feart.2020.00247.
+(10) Cirilli, O., M. Melchionna, C. Serio, <b>R.L. Bernor</b>, M. Bukhsianidze, D. Lordkipanidze, L. Rook, A. Profico, P. Raia. 2020. <a href="https://www.frontiersin.org/articles/10.3389/feart.2020.00247/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Earth_Science&id=521626">Target Deformation of the Equus stenonis Holotype Skull: A Virtual Reconstruction</a>. Frontiers in Earth Sciences, 8: 247. doi: https://doi.org/10.3389/feart.2020.00247.
 
 (9) Barve, N., B, Stucky, K. Riemer, S. Mayor and <b>R. Guralnick</b>. Influence of Climate Factors on Endotherm Body Size. Global Ecology and Biogeography. [In Review]
 
-(8) McLean, B. and <b>R. Guralnick</b>. Digital biodiversity datasets reveal breeding phenology and its drivers in a widespread North American mammal. Ecology. [In Review]
+(8) McLean, B. and <b>R. Guralnick</b>. 2020. Digital biodiversity datasets reveal breeding phenology and its drivers in a widespread North American mammal. Ecology, e03258.
 
-(7) <b>Guralnick, R.</b>, M.M. Hantak, D. Li, B.S. McLean. 2020. <a href="https://www.nature.com/articles/s41598-020-65755-x">Body size trends in response to climate and urbanization in the widespread North American deer mouse, <i>Peromyscus maniculatus</i></a>. Scientific Reports, 10:8882.
+(7) <b>Guralnick, R.</b>, M.M. Hantak, D. Li, B.S. McLean. 2020. <a href="https://www.nature.com/articles/s41598-020-65755-x">Body size trends in response to climate and urbanization in the widespread North American deer mouse, <i>Peromyscus maniculatus</i></a>. Scientific Reports, 10: 8882.
 
-(6) Cirilli, O., S.  Zouhri, S. Boughabi , M. Benvenuti, <b>R.L Bernor</b>, M. Papini, and L. Rook. 2020. The hipparionine horses (Perissodactyla: Mammalia) from the Late Miocene of  Tizi N’Tadderht (southern Ouarzazate basin; Central High Atlas; Morocco). Rivista Italiana di Paleontologia e Stratigraphia, Milano 126:1-12. doi: https://doi.org/10.13130/2039-4942/12716
+(6) Cirilli, O., S.  Zouhri, S. Boughabi , M. Benvenuti, <b>R.L Bernor</b>, M. Papini, and L. Rook. 2020. The hipparionine horses (Perissodactyla: Mammalia) from the Late Miocene of  Tizi N’Tadderht (southern Ouarzazate basin; Central High Atlas; Morocco). Rivista Italiana di Paleontologia e Stratigraphia, Milano, 126: 1-12. doi: https://doi.org/10.13130/2039-4942/12716
  
 (5) <b>Bernor, R.L.</b>, G. Semprebon, L S. Avilla, F. Rivals and E. Scott (Editors). 2020. Examining Evolutionary Trends in Equus and its Close Relatives from Five Continents. Frontiers in Ecology and Evolution E-Volume. Volume 7, 14 Chapters, 241 pp. ISSN 1664-8714, ISBN 978-2-88963-555-9, doi: 10.3389/978-2-88963-555-9.
 
-(4) Janis, C.M. and <b>R.L. Bernor</b>. 2019. The Evolution of Equid Monodactyly: A Review Including a New Hypothesis. Frontiers in Ecology and Evolution 7, Article 119: 1-19. doi: 10.3389/fevo.2019.00119
+(4) Janis, C.M. and <b>R.L. Bernor</b>. 2019. The Evolution of Equid Monodactyly: A Review Including a New Hypothesis. Frontiers in Ecology and Evolution, 7: 119. doi: 10.3389/fevo.2019.00119
  
-(3) <b>Bernor, R.L.</b>, O. Cirilli, A.M. Jukar, R. Potts, M. Bukhsianidze, L. Rook. 2019. Evolution of Early Equus in Italy, Georgia, the Indian Subcontinent, East Africa and the Origins of African Zebras. Frontiers in Ecology and Evolution 7, Article 166: 1-19. doi: 10.3389/fevo.2019.00166
+(3) <b>Bernor, R.L.</b>, O. Cirilli, A.M. Jukar, R. Potts, M. Bukhsianidze, L. Rook. 2019. Evolution of Early Equus in Italy, Georgia, the Indian Subcontinent, East Africa and the Origins of African Zebras. Frontiers in Ecology and Evolution, 7: 116. doi: 10.3389/fevo.2019.00166
  
 (2) Rook, L., <b>R.L. Bernor</b>, L.D. Avillla, O. Cirilli, L.J. Flynn, A.M. Jukar, W. Sanders, E. Scott and X. Wang. 2019. Mammal biochronology (Land Mammal
-Ages) around the World from Late Miocene to Middle Pleistocene and major events in Horse evolutionary history. Frontiers in Ecology and Evolution 7, Article 279 doi: 10.3389/fevo.2019.00278
+Ages) around the World from Late Miocene to Middle Pleistocene and major events in Horse evolutionary history. Frontiers in Ecology and Evolution, 7: 279. doi: 10.3389/fevo.2019.00278
  
-(1) Jukar, A.M., B. Sun, A.C. Nanda and <b>R.L. Bernor</b>.  2019. The first occurrence of Eurygnathohippus (Mammalia, Perissodatyla, Equidae) outside Africa and its biogeographic significance. Bollettino della Societa Paleontologica Italiana, 58: 171-179, Modena. 
+(1) Jukar, A.M., B. Sun, A.C. Nanda and <b>R.L. Bernor</b>.  2019. The first occurrence of Eurygnathohippus (Mammalia, Perissodatyla, Equidae) outside Africa and its biogeographic significance. Bollettino della Societa Paleontologica Italiana, Modena, 58: 171-179. 
