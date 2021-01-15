@@ -28,6 +28,8 @@ Cirilli, O., A.M. Jukar, R. Potts, L. Rook and <b>R.L. Bernor</b>.  2019 The Dee
 
 (18) Bernor, R.L., M. Beech, F. Bibi. In press. The Baynunah Equidae, Late Miocene, United Arab Emerites. In: Vertebrate Paleobiology and Paleoanthropology Book Series, Springer-Verlag.
 
+(17) Reuter, D.M., S.S.B. Hopkins, E.B. Davis. Carnivoran intraspecific tooth-size variation shows heterogeneity along the tooth row and among species. Journal of Mammalogy. 10.1093/jmammal/gyaa157
+
 (16) Cirilli, O., L. Pandolfi, R.L. Bernor. 2020 <a href="https://authors.elsevier.com/c/1cB1s3p0e~RTB">The Villafranchian Perissodactyls of Italy: knowledge of the fossil record and future research perspectives</a>. Geobios, 63: 1-21
 
 (15) Cirilli, O., R.L. Bernor, L. Rook 2020. New Evidences on the Hipparion sample from Il Casino (Siena, Late Miocene, Italy). Preliminary Report. Fossilia – Reports in Paleontology, 2: 9-11, 10.32774/FosRepPal.2020.0603
