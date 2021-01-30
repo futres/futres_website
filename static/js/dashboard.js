@@ -1,7 +1,7 @@
 window.onload = function() {
-    const apiBaseURL = 'https://raw.githubusercontent.com/futres/FutresAPI/master/data/'
+    const apiBaseURL = 'https://raw.githubusercontent.com/futres/fovt-data-pipeline/master/data/'
     //const projBaseURL = 'https://api.geome-db.org/projects/stats?includePublic=true'
-    const projBaseURL = 'https://raw.githubusercontent.com/futres/FutresAPI/master/data/projects.json'
+    const projBaseURL = 'https://raw.githubusercontent.com/futres/fovt-data-pipeline/master/data/projects.json'
     const chartSelect = document.getElementById('chart-select')
 
    //Projects Table
