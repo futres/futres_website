@@ -24,7 +24,7 @@ Cirilli, O., A.M. Jukar, R. Potts, L. Rook and <b>R.L. Bernor</b>.  2019 The Dee
 
 (20) Cherin, M., Cirilli, O., Azzará, B., Bernor, R.L. Published online. <a href="http://paleoitalia.org/archives/bollettino-spi/113/published-online-novembre-2020/"><i>Equus stenonis</i> (Equidae, Mammalia) from the Early Pleistocene of Pantalla (Italy) and the dispersion of stenonine horses in Europe</a>. Bollettino della Società Paleontologica Italiana. 53(3): 1-8.
 
-(19) Omar, C., R.L. Bernor, L. Rook. In final revision. New insights on the early Pleistocene equids from ROca-Neyra (France, Central Europe); implications for the <i>Hipparion</i> LAD and the <i>Equus</i> FAD in Europr. Journal of Paleontology.
+(19) Omar, C., R.L. Bernor, L. Rook. In final revision. <a href="https://www.cambridge.org/core/journals/journal-of-paleontology/article/new-insights-on-the-early-pleistocene-equids-from-rocaneyra-france-central-europe-implications-for-the-hipparion-lad-and-the-equus-fad-in-europe/45B7BF15437A128D822A72B3C2F9522D"New insights on the early Pleistocene equids from ROca-Neyra (France, Central Europe); implications for the <i>Hipparion</i> LAD and the <i>Equus</i> FAD in Europe</a>. Journal of Paleontology.
 
 (18) Bernor, R.L., M. Beech, F. Bibi. In press. The Baynunah Equidae, Late Miocene, United Arab Emerites. In: Vertebrate Paleobiology and Paleoanthropology Book Series, Springer-Verlag.
 
