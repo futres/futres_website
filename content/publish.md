@@ -28,15 +28,15 @@ Cirilli, O., A.M. Jukar, R. Potts, L. Rook and <b>R.L. Bernor</b>.  2019 The Dee
 
 (18) Bernor, R.L., M. Beech, F. Bibi. In press. The Baynunah Equidae, Late Miocene, United Arab Emerites. In: Vertebrate Paleobiology and Paleoanthropology Book Series, Springer-Verlag.
 
-(17) Reuter, D.M., S.S.B. Hopkins, E.B. Davis. Carnivoran intraspecific tooth-size variation shows heterogeneity along the tooth row and among species. Journal of Mammalogy. 10.1093/jmammal/gyaa157
+(17) Reuter, D.M., S.S.B. Hopkins, E.B. Davis. Carnivoran intraspecific tooth-size variation shows heterogeneity along the tooth row and among species. Journal of Mammalogy. doi: https://doi.org/10.1093/jmammal/gyaa157
 
 (16) Cirilli, O., L. Pandolfi, R.L. Bernor. 2020 <a href="https://www.sciencedirect.com/science/article/pii/S0016699520300875?casa_token=gYLuEYEwgMcAAAAA:x6DyTZ3T8IAm71Qv_dMBe0rZbQS8UwpO8Ed1oOyale_YvDsYV4jcF0X_e2R0Bixrt3e44tQ_ug">The Villafranchian Perissodactyls of Italy: knowledge of the fossil record and future research perspectives</a>. Geobios, 63: 1-21
 
 (15) Cirilli, O., R.L. Bernor, L. Rook 2020. <a href="https://files.spazioweb.it/20/c6/20c6702c-3d41-4d3e-9914-f94bb2287a22.pdf">New Evidences on the Hipparion sample from Il Casino (Siena, Late Miocene, Italy). Preliminary Report</a>. Fossilia – Reports in Paleontology, 2: 9-11, 10.32774/FosRepPal.2020.0603
 
-(14) Machado, H., L. Avilla 2019. The diversity of South American Equus: Did size really matter? Ecology and Evolution, 7: 235
+(14) Machado, H., L. Avilla 2019. <a href="https://www.frontiersin.org/articles/10.3389/fevo.2019.00235/full">The diversity of South American Equus: Did size really matter?</a> Ecology and Evolution, 7: 235
 
-(13) Baron-Ortiz, C.I., L.S. Avilla, C.N. Jass, V. M. Bravo-Cuevas, H. Machado, D. Mothe 2019. What is Equus? reconciling taxonomy and phylogenetic analyses. Frontiers in Ecology and Evolution, 7: 343
+(13) Baron-Ortiz, C.I., L.S. Avilla, C.N. Jass, V. M. Bravo-Cuevas, H. Machado, D. Mothe 2019. <a href="https://www.frontiersin.org/articles/10.3389/fevo.2019.00343/full">What is Equus? reconciling taxonomy and phylogenetic analyses</a>. Frontiers in Ecology and Evolution, 7: 343
 
 (12) Cirilli O., S. Zouhri, S. El Boughabi, M.G. Benvenuti, M. Papini, R.L. Bernor, L. Rook 2020. The Hipparionine horse (Perissodactyla: Mammalia) from the Late Miocene of Tizi N’Tadderht) Southern Ouarzazate Basin; Central High Atlas; Morocco). Rivista Italiana di Paleontologia e Stratigrafia, 126: 1-12. https://doi.org/10.13130/2039-4942/12716
 
@@ -46,7 +46,7 @@ Cirilli, O., A.M. Jukar, R. Potts, L. Rook and <b>R.L. Bernor</b>.  2019 The Dee
 
 (9) Barve, N., B, Stucky, K. Riemer, S. Mayor and <b>R. Guralnick</b>. Influence of Climate Factors on Endotherm Body Size. Global Ecology and Biogeography. [In Review]
 
-(8) McLean, B. and <b>R. Guralnick</b>. 2020. Digital biodiversity datasets reveal breeding phenology and its drivers in a widespread North American mammal. Ecology, e03258.
+(8) McLean, B. and <b>R. Guralnick</b>. 2020. <a href="https://esajournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ecy.3258?casa_token=zi1xnvZ3_HgAAAAA:nQCK68eLezS5Rzg_UL20ccXy_8ji-jaF_cdscaI6ptTADBgTIUgFzP5BK_GUU6vQsib7gZpFDJYH6A">Digital biodiversity datasets reveal breeding phenology and its drivers in a widespread North American mammal</a>. Ecology, e03258.
 
 (7) <b>Guralnick, R.</b>, M.M. Hantak, D. Li, B.S. McLean. 2020. <a href="https://www.nature.com/articles/s41598-020-65755-x">Body size trends in response to climate and urbanization in the widespread North American deer mouse, <i>Peromyscus maniculatus</i></a>. Scientific Reports, 10: 8882.
 
