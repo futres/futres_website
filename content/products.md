@@ -4,9 +4,7 @@ language: en
 slug: products
 ---
 
-## <a href="https://futres.org/publish/">Talks</a>
-
-## <a href="https://futres.org/publish/'">Publications</a>
+## <a href="https://futres.org/publish/">Talks & Publications</a>
 
 ## <a href="https://futres.org/news/">News</a>
 
