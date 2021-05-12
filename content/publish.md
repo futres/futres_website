@@ -20,6 +20,8 @@ Cirilli, O., A.M. Jukar, R. Potts, L. Rook and <b>R.L. Bernor</b>.  2019 The Dee
 <b>E.B. Davis</b>. 2019. Keeping your data alive with harmonized repositories. Western Association of Vertebrate Paleontology, Keynote presentation, Eugene OR.
 
 ## Publications
+(22) Cirilli, O., Pandolfi, L., Rook, L., and Bernor, R.L. 2021. <a href= "https://www.nature.com/articles/s41598-021-89440-9">Evolution of Old World <i>Equus</i> and origin of the zebra-ass clade</a>. Scientific Reports. 11(10156).
+
 (21) Saarinen, J., Cirilli, O., Meshida, K., Strani, F., and Bernor, R.L. 2021. <a href="https://www.frontiersin.org/articles/10.3389/fevo.2021.622412/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Ecology_and_Evolution&id=622412">Testing equid body mass estiamte equations on modern zebras - with implications to understanding the relationship of body size, diet, and habitats of <i>Equus</i> in the Pleistocene of Europe.</a> Frontiers in Ecology and Evolution. <a href="https://doi.org/10.3389/fevo.2021.622412">doi:10.3389/fevo/2021</a>
 
 (20) Cherin, M., Cirilli, O., Azzará, B., Bernor, R.L. Published online. <a href="http://paleoitalia.org/archives/bollettino-spi/113/published-online-novembre-2020/"><i>Equus stenonis</i> (Equidae, Mammalia) from the Early Pleistocene of Pantalla (Italy) and the dispersion of stenonine horses in Europe</a>. Bollettino della Società Paleontologica Italiana. 53(3): 1-8.
