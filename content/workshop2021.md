@@ -62,7 +62,7 @@ workflow below.
 
 <img src="/media/AV_fig2.png" width="200" class="center">
 
-<a href="https://github.com/futres/futres_website/blob/master/content/media/Ecometric%20variation%20in%20horn%20size%20recording-Villasenor.mp4">Video</a>
+<a href="https://youtu.be/7ZpzA1oPIII4">Video</a>
 
 <br>
 
