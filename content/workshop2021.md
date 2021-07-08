@@ -8,7 +8,9 @@ slug: workshop2021
 
 <h4><b>An ecometric exploration of bovid horn core size in modern Africa</b></h4>
 <i>Project Leader: <a href="mailto:avillase@uark.edu"> Amelia Villaseñor</a></i>
+
 <br>
+
     Ecometrics rely on the principle that morphological traits reflect a species’
 interaction with its surroundings, both biotic and abiotic (Eronen et al., 2010a). For example,
 traits such as tooth height and hypsodonty reflect variation in climate in both the past and present
@@ -71,7 +73,9 @@ workflow below.
 
 <h4><b>Approximating mammal functional trait diversity using body mass</b></h4>
 <i>Project Leader: <a href="mailto:DFraser@nature.ca">Danielle Fraser</a></i>
+
 <br>
+
     Quantifying biodiversity (i.e., the numbers and types of organisms) enables us to understand the geographic distributions of species, drivers of those distributions, to identify conservation “hot spots,” and, ultimately, to assess community, population, and geographic change resulting from both anthropogenic and non-anthropogenic processes (1). Measuring biodiversity in the past, in particular, allows us to assess the roles of a variety of long-term drivers (e.g., tectonics, climate change) (2) and develop a baseline understanding of how assemblages of species respond to global and regional changes (3, 4). 
 <p>
     There are a variety of ways to measure biodiversity, the simplest of which is richness (i.e., the number of species in an assemblage). The various metrics for Functional Diversity (FD) attempt to describe the array of lifestyles occupied by species in the same assemblage (5). They all rely on measuring or scoring ecologically relevant traits to quantify how species in the same assemblage are distributed in niche or trait space (6). FD has advantages over richness in that it can be used to identify assemblages of species or particular species with unique characteristics and thus to inform species-agnostic conservation targets (7, 8).
@@ -90,7 +94,9 @@ Engagement. The FuTRES datastore includes data for many North American mammal sp
 
 <h4><b>Inter- and intra- trait variation</b></h4>
 <i>Project Leader: <a href="mailto:b_mclean@uncg.edu">Bryan McLean</a></i>
+
 <br>
+
     The <b>Inter/Intra</b> project takes a quantitative approach to exploring how individual-level
 (and, especially, specimen-level) trait data inform our understanding of biological processes and
 progress the precision of comparative evolutionary and ecological analyses. Overarching aims of Inter/Intra are to <b>a)</b> explore existing theoretical framework(s) that underpin use of individual-
@@ -147,7 +153,9 @@ research.
 
 <h4><b>New frontiers and perspectives in stydying fossil and extant <i>Equus</i></b></h4>
 <i>Project Leader: <a href="mailto:hdebasto@uoregon.edu">Helena Machado</a> and <a href="mailto:omar.cirilli@phd.unipi.it">Omar Cirilli</a></i>
+
 <br>
+
     Morphologic and morphometric analyses are one of the most powerful tool to investigate the variety of biological processes in living and extinct species, with special remarks also to evaluate the relationships in single or multiple populations. Widespread taxa often present great phenotypic plasticity, with morphological variations related to the biotic and abiotic gradients of the heterogeneous environment present through their geographic extension. However, those ecomorphotypes not always extends to evaluate the species level. Taxonomy and systematics would be greatly benefited by a higher understanding of those morphological variations, specially through an individual trait analysis. Here, we propose the study of extinct and living Equus as a model system for trait biogeography.
 <p>
     Despite over a century of work, there is still no complete consensus on Equus taxonomy nor phylogeny among specialists. It is hypothesized that North American Equus can be divided into stilt and stout legged horses, but there is still a need for a better understanding of the groups as most work so far has focused on provincial horse faunas. 
@@ -175,9 +183,11 @@ research.
 
 <br>
 
-<h4><b>Linking open data across metric data repositories and discipines/b></h4>
+<h4><b>Linking open data across metric data repositories and discipines</b></h4>
 <i>Project Leader: <a href="mailto:ndelsol@ufl.edu">Nicolas Desol</a>, <a href="mailto:lmd@openconetxt.org">Meghan Dennis</a>, <a href="mailto:ciszka@opencontext.org">Paulina Przystupa</a>, <a href="mailto:sarah@opencontext.org">Sarah W. Kansa</a>, and <a href="mailto:kemery@flmnh.ufl.edu">Kitty Emery</a></i>
+
 <br>
+
     This project aims to document the process of integrating data from Open Context (opencontext.org, an archaeological open data publishing and curating platform) and FuTRES to highlight the feasibility and research value of linked open data. While many archaeologists, paleontologists, and biologists build their own datasets and use them intensively for research, or contribute data to collaborative databases, it remains challenging to use data collected by others or curated in separated repositories. Several other hurdles also face data users. Data sharing has often focused on archiving for compliance purposes, and this has resulted in messy and poorly described data entering repositories. Repositories are often still siloed or linked only at the disciplinary level (such as Open Context for archaeological data, iDigBio for biodiversity data, etc.) or focus on specific data types (such as trait data in the case of FuTRES). For the data user, there are few opportunities to learn about how to discover, evaluate, and integrate data from multiple sources including their own datasets. Focusing on data reuse best practice and the research benefits of data integration will help scholars be more thoughtful about data clean up and documentation. Published examples of how to discover relevant data and prepare it for integration can provide much needed guidance for archaeologists, paleontologists, and neontologists to engage in linked open data. 
 <p>
     This project will explore the processes and realities of linking biometrical data already published in Open Context with similar data in FuTRES and in personal datasets. We will focus on the integration of metric skeletal data from archaeological cow specimens (Bos taurus) and any possible existing datasets on modern and ancestral cows (Bos primigenius) from the FuTRES dataset or other interested workshop participants. Open Context has a new Data Literacy Program that has been developing learning modules drawing on archaeological cattle data, including metric data, as an exemplar of how to use open data from Open Context for research purposes. This project is being conducted by Meghan Dennis and Paulina Przystupa (Postdoctoral Researchers with Open Context). At the same time Nicolas Delsol (a Ph.D. student at the University of Florida) has a Colonial New World cow dataset that includes metric data as well. In this project, Delsol will add his cow metric data to FuTRES and then together with Open Context and FuTRES personnel, explore best practice to integrate the Open Context cow metric data to FuTRES data (Delsol’s and others) and/or link Open Context and FuTRES data into a separate research dataset using an API. This entire process will be documented step by step and published in R as well as a research paper so that others can benefit from following a “recipe” for linking data across disciplines and repositories. The attempt to integrate/link datasets across systems will be helpful to document to understand the challenges and potential stumbling blocks in this kind of work. This attempt alone could be a useful research paper. If the data integration/linking works well, then we could proceed to a simple research study of body size differences in Old/New World or pre/post colonialism contexts.     This project would support professional development and mentorship, as it could be run primarily by Open Context’s Data Literacy Program postdoctoral researchers Meghan Dennis and Paulina Przystupa, and Ph.D. student Nicolas Delsol, with mentorship from FuTRES and Open Context, furthering community building among early career researchers. 
@@ -197,7 +207,9 @@ FuTRES engagement
 
 <h4><b>Testing allometric methods</b></h4>
 <i>Project Leader: <a href="mailto:delasancha@gmail.com">Noé de la Sancha</a></i>
+
 <br>
+
     Allometry has been used in the context of three different phenomena; ontogenetic, static, and in evolutionary allometry (Cock 1966, Cheverud 1982, Klingenberg 1996, Schlichting and Piggliucci 1998). Ontogenetic allometry refers to the growth trajectory of structures as a function of body size during the life of an individual. Static allometry refers to the scaling relationship among individuals between one structure as a function of total body size or between two structures once growth has stopped or at a particular developmental stage (Stern and Emien 1999). Meanwhile, evolutionary (phylogenetic) allometry refers to the size relationship between structures across species (Stern and Emien 1999). While the main application of allometric equations was used on morphology, virtually any feature of an organism (e.g., life history traits) can be compared to size (Stern and Emien 1999) and show simple log-log (power function) allometric scaling laws as a function of size including for example metabolic rates, lifespans, growth rates, heart rates, length and radii of aortas, cerebral gray matter, genome length, densities of mitochondria and metabolic enzymes, population density decreases (West and Brown 2005). 
 <p>
     Bivariate approaches to allometry were represented by plotting two metric traits (usually log transformed) against each other (Huxley 1932) or by plotting a metric of shape as a function of size (Gould 1966). Bivariate techniques usually use a simple power law (West and Brown 2005) and these can take different regression approaches for example least-square regression or reduced major axis regression (Giannini et al. 2004). In these approaches significance of variables is indicative of allometry, where measures of slope (b) < 1 represent “negative” allometry and b > 1 represent “positive” allometry, while non-significant relationships represent isometry. Power functions are most commonly used and applied, but are there other functions which might be better predictors across taxa? There might be other functions beyond the power function which best explains the relationships between variables as a function of allometry and that have biological significance. There are a plethora of other potential models which might be useful in explaining these relationships. The literature for species-area relationships to explain species richness is vast with potential, meaningful models (Triantis et al. 2012, Matthews et al. 2016). Traditionally these relationships have also been assumed to be best represented by a power function. Recently, at least 20 different models have been proposed to test these relationships (Table 1). Here, we take advantage of these same models and apply them to allometric relationships of a traditional question in paleontology, biogeography, and ecology: the mass versus length relationship.
