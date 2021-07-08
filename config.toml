@@ -62,6 +62,20 @@ sectionPagesMenu = "main"
     weight = 3
     identifier = "biosketch2020"
     url = "/biosketch2020/"
+   
+  [[menu.main]]
+    parent = "workshop"
+    name = "2021 Workshop"
+    weight = 3
+    identifier = "workshop2021"
+    url = "/workshop2021/"
+    
+  [[menu.main]]
+    parent = "workshop"
+    name = "Proposals"
+    weight = 3
+    identifier = "proposals"
+    url = "/proposals/"
 
   [[menu.main]]
     name = "Code of Conduct"
