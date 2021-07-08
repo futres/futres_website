@@ -6,9 +6,10 @@ slug: workshop2021
 
 
 <h3>Meeting Materials</h3>
-- <a href="https://futres.org/codeofconduct/">Code of Conduct</a> <br>
 - <a href="">Proposals</a> <br>
-- <a href="">Sign up for a Team</a>
+- <a href="">Sign up for a Team</a> <br>
+- - <a href="https://futres.org/codeofconduct/">Code of Conduct</a>
+
 
 <br>
 
