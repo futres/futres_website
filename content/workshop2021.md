@@ -7,7 +7,7 @@ slug: workshop2021
 
 <h3>Meeting Materials</h3>
 - <a href="https://futres.org/proposals/">Proposals</a> <br>
-+ <a href="https://docs.google.com/forms/d/e/1FAIpQLScjtVpO4TFUkFxkr54irrD48nc6k1dvnPCT04y8QZ-8WKBkVg/viewform">Sign up for a Team</a> <br>
+ + <a href="https://docs.google.com/forms/d/e/1FAIpQLScjtVpO4TFUkFxkr54irrD48nc6k1dvnPCT04y8QZ-8WKBkVg/viewform">Sign up for a Team</a> <br>
 - <a href="https://futres.org/codeofconduct/">Code of Conduct</a>
 
 
