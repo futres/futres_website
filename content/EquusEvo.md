@@ -51,6 +51,7 @@ slug: EquusEvo
         December 10: reports from the working session.
         
 <br>
+        <br>
 
 Roles/Competency | Identified team members | Needed team members
 ------ | ------ | ------ 
