@@ -4,6 +4,8 @@ language: en
 slug: AllomMethod
 ---
 
+<h5><a href="https://docs.google.com/document/d/1FBFOLBtIFEZDSOt1lmXvVbv-rBI_4ufjyoS3WMhO_Ic/edit">Questions or Comments?</a></h5>
+
 <h3><b>Testing allometric methods</b></h3>
 <i>Project Leader: <a href="mailto:delasancha@gmail.com">Noé de la Sancha</a></i>
 
