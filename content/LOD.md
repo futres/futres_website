@@ -25,7 +25,8 @@ FuTRES engagement
 <p>
     A first step of this project will be to upload the Delsol dataset to FuTRES (using the FuTRES Rshiny app) and thereby integrating the Delsol data with any other pre-existing FuTRES or interested workshop participant cow data. This dataset will be integrated with related data published in Open Context. The primary aim of this work is to demonstrate successful integration of related data from FuTRES and Open Context to encourage scholars to develop research programs that draw on linked open data. 
 
-<br>    
+<br>   
+    <br>
     
 Roles/Competency | Identified team members | Needed team members
 ------ | ------ | ------   
