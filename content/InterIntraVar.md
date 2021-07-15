@@ -63,6 +63,7 @@ vision is that this project will illuminate ways forward for the broader communi
 research.
 
 <br>    
+    <br>
     
 Roles/Competency | Identified team members | Needed team members
 ------ | ------ | ------   
