@@ -8,6 +8,8 @@ slug: InterIntraVar
 <i>Project Leader: <a href="mailto:b_mclean@uncg.edu">Bryan McLean</a></i>
 
 <br>
+<p>
+    <p>
     The <b>Inter/Intra</b> project takes a quantitative approach to exploring how individual-level
 (and, especially, specimen-level) trait data inform our understanding of biological processes and
 progress the precision of comparative evolutionary and ecological analyses. Overarching aims of Inter/Intra are to <b>a)</b> explore existing theoretical framework(s) that underpin use of individual-
@@ -60,6 +62,8 @@ ecological and evolutionary analyses that can be shared among teams and particip
 vision is that this project will illuminate ways forward for the broader community in trait-based
 research.
 
+<br>    
+    
 Roles/Competency | Identified team members | Needed team members
 ------ | ------ | ------   
 Familiarity with vertebrate biology | Balk | 
