@@ -32,8 +32,17 @@ FuTRES engagement
 <p>
     This project explicitly uses data available in the FuTRES datastore that is not available anywhere else, and is the largest specimen-level trait datastore. This project will also benefit from the technical and broad knowledge of the FuTRES community.
 
+<br>
+    <br>
+    
 <img src="/media/NdlS_fig1.png" width="200" class="center">
+
+<br>    
+    
 <img src="/media/NdlS_fig2.png" width="200" class="center">
+    
+<br>
+    <br>
 
 No. | Fucntion name | Family | No. of parameters | Formula | Shape
 ------ | ------ | ------ | ------ | ------ | ------
