@@ -60,14 +60,20 @@ conceived when I was an undergraduate, I’d be open to ideas about how to broad
 refine the hypothesis, or perhaps expand the project into multiple papers. See the proposed
 workflow below.
 
+<br>
+    <br>
 <img src="/media/AV_workflow.png" width="200" class="center">
+    <br>
 
 <img src="/media/AV_fig1.png" width="200" class="center">
+    <br>
 
 <img src="/media/AV_fig2.png" width="200" class="center">
+    <br>
 
 <h4><a href="https://youtu.be/7ZpzA1oPIII4">Video</a></h4>
     
+<br>
     
 *Though there are team members already listed, we welcome anyone with knowledge, skills, or data that may be useful i developing this project    
 Roles/Competency | Identified team members | Needed team members
