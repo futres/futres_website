@@ -8,6 +8,8 @@ slug: TraitDiversity
 <i>Project Leader: <a href="mailto:DFraser@nature.ca">Danielle Fraser</a></i>
 
 <br>
+<p>
+    <p>
     Quantifying biodiversity (i.e., the numbers and types of organisms) enables us to understand the geographic distributions of species, drivers of those distributions, to identify conservation “hot spots,” and, ultimately, to assess community, population, and geographic change resulting from both anthropogenic and non-anthropogenic processes (1). Measuring biodiversity in the past, in particular, allows us to assess the roles of a variety of long-term drivers (e.g., tectonics, climate change) (2) and develop a baseline understanding of how assemblages of species respond to global and regional changes (3, 4). 
 <p>
     There are a variety of ways to measure biodiversity, the simplest of which is richness (i.e., the number of species in an assemblage). The various metrics for Functional Diversity (FD) attempt to describe the array of lifestyles occupied by species in the same assemblage (5). They all rely on measuring or scoring ecologically relevant traits to quantify how species in the same assemblage are distributed in niche or trait space (6). FD has advantages over richness in that it can be used to identify assemblages of species or particular species with unique characteristics and thus to inform species-agnostic conservation targets (7, 8).
@@ -20,8 +22,14 @@ Methods. Using trait data in the FuTRES database (e.g., body mass, post-cranial 
 <p>
 Engagement. The FuTRES datastore includes data for many North American mammal species, particularly in the USA. Furthermore, the database includes individual-scale data, which will enable us to derive new species means (e.g. for body mass) that are tied directly to specimens in museum collections. The project will also benefit greatly from the expertise of participants in the FuTRES workshops. 
 
+<br>    
+<br>
+    
 <img src="content/media/DF_fig1.png" width="200" class="center">
 
+<br>   
+    <br>   
+    
 Roles/Competency | Identified team members | Needed team members
 ------ | ------ | ------     
 Leader | Fraser |
