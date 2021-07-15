@@ -8,6 +8,8 @@ slug: EquusEvo
 <i>Project Leader: <a href="mailto:hdebasto@uoregon.edu">Helena Machado</a> and <a href="mailto:omar.cirilli@phd.unipi.it">Omar Cirilli</a></i>
 
 <br>
+<p>
+    <p>
     Morphologic and morphometric analyses are one of the most powerful tool to investigate the variety of biological processes in living and extinct species, with special remarks also to evaluate the relationships in single or multiple populations. Widespread taxa often present great phenotypic plasticity, with morphological variations related to the biotic and abiotic gradients of the heterogeneous environment present through their geographic extension. However, those ecomorphotypes not always extends to evaluate the species level. Taxonomy and systematics would be greatly benefited by a higher understanding of those morphological variations, specially through an individual trait analysis. Here, we propose the study of extinct and living Equus as a model system for trait biogeography.
 <p>
     Despite over a century of work, there is still no complete consensus on Equus taxonomy nor phylogeny among specialists. It is hypothesized that North American Equus can be divided into stilt and stout legged horses, but there is still a need for a better understanding of the groups as most work so far has focused on provincial horse faunas. 
@@ -21,17 +23,34 @@ slug: EquusEvo
     This project will allow us to engage with the FuTRES ecosystems as it will either add more data or analyze pre-existing ones. Moreover, the comparative study on Equus limb bones dialogues directly with Raymond Louis Bernor FuTRES project on Equid Locomotion. 
 <p>
     The FuTRES workshop will allow an open and important collaboration among the experts for which we propose the following topics to be covered throughout the workshop sessions:
-- Paleobiogeography: to give the opportunity to exchange and develop data leading to increased knowledge of the Equus fossil record in Americas, Eurasia and Africa as well as, hopefully, integrating molecular, extant and fossil data.
-- Morphometrics: to discuss the application of analytical and statistical tools for morphometrical analyses. This would provide an important opportunity to discuss the intra and interspecific variability among all the Equus species.
-- Phylogeny: to discuss the most recent results on Equus phylogeny, hopefully integrating molecular data with skeletal morphological data.
-- Paleoecology: to discuss and present the most recent advances on body size and paleodiet on fossil Equus species. It would be interesting to focus the discussion on how the ecological factors and the environment play a role in the adaptation both on diet and skeleton elements following the results of Saarinen et al. (2021).
+<br>
+ - Paleobiogeography: to give the opportunity to exchange and develop data leading to increased knowledge of the Equus fossil record in Americas, Eurasia and Africa as well as, hopefully, integrating molecular, extant and fossil data.
+<br>
+    - Morphometrics: to discuss the application of analytical and statistical tools for morphometrical analyses. This would provide an important opportunity to discuss the intra and interspecific variability among all the Equus species.
+<br>
+    - Phylogeny: to discuss the most recent results on Equus phylogeny, hopefully integrating molecular data with skeletal morphological data.
+<br>
+    - Paleoecology: to discuss and present the most recent advances on body size and paleodiet on fossil Equus species. It would be interesting to focus the discussion on how the ecological factors and the environment play a role in the adaptation both on diet and skeleton elements following the results of Saarinen et al. (2021).
 <p>
     The overall outcomes expected from this workshop are: 
--  update and extend the 2020 Frontiers Equus volume; 
-- database development.
-- an application to NSF for a RCN (Research Coordinated Network) following the 1981 AMNH International Hipparion Research Initiative wherein Equid measurements were defined and used by the Equid community (Eisenmann et al., 1988; Bernor et al., 1997).
+<br>
+- update and extend the 2020 Frontiers Equus volume
+<br>
+    - database development
+<br>
+    - an application to NSF for a RCN (Research Coordinated Network) following the 1981 AMNH International Hipparion Research Initiative wherein Equid measurements were defined and used by the Equid community (Eisenmann et al., 1988; Bernor et al., 1997)
 <p>
-    The project will be conducted throughout the workshop time frame, and we propose the following organizational structure for the Project Working Sessions: August 20 – introduction and topics (listed above) discussion; September 17 – topics and project discussion; October 22 and November 19 – analyzing results; and December 10 – reports from the working session.
+    The project will be conducted throughout the workshop time frame, and we propose the following organizational structure for the Project Working Sessions: 
+    <p>
+        August 20: introduction and topics (listed above) discussion
+    <p>
+        September 17: topics and project discussion
+    <p>
+        October 22 and November 19:analyzing results
+    <p>
+        December 10: reports from the working session.
+        
+<br>
 
 Roles/Competency | Identified team members | Needed team members
 ------ | ------ | ------ 
