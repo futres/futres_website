@@ -4,7 +4,7 @@ language: en
 slug: TraitDiversity
 ---
 
-<h5><a href="https://docs.google.com/document/d/1O9cCdV84mgJaZ44_jLxmJROrnZjVkhEPSKzUBzkU1bs/edit">Questions or Comments?</a></h5>
+<h5>Questions or Comments? Interact with the Project Leader <a href="https://docs.google.com/document/d/1O9cCdV84mgJaZ44_jLxmJROrnZjVkhEPSKzUBzkU1bs/edit">here</a>.</h5>
 
 <h3><b>Approximating mammal functional trait diversity using body mass</b></h3>
 <i>Project Leader: <a href="mailto:DFraser@nature.ca">Danielle Fraser</a></i>
