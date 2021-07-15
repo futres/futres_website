@@ -4,7 +4,7 @@ language: en
 slug: InterIntraVar
 ---
 
-<h5><a href="https://docs.google.com/document/d/1x6pXIAKVYhv-9NDwe_nIFEdawyvbXOaXUla2mkXZBHY/edit">Questions or Comments?</a></h5>
+<h5>Questions or Comments? Interact with the Project Leader <a href="https://docs.google.com/document/d/1x6pXIAKVYhv-9NDwe_nIFEdawyvbXOaXUla2mkXZBHY/edit">here</a>.</h5>
 
 <h3><b>Inter- and intra- trait variation</b></h3>
 <i>Project Leader: <a href="mailto:b_mclean@uncg.edu">Bryan McLean</a></i>
