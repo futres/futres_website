@@ -31,7 +31,7 @@ slug: proposals
 <br>
 
 <h4><a href="https://futres.org/LOD">Linking open data across metric data repositories and discipines</a></h4>
-&nbsp;&nbsp;&nbsp;&nbsp;<i>Project Leader: <a href="mailto:ndelsol@ufl.edu">Nicolas Desol</a>, <a href="mailto:lmd@openconetxt.org">Meghan Dennis</a>, <a href="mailto:ciszka@opencontext.org">Paulina Przystupa</a>, <a href="mailto:sarah@opencontext.org">Sarah W. Kansa</a>, and <a href="mailto:kemery@flmnh.ufl.edu">Kitty Emery</a></i>
+&nbsp;&nbsp;&nbsp;&nbsp;<i>Project Leader: <a href="mailto:ndelsol@ufl.edu">Nicolas Delsol</a>, <a href="mailto:lmd@openconetxt.org">Meghan Dennis</a>, <a href="mailto:ciszka@opencontext.org">Paulina Przystupa</a>, and <a href="mailto:sarah@opencontext.org">Sarah W. Kansa</a></i>
 
 <br>
 
