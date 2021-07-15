@@ -68,6 +68,16 @@ workflow below.
 <img src="/media/AV_fig2.png" width="200" class="center">
 
 <a href="https://youtu.be/7ZpzA1oPIII4">Video</a>
+    
+    
+*Though there are team members already listed, we welcome anyone with knowledge, skills, or data that may be useful i developing this project    
+Roles/Competency | Identified team members | Needed team members
+------ | ------ | ------ 
+Horn size and other cranial or postcranial data (already collected) | Villaseñor |
+Horn size and other cranial data (to be collected) | | 
+Expertise in coding, statistics, removing phylogenetic signal from trait measurements, etc. (R) | Fraser, Pineda-Munoz, Villaseñor |
+Expertise in trait variation and measurement | Pineda-Munoz, Delezene | 
+Expertise in bovid ecology and African ecosystems through time | Behrensmeyer, Villaseñor |
 
 <br>
 
@@ -89,6 +99,18 @@ Engagement. The FuTRES datastore includes data for many North American mammal sp
 
 <img src="content/media/DF_fig1.png" width="200" class="center">
 
+Roles/Competency | Identified team members | Needed team members
+------ | ------ | ------     
+Leader | Fraser |
+Environmental layers | |
+Data cleaning | |
+Analytical planning | |
+Project manager | |
+Analyses | | 
+Figure making | | 
+Functional trait knowledge | | 
+Body mass knowledge | Fraser, Jukar, Balk |
+    
 <br>
 
 <h4><b>Inter- and intra- trait variation</b></h4>
@@ -147,6 +169,16 @@ ecological and evolutionary analyses that can be shared among teams and particip
 vision is that this project will illuminate ways forward for the broader community in trait-based
 research.
 
+Roles/Competency | Identified team members | Needed team members
+------ | ------ | ------   
+Familiarity with vertebrate biology | Balk | 
+Familiarity with evolutionary theory and analyses | Blackburn | 
+Familiarity with ecological theory and analyses | de la Sancha |
+Experience coding in R | Kohli | 
+Experience with data visualization in R | Hantak |
+Experience querying occurrence ro trait databases | Nations | 
+Leader | McLean | 
+    
 <br>
 
 <h4><b>New frontiers and perspectives in stydying fossil and extant <i>Equus</i></b></h4>
@@ -178,6 +210,19 @@ research.
 <p>
     The project will be conducted throughout the workshop time frame, and we propose the following organizational structure for the Project Working Sessions: August 20 – introduction and topics (listed above) discussion; September 17 – topics and project discussion; October 22 and November 19 – analyzing results; and December 10 – reports from the working session.
 
+Roles/Competency | Identified team members | Needed team members
+------ | ------ | ------ 
+Co-Leader. Americas <i>Equus</i> database development (measurements and imaging) systematics, phylogeny, morphometrics, functional anatomy, biogeography, paleoecology. Hagerman Horse fauna | Machado |
+Co-Leader. Eurasia and Africa <i>Equus</i> database development (measurements and imaging) systematics, phylogeny, morphometrics, functional anatomy, biogeography, paleoecology. Hagerman Horse fauna | Cirilli |
+<i>Equus</i> evolution and paleobiology across 5 continents (resource for the co-organizers). | Bernor |
+Databasing, data analysis, Americas <i>Equus</i> evolutionary record (resource for the co-organizers) | Davis | 
+<i>Equus</i> phylogeny, Americas Equus record | Avilla | 
+<i>Equus</i> phylogeny Americas Equus record | Barrón-Ortiz | 
+<i>Equus</i> evolution and paleobiology Europe and Africa | Rook |
+Paleodiet and paleoecology | Strani and Semprebon | 
+Body mass, paleodiet and paleoecology | Saarinen |
+Phylogenetic systematics and biogeography | Pandolfi |
+
 <br>
 
 <h4><b>Linking open data across metric data repositories and discipines</b></h4>
@@ -199,6 +244,18 @@ FuTRES engagement
 <p>
     A first step of this project will be to upload the Delsol dataset to FuTRES (using the FuTRES Rshiny app) and thereby integrating the Delsol data with any other pre-existing FuTRES or interested workshop participant cow data. This dataset will be integrated with related data published in Open Context. The primary aim of this work is to demonstrate successful integration of related data from FuTRES and Open Context to encourage scholars to develop research programs that draw on linked open data. 
 
+Roles/Competency | Identified team members | Needed team members
+------ | ------ | ------   
+Identify datasets to integrate | Delsol, Dennis, Przystupa, Emery, S. Kansa | Other cow-related datasets are welcome! If added, data donors will be included in all appropriate steps below
+Mammal anatomy expertise | Delsol, Emery, S. Kansa | Will need help from FuTRES ontology team
+Data cleaning and metadata alignment appropriate to OC and FuTRES | Delsol, Dennis, Przystupa, Kansa, FuTRES team | Need help with FuTRES
+Upload data to FuTRES | OC team, FuTRES team | Need help with FuTRES
+Document data integration process | OC team, FuTRES team | Need help with FuTRES
+R Coding | OC team | Would like additional help or review
+API development (if feasible) | E. Kansa (OC team), FuTRES team | Need help with FuTRES side of API development
+Metric data comparative analysis as appropriate | Delsol, Emery, S. Kansa |
+Writing and editing (1 paper on integration process, possibly 1 paper on metric data analysis) | Delsol, Dennis, Przystupa (possibly Emery and S. Kansa) |
+    
 <br>
 
 <h4><b>Testing allometric methods</b></h4>
@@ -251,3 +308,13 @@ No. | Fucntion name | Family | No. of parameters | Formula | Shape
 18 | Rational | Rat(G) | 3 | S= (c + zA)/(1 + dA) | Convex
 19 | Gompertz | Gom(H) | 3 | S = d exp[ - exp( - z(A - c))] | Sigmoid
 20 | Beta - P | Beta(I) | 4 | S = d [1 - (1 + (A/c)z) - f] | Sigmoid
+    
+Roles/Competency | Identified team members | Needed team members
+------ | ------ | ------   
+Data cleaning | Balk, de la Sancha |
+Mammal expertise | de la Sancha | 
+R coding | Balk | more help wanted
+Allomtery knowldege | de la Sancha | more help wanted
+Stats knowledge for testing moedls | | 
+Partitioning small mammals | de la Sancha, Balk | more help wanted
+Split up writing and editing assignments | |
