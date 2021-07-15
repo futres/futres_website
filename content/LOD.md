@@ -4,7 +4,7 @@ language: en
 slug: LOD
 ---
 
-<h5><a href="https://docs.google.com/document/d/12rZ7jrNQjNZbU65_dPNWjDdaGxuisYmCfXhmvOhy_DE/edit">Questions or Comments?</a></h5>
+<h5>Questions or Comments? Interact with the Project Leader <a href="https://docs.google.com/document/d/12rZ7jrNQjNZbU65_dPNWjDdaGxuisYmCfXhmvOhy_DE/edit">here</a>.</h5>
 
 <h3><b>Linking open data across metric data repositories and discipines</b></h3>
 <i>Project Leader: <a href="mailto:ndelsol@ufl.edu">Nicolas Delsol</a>, <a href="mailto:lmd@openconetxt.org">Meghan Dennis</a>, <a href="mailto:ciszka@opencontext.org">Paulina Przystupa</a>, and <a href="mailto:sarah@opencontext.org">Sarah W. Kansa</a></i>
