@@ -8,6 +8,8 @@ slug: BovidHorn
 <i>Project Leader: <a href="mailto:avillase@uark.edu"> Amelia Villaseñor</a></i>
 
 <br>
+<p>
+    <p>
     Ecometrics rely on the principle that morphological traits reflect a species’
 interaction with its surroundings, both biotic and abiotic (Eronen et al., 2010a). For example,
 traits such as tooth height and hypsodonty reflect variation in climate in both the past and present
@@ -64,7 +66,7 @@ workflow below.
 
 <img src="/media/AV_fig2.png" width="200" class="center">
 
-<a href="https://youtu.be/7ZpzA1oPIII4">Video</a>
+<h4><a href="https://youtu.be/7ZpzA1oPIII4">Video</a></h4>
     
     
 *Though there are team members already listed, we welcome anyone with knowledge, skills, or data that may be useful i developing this project    
