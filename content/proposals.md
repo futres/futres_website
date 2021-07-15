@@ -11,7 +11,8 @@ slug: proposals
 <h4><b>An ecometric exploration of bovid horn core size in modern Africa</b></h4>
 <i>Project Leader: <a href="mailto:avillase@uark.edu"> Amelia Villaseñor</a></i>
 <a href="">Project Description</a>
-<a href="https://youtu.be/7ZpzA1oPIII4">Video</a>
+<p>
+    <a href="https://youtu.be/7ZpzA1oPIII4">Video</a>
 
 <br>
 
