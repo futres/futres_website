@@ -20,6 +20,16 @@ Cirilli, O., A.M. Jukar, R. Potts, L. Rook and <b>R.L. Bernor</b>.  2019 The Dee
 <b>E.B. Davis</b>. 2019. Keeping your data alive with harmonized repositories. Western Association of Vertebrate Paleontology, Keynote presentation, Eugene OR.
 
 ## Publications
+(27) Hantak, M., McLean, B., Li, D. and Guralnick, R., 2020. Mammalian body size is determined by interactions between climate, urbanization and traits. Communication Biology, accepted.
+
+(26) Cirilli, O., Saarinen, J., Pandolfi, L., Rook, L. and Bernor, R.L. An updated review on <i>Equus stenonis</i> (Mammalia, Perissodactyla): new implications for the European Early Pleistocene Equus taxonomy and paleoecology, and remarks on the Old World Equus evolution. Quaternary Science Reviews, in revision.
+
+(25) Cirilli, O. <i>Equus stehlini</i> Azzaroli, 1964 (Perissodactyla, Equidae). A revision of the  most enigmatic horse from the Early Pleistocene of Europe, with new insights on the evolutionary history of European medium- and small-sized horses. Rivista Italiana di Paleontologia e Stratigraphia, Milano, in revision.
+
+(24) Bernor, R.L., Kaya, F., Kaakinen, A., Saarinen, J., Fortelius, M. Old World Hipparionine evolution, biogeography, climatology and ecology. Earth Science Reviews, in revision.
+
+(23) Bernor, R.L., Cirilli, O., Bushkhianidze, M., Lordkipanidze, D., Rook, L. 2021 The Dmanisi Equus: Systematics, biogeography and paleoecology. Journal of Human Evolution, in press.
+
 (22) Cirilli, O., Pandolfi, L., Rook, L., and Bernor, R.L. 2021. <a href= "https://www.nature.com/articles/s41598-021-89440-9">Evolution of Old World <i>Equus</i> and origin of the zebra-ass clade</a>. Scientific Reports. 11(10156).
 
 (21) Saarinen, J., Cirilli, O., Meshida, K., Strani, F., and Bernor, R.L. 2021. <a href="https://www.frontiersin.org/articles/10.3389/fevo.2021.622412/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Ecology_and_Evolution&id=622412">Testing equid body mass estiamte equations on modern zebras - with implications to understanding the relationship of body size, diet, and habitats of <i>Equus</i> in the Pleistocene of Europe.</a> Frontiers in Ecology and Evolution. <a href="https://doi.org/10.3389/fevo.2021.622412">doi:10.3389/fevo/2021</a>
