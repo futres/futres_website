@@ -5,7 +5,7 @@ slug: InterIntraVar
 ---
 
 <h3><b>Inter- and intra-specific trait variation</b></h3>
-<i>Project Leader: <a href="mailto:b_mclean@uncg.edu">Bryan McLean</a></i>
+<i>Project Leader: Bryan McLean</i>
 
 <br>
 <p>
