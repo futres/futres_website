@@ -5,7 +5,7 @@ slug: AllomMethod
 ---
 
 <h3><b>Testing allometric methods</b></h3>
-<i>Project Leader: <a href="mailto:delasancha@gmail.com">Noé de la Sancha</a></i>
+<i>Project Leader: Noé de la Sancha</i>
 
 <br>
 
