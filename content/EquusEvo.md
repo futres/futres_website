@@ -5,7 +5,7 @@ slug: EquusEvo
 ---
 
 <h3><b>New frontiers and perspectives in stydying fossil and extant <i>Equus</i></b></h3>
-<i>Project Leader: <a href="mailto:hdebasto@uoregon.edu">Helena Machado</a> and <a href="mailto:omar.cirilli@phd.unipi.it">Omar Cirilli</a></i>
+<i>Project Leader: Helena Machado and Omar Cirilli</i>
 
 <br>
 <p>
