@@ -5,7 +5,7 @@ slug: BovidHorn
 ---
 
 <h3><b>An ecometric exploration of bovid horn core size in modern Africa</b></h3>
-<i>Project Leader: <a href="mailto:avillase@uark.edu"> Amelia Villaseñor</a></i>
+<i>Project Leader: Amelia Villaseñor</i>
 
 <br>
 <p>
