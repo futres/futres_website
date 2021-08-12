@@ -11,7 +11,7 @@ slug: workshop2021projects
     
 <br>
 
-<h4><a href="https://drive.google.com/drive/folders/1mkh7OwnQbpWTRCsOebkXdrJB6E3QmRy2?usp=sharing">Inter- and intra- trait variation</a></h4>
+<h4><a href="https://drive.google.com/drive/folders/1mkh7OwnQbpWTRCsOebkXdrJB6E3QmRy2?usp=sharing">Inter- and intra- specific trait variation</a></h4>
 &nbsp;&nbsp;&nbsp;&nbsp;<i>Project Leader: Bryan McLean</i>
 
 <br>
