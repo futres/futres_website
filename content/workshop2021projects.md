@@ -4,7 +4,7 @@ language: en
 slug: workshop2021projects
 ---
 
-<h3>Proposals</h3>
+<h3>Projects</h3>
 
 <h4><a href="https://drive.google.com/drive/folders/1nNnmVitsBD4wgwPA5uDtWai1EAogFrWn?usp=sharing">Approximating mammal functional trait diversity using body mass</a></h4>
 &nbsp;&nbsp;&nbsp;&nbsp;<i>Project Leader: Danielle Fraser</i>
