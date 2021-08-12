@@ -5,15 +5,15 @@ slug: workshop2021
 ---
 
 
-<h3>Meeting Materials</h3>
-- <a href="https://futres.org/proposals/">Proposals</a> <br>
-- <a href="https://docs.google.com/forms/d/e/1FAIpQLScjtVpO4TFUkFxkr54irrD48nc6k1dvnPCT04y8QZ-8WKBkVg/viewform">Sign up for a Team</a> <br>
-- <a href="https://futres.org/codeofconduct/">Code of Conduct</a>
+<h2>Meeting Materials</h2>
+- <a href="https://futres.org/workshop2021projects/">Projects</a> <br>
+- <a href="https://futres.org/codeofconduct/">Code of Conduct</a> <br>
+- <a href="https://docs.google.com/document/d/1owAyNyMalE704K4HY22A8kEPv8ZiKcnjwY00-5qy2SA/edit?usp=sharing">Agenda</a>
 
 
 <br>
 
-<h3>About FuTRES</h3>
+<h2>About FuTRES</h2>
 - <a href="https://youtu.be/2zr7aJ_KZlI">FuTRES Overview</a> (video) <br> 
 - <a href="https://www.youtube.com/watch?v=WyJKmFsUVKc">Ingesting data into FuTRES</a> (video) <br>
 - <a href="https://youtu.be/tn_Rf9CQX3Y">FuTRES Pipeline</a> (video) <br> 
