@@ -4,6 +4,12 @@ language: en
 slug: workshop2021
 ---
 
+<h2>Meeting Dates</h2>
+<strong>Friday, Aug. 20</strong> (Workshop) <br>
+<strong>Friday, Sept. 17</strong> (Workshop)<br>
+<strong>Friday, Oct. 22</strong> (Workshop)<br>
+<strong>Friday, Nov. 19</strong> (Workshop)<br>
+<strong>Friday, Dec. 10</strong> (Plenary wrap-up)<br>
 
 <h2>Meeting Materials</h2>
 - <a href="https://futres.org/workshop2021projects/">Projects</a> <br>
