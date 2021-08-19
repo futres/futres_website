@@ -14,7 +14,7 @@ slug: workshop2021
 <h2>Meeting Materials</h2>
 - <a href="https://futres.org/workshop2021projects/">Projects</a> <br>
 - <a href="https://futres.org/codeofconduct/">Code of Conduct</a> <br>
-- <a href="https://docs.google.com/document/d/1owAyNyMalE704K4HY22A8kEPv8ZiKcnjwY00-5qy2SA/edit?usp=sharing">Agenda</a>
+- <a href="https://docs.google.com/document/d/1sF7iFPCr47cFqJx1QBHzR_CIGdNgkC0xqv_xRj4RaS4/edit?usp=sharing">Agenda</a>
 
 
 <br>
