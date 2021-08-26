@@ -26,7 +26,7 @@ Cirilli, O., A.M. Jukar, R. Potts, L. Rook and <b>R.L. Bernor</b>.  2019 The Dee
 
 (25) O. Cirilli. <i>Equus stehlini</i> Azzaroli, 1964 (Perissodactyla, Equidae). A revision of the  most enigmatic horse from the Early Pleistocene of Europe, with new insights on the evolutionary history of European medium- and small-sized horses. Rivista Italiana di Paleontologia e Stratigraphia, Milano, in revision.
 
-(24) <b>R.L. Bernor</b>, F. Kaya, A. Kaakinen, J. Saarinen, amd M. Fortelius. Old World Hipparionine evolution, biogeography, climatology and ecology. Earth Science Reviews, in revision.
+(24) <b>R.L. Bernor</b>, F. Kaya, A. Kaakinen, J. Saarinen, amd M. Fortelius. Old World Hipparionine evolution, biogeography, climatology and ecology. Earth Science Reviews, accepted.
 
 (23) <b>R.L. Bernor</b>, O. Cirilli, M. Bushkhianidze, D. Lordkipanidze, and L. Rook. 2021. The Dmanisi Equus: Systematics, biogeography and paleoecology. Journal of Human Evolution Special Volume: The Biotic Context of the Early Pleistocene Hominins from Dmanisi (Georgia, Southern Caucasus). Journal of Human Evolution 158: 1-14. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0047248421001032?via%3Dihub">doi:10.1016/j.jhevol.2021.103051</a>
 
