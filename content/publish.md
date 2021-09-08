@@ -20,7 +20,7 @@ Cirilli, O., A.M. Jukar, R. Potts, L. Rook and <b>R.L. Bernor</b>.  2019 The Dee
 <b>E.B. Davis</b>. 2019. Keeping your data alive with harmonized repositories. Western Association of Vertebrate Paleontology, Keynote presentation, Eugene OR.
 
 ## Publications
-(27) M. Hantak, B. McLean, D. Li, and <b>R. Guralnick</b>. 2020. Mammalian body size is determined by interactions between climate, urbanization and traits. Communication Biology, accepted.
+(27) M. Hantak, B. McLean, D. Li, and <b>R. Guralnick</b>. 2020. <a href="https://www.nature.com/articles/s42003-021-02505-3">Mammalian body size is determined by interactions between climate, urbanization and traits.</a> Communication Biology, 4(972). <a href="https://doi.org/10.1038/s42003-021-02505-3">doi:10.1038/s42003-021-02505-3</a>
 
 (26) O. Cirilli, J. Saarinen, L. Pandolfi, L. Rook, and <b>R.L. Bernor</b>. An updated review on <i>Equus stenonis</i> (Mammalia, Perissodactyla): new implications for the European Early Pleistocene Equus taxonomy and paleoecology, and remarks on the Old World Equus evolution. Quaternary Science Reviews, in revision.
 
