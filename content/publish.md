@@ -22,7 +22,7 @@ Cirilli, O., A.M. Jukar, R. Potts, L. Rook and <b>R.L. Bernor</b>.  2019 The Dee
 ## Publications
 (27) M. Hantak, B. McLean, D. Li, and <b>R. Guralnick</b>. 2020. <a href="https://www.nature.com/articles/s42003-021-02505-3">Mammalian body size is determined by interactions between climate, urbanization and traits.</a> Communication Biology, 4(972). <a href="https://doi.org/10.1038/s42003-021-02505-3">doi:10.1038/s42003-021-02505-3</a>
 
-(26) O. Cirilli, J. Saarinen, L. Pandolfi, L. Rook, and <b>R.L. Bernor</b>. An updated review on <i>Equus stenonis</i> (Mammalia, Perissodactyla): new implications for the European Early Pleistocene Equus taxonomy and paleoecology, and remarks on the Old World Equus evolution. Quaternary Science Reviews, in revision.
+(26) O. Cirilli, J. Saarinen, L. Pandolfi, L. Rook, and <b>R.L. Bernor</b>. <a href="https://www.sciencedirect.com/science/article/pii/S0277379121003620?casa_token=rvr2P9XvHzMAAAAA:VjMx6to76KqBZen5SLB1T2GzAyP37vc8ojZciQI8BvWY-_jj29J9ZgthOIQJhTdTN8a38q3D">An updated review on <i>Equus stenonis</i> (Mammalia, Perissodactyla): new implications for the European Early Pleistocene Equus taxonomy and paleoecology, and remarks on the Old World Equus evolution.</a> Quaternary Science Reviews, in revision.
 
 (25) O. Cirilli. <i>Equus stehlini</i> Azzaroli, 1964 (Perissodactyla, Equidae). A revision of the  most enigmatic horse from the Early Pleistocene of Europe, with new insights on the evolutionary history of European medium- and small-sized horses. Rivista Italiana di Paleontologia e Stratigraphia, Milano, in revision.
 
