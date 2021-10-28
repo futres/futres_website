@@ -91,7 +91,7 @@ The Functional Trait Resource for Environmental Studies (FuTRES) project is a co
 
 <table><tr>
 <td>
-<p>Neeka Sewnath is currently a Ph.D. student at the University of Florida. She has a background in  specializing in biodiversity informatics. She has a strong background in Natural Science and Computer Science. She currently works as a honey bee ecotoxicologist.
+<p>Neeka Sewnath is currently a Ph.D. student at the University of Florida. She has a background in  specializing in biodiversity informatics. She has a strong background in Natural Science and Computer Science. She currently works as a data scientist at the U.S. Census Bureau.
 </p>
 </td>
 <td width="200px">
