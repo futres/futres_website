@@ -124,9 +124,9 @@ sectionPagesMenu = "main"
     identifier = "dashboard"
     url = "/dashboard/"
 
-  # [[menu.main]]
-  #   name = "Outreach"
-  #   parent = "products"
-  #   weight = 5
-  #   identifier = "outreach"
-  #   url = "/outreach/"
+  [[menu.main]]
+    name = "Outreach"
+    parent = "products"
+    weight = 5
+    identifier = "outreach"
+    url = "/outreach/"
