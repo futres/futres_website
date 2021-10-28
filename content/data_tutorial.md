@@ -29,6 +29,7 @@ We ask researchers wishing to contribute data to FuTRES to use the following pro
 
 1. Upload to GEOME under your project in FuTRES Team
   * Can load multiple spreadsheets at one time under same expedition name
+  * Will give a warning if something is wrong, but not fatal (can ignore; use your discretion)
   * Will give an error if a value in a field is wrong (e.g., a string where numbers should be)
 2. Name your project:
   * Each project has its own abstract
