@@ -5,6 +5,8 @@ theme = ["futres", "kube"]
 homepageText = "FuTRES"
 publishDir = "docs"
 sectionPagesMenu = "main"
+googleAnalytics = "G-CPLCJWRNNH"
+
 
 [markup.goldmark.renderer] 
   unsafe= true
