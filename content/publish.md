@@ -5,21 +5,23 @@ slug: publish
 ---
 
 ## Talks
-Cirilli, O., M. Melchionna, C. Serio, <b>R.L. Bernor</b>, M. Bukhsianidze, D. Lordkipanidze, L. Rook, A. Profico, P. Raia. 2020. Target deformation of the Equus stenonis holotype skull: a new protocol for 3D virtual reconstructions. The Paleontological Association Annual Meeting. Poster.
+O. Cirilli, M. Melchionna, C. Serio, <b>R.L. Bernor</b>, M. Bukhsianidze, D. Lordkipanidze, L. Rook, A. Profico, P. Raia. 2020. Target deformation of the Equus stenonis holotype skull: a new protocol for 3D virtual reconstructions. The Paleontological Association Annual Meeting. Poster.
 
-<b>Balk, M.A.</b>, <b>Walls, R.L.</b>, <b>Guralnick, R.P.</b>, <b>Davis, E.B.</b>, <b>Deck, J.</b>, <b>Emery, K.F.</b>, <b>Bernor, R.L.</b>, <b>Brenskelle, L.</b>, <b>Boileau, A.</b> 2019. FuTRES: functional trait resource for environmental studies. Biodiversity_Next, Leiden, Netherlands. Oral Presentation.
+<b>M.A. Balk</b>, <b>R.L. Walls</b>, <b>R.P. Guralnick</b>, <b>E.B. Davis</b>, <b>J. Deck</b>, <b>K.F. Emery</b>, <b> R.L. Bernor</b>, <b>L. Brenskelle</b>, <b>A. Boileau</b> 2019. FuTRES: functional trait resource for environmental studies. Biodiversity_Next, Leiden, Netherlands. Oral Presentation.
 
-Cirilli, O., L. Pandolfi, <b>R.L. Bernor</b>, and L. Rook.  2019.  Lights and shadows on the Villafranchian perissodactyls of Italy.  EAVP 2019 (European Association of Vertebrate Paleontology) - 17th Conference of the EAVP - 2019- Bruxelles - July 2-6 - Royal Belgian Institute of Natural Sciences. Abstract Volume to be printed. 
+O. Cirilli, L. Pandolfi, <b>R.L. Bernor</b>, and L. Rook.  2019.  Lights and shadows on the Villafranchian perissodactyls of Italy.  EAVP 2019 (European Association of Vertebrate Paleontology) - 17th Conference of the EAVP - 2019- Bruxelles - July 2-6 - Royal Belgian Institute of Natural Sciences. Abstract Volume to be printed. 
 
-Cirilli, O., <b>R.L. Bernor</b>, and L. Rook.  2019.  New Evidence on the Equidae from the Late Miocene of As Sahabi (MN13; Libya, North Africa). 2019 meeting of the Paleontological Society of Italy, Naples, May 22-24, 2019.
+O. Cirilli, <b>R.L. Bernor</b>, and L. Rook.  2019.  New Evidence on the Equidae from the Late Miocene of As Sahabi (MN13; Libya, North Africa). 2019 meeting of the Paleontological Society of Italy, Naples, May 22-24, 2019.
 
-Cirilli, O., A.M. Jukar, R. Potts, L. Rook and <b>R.L. Bernor</b>.  2019 The Deep Time Origin of African Zebras Through the Eurasian “Equus Stenonine” Lineage.  Society of Vertebrate Paleontology. Abstract 163, Brisbane, Australia, Oct. 9-12, 2019.
+O. Cirilli, A.M. Jukar, R. Potts, L. Rook and <b>R.L. Bernor</b>.  2019 The Deep Time Origin of African Zebras Through the Eurasian “Equus Stenonine” Lineage.  Society of Vertebrate Paleontology. Abstract 163, Brisbane, Australia, Oct. 9-12, 2019.
 
 <b>E.B. Davis</b>. 2018. Keeping your data alive with harmonized repositories. Society of Vertebrate Paleontology Meeting, Albuquerque, NM.
 
 <b>E.B. Davis</b>. 2019. Keeping your data alive with harmonized repositories. Western Association of Vertebrate Paleontology, Keynote presentation, Eugene OR.
 
 ## Publications
+(28) S. Bartolini-Lucenti, O. Cirilli, L. Pandolfi, <b>R.L. Bernor</b>, M. Bukhsianidze, F. Carotenuto, D. Lordkipanidze, N. Tsikaridze, L. Rook. Zoogeographic significance of Dmanisi large mammal assemblage. Journal of Human Evolution, in press.
+
 (27) M. Hantak, B. McLean, D. Li, and <b>R. Guralnick</b>. 2020. <a href="https://www.nature.com/articles/s42003-021-02505-3">Mammalian body size is determined by interactions between climate, urbanization and traits.</a> Communication Biology, 4(972). <a href="https://doi.org/10.1038/s42003-021-02505-3">doi:10.1038/s42003-021-02505-3</a>
 
 (26) O. Cirilli, J. Saarinen, L. Pandolfi, L. Rook, and <b>R.L. Bernor</b>. <a href="https://www.sciencedirect.com/science/article/pii/S0277379121003620?casa_token=rvr2P9XvHzMAAAAA:VjMx6to76KqBZen5SLB1T2GzAyP37vc8ojZciQI8BvWY-_jj29J9ZgthOIQJhTdTN8a38q3D">An updated review on <i>Equus stenonis</i> (Mammalia, Perissodactyla): new implications for the European Early Pleistocene Equus taxonomy and paleoecology, and remarks on the Old World Equus evolution.</a> Quaternary Science Reviews, in revision.
