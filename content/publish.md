@@ -40,7 +40,7 @@ O. Cirilli, A.M. Jukar, R. Potts, L. Rook and <b>R.L. Bernor</b>.  2019 The Deep
 
 (19) C. Omar, <b>R.L. Bernor</b>, and L. Rook. 2020. <a href="https://www.cambridge.org/core/journals/journal-of-paleontology/article/new-insights-on-the-early-pleistocene-equids-from-rocaneyra-france-central-europe-implications-for-the-hipparion-lad-and-the-equus-fad-in-europe/45B7BF15437A128D822A72B3C2F9522D"New insights on the early Pleistocene equids from Roca-Neyra (France, Central Europe); implications for the <i>Hipparion</i> LAD and the <i>Equus</i> FAD in Europe</a>. Journal of Paleontology, 95(2): 406-425.
 
-(18) <b>R.L. Bernor</b>,, M. Beech, and F. Bibi. In press. The Baynunah Equidae, Late Miocene, United Arab Emerites. In: Vertebrate Paleobiology and Paleoanthropology Book Series, Springer-Verlag.
+(18) <b>R.L. Bernor</b>,, M. Beech, and F. Bibi. 2021. Equidae from the Baynunah Equidae. In: F. Bibi, B. Kraatz, M.Beech, and A. Hill (Eds.), <i>Sands of Time: Late Miocene fossils from the Baynunah Formation, U.A.E.</i> pp. 259-280. <i>In press.</i>
 
 (17) D.M. Reuter, S.S.B. Hopkins, and E.B. Davis. 2021 <a href="https://academic.oup.com/jmammal/article/102/1/236/6175216?casa_token=d53T2AwnJ4EAAAAA:ROsTjdeqHUTbPEbYQeOVWwKvE1jgZxL056diQNJOquabygXzsNExB3Pn4Y5xEDTv0a99h72Nk13Z">Carnivoran intraspecific tooth-size variation shows heterogeneity along the tooth row and among species.</a> Journal of Mammalogy, 102(1): 236-249. <a href="https://doi.org/10.1093/jmammal/gyaa157">doi:10.1093/jmammal/gyaa157</a>
 
