@@ -9,7 +9,8 @@ slug: workshop2021
 <strong>Friday, Sept. 17</strong> (Workshop)<br>
 <strong>Friday, Oct. 22</strong> (Workshop)<br>
 <strong>Friday, Nov. 19</strong> (Workshop)<br>
-<strong>Friday, Dec. 10</strong> (Plenary wrap-up)<br>
+<strong>Friday, Dec. 10</strong> (Reflections) <br>
+<strong>Friday, Jan. 21</strong> (Plenary wrap-up)<br>
 
 <h2>Meeting Materials</h2>
 - <a href="https://youtu.be/ZYjGMMn_e14">Opening Day</a> <br>
