@@ -11,11 +11,11 @@ slug: how_it_works
 width="100"
 style="float:left;">
 
-### Step 1: Template 
+## Step 1: Template 
 
 <p>We have developed a template (<a href="https://github.com/futres/template">viewable here</a>) to help data providers create datasets that are ready for ingestion into the FuTRES knowledge base. The field names in the template largely correspond to <a href="https://dwc.tdwg.org/">Darwin Core</a> terms. Since Darwin Core is the most commonly used standard for sharing biodiversity occurrence data, these fields may already be pre-existing in most collections databases, or if not, they can be easily mapped or crosswalked from other existing fields.</p>
 
-## Existing Data and Future Collaborations 
+### Existing Data and Future Collaborations 
 <p>Currently, the FuTRES team is working with <a href="https://futres.org/team/">Principal Investigators</a>, Dr. Kitty Emery, Dr. Ray Bernor, and Dr. Edward Davis, to share existing zooarchaeological and paleontological specimen datasets with associated trait information. These use cases have informed the development of the FuTRES template and the <a href="https://github.com/futres/fovt">FuTRES Ontology of Vertebrate Traits</a>. However, we are hosting community <a href="https://futres.org/workshop/">workshops</a> and are happy to receive feedback and additional trait-focused datasets from other sources.<br>
   You can <a href="https://github.com/futres/fovt-data-pipeline/issues/new">request trait terms</a> and see <a href="https://geome-db.org/workbench/template">existing trait terms</a>. We have also developed a <a href="https://futres.org/data_tutorial/">tutorial</a> for adding data and traits.</p>
 
@@ -24,7 +24,7 @@ style="float:left;">
 width="100"
 style="float:left;">
 
-### Step 2: Pipeline 
+## Step 2: Pipeline 
 
 <p>The data processing pipeline is comprised of five main steps: pre-processing, triplifying, reasoning, conversion to a tabular format, and data loading. The pipeline is dependent on an existing ontology that defines and relates the terminology used in the data, but does not require a specific structure. For more information, you can watch this short <a href=""https://youtu.be/tn_Rf9CQX3Y">video</a>.</p>
 
@@ -40,6 +40,6 @@ style="float:left;">
 width="100"
 style="float:left;">
   
-### Step 3: Ontology
+## Step 3: Ontology
 
 <p>The <a href="https://github.com/futres/fovt">FuTRES Ontology of Vertebrate Traits</a> (FOVT) is a fundamental tool to accomplish the FuTRES project goals. An ontology is a knowledge representation which describes concepts and their relationships to one another in a logical framework that is understandable by machines and humans. This logical format allows the data points in an ontology knowledge base to be reasoned over, allowing new inferences to be gained. The FOVT is an application ontology specifically designed to serve the purposes of the FuTRES projects. It was developed by Dr. Ramona Walls, Dr. Meghan Balk, and Laura Brenskelle, and it reuses many existing ontologies (for example, <a href="https://www.ebi.ac.uk/ols/ontologies/uberon">UBERON</a>, <a href="http://www.obofoundry.org/ontology/pato.html">PATO</a>, and <a href="http://www.obofoundry.org/ontology/bspo.html">BSPO</a>) to conceptualize different vertebrate traits.</p>
