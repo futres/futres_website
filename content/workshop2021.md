@@ -19,6 +19,7 @@ slug: workshop2021
 - <a href="https://docs.google.com/document/d/1sF7iFPCr47cFqJx1QBHzR_CIGdNgkC0xqv_xRj4RaS4/edit?usp=sharing">Agenda</a> <br>
 - <a href="https://docs.google.com/presentation/d/1IMwa1ai8XT5lgzXWNcdO6YRAu82UiAD6GpINeMO-Bek/edit#slide=id.p">Ground Rules</a> <br>
 - <a href="https://drive.google.com/drive/u/0/folders/1NCyeZQrORKcRyRk9aOK8g2gMP3jPlUcC">Final Day (Jan. 21)</a>
+- <a href="https://youtu.be/6eVPSRPAy4o">Workshop Wrap Up</a>
 
 <br>
 
