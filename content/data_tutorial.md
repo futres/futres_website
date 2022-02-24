@@ -10,7 +10,7 @@ We ask researchers wishing to contribute data to FuTRES to use the following pro
 <b><a href="#Uploading and validating data">Uploading and validating data</a></b> <br>
 <b><a href="#Requesting trait terms">Requesting trait terms</a></b> <br>
 
-<a href="https://www.youtube.com/watch?v=WyJKmFsUVKc"><strong>Loading Data into GEOME (video)</strong></a>
+<a href="https://www.youtube.com/watch?v=WyJKmFsUVKc"><strong>Video on Loading Data into GEOME (video)</strong></a>
 
 <h3 id="Generating a template">Generating a template</h3>
 
