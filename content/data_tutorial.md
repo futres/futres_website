@@ -23,6 +23,7 @@ We ask researchers wishing to contribute data to FuTRES to use the following pro
       - project title
       - project description
       - visibility (public/private)
+        - Note that even if projects are public, expeditions can be private
       - principle investigator
       - principle investigator affiliation
       - citation
@@ -34,10 +35,12 @@ We ask researchers wishing to contribute data to FuTRES to use the following pro
       - Template (required field in red)
       - Controlled vocabulary
       - Definition for attributes
-5. Fill in expedition metadata
+   * Determine organization of expedition (datasets) however you would like (e.g., site). FuTRES API already searches based on taxonomy and measurement.
+5. Fill in expedition (dataset) metadata
       - expedition title
         - Naming convention: FuTRES_taxon_contributor_locality_time.period_version number or date
       - expedition code
+      - if expedition can be public or private
 
 <h3 id="Uploading and validating data"> Uploading and validating data</h3>
 
