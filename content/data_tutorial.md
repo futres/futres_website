@@ -16,31 +16,31 @@ We ask researchers wishing to contribute data to FuTRES to use the following pro
 
 1. Go to <a href="https://geome-db.org/about">GEOME</a> and create an account
 2. Create a project and join the FuTRES Team
-  * Naming convention: FuTRES_taxon_contributor_locality_time.period
-  * It is up to the user to choose projects / expeditions (datasets) as necessary
-      - e.g., each expedition could be a site and each project a collection
+    * Naming convention: FuTRES_taxon_contributor_locality_time.period
+    * It is up to the user to choose projects / expeditions (datasets) as necessary
+        + e.g., each expedition could be a site and each project a collection
 3. Fill in project metadata
-      - project title
-      - project description
-      - visibility (public/private)
-        - Note that even if projects are public, expeditions can be private
-      - principle investigator
-      - principle investigator affiliation
-      - citation
+    * project title
+    * project description
+    * visibility (public/private)
+       + Note that even if projects are public, expeditions can be private
+    * principle investigator
+    * principle investigator affiliation
+    * citation
 4. Select the template generator to create a spreadsheet for entering data
-  * Select terms
-  * Export to a spreadsheet application
-    + Speadsheet has:
-      - Instructions
-      - Template (required field in red)
-      - Controlled vocabulary
-      - Definition for attributes
-   * Determine organization of expedition (datasets) however you would like (e.g., site). FuTRES API already searches based on taxonomy and measurement.
+    * Select terms
+    * Export to a spreadsheet application
+        + Speadsheet has:
+            - Instructions
+            - Template (required field in red)
+            - Controlled vocabulary
+            - Definition for attributes
+     * Determine organization of expedition (datasets) however you would like (e.g., site). FuTRES API already searches based on taxonomy and measurement.
 5. Fill in expedition (dataset) metadata
-      - expedition title
-        - Naming convention: FuTRES_taxon_contributor_locality_time.period_version number or date
-      - expedition code
-      - if expedition can be public or private
+     * expedition title
+         + Naming convention: FuTRES_taxon_contributor_locality_time.period_version number or date
+     * expedition code
+     * if expedition can be public or private
 
 <h3 id="Uploading and validating data"> Uploading and validating data</h3>
 
@@ -50,7 +50,7 @@ We ask researchers wishing to contribute data to FuTRES to use the following pro
   * Will give an error if a value in a field is wrong (e.g., a string where numbers should be)
 2. Fill in expedition metadata
       - expedition title
-        - Naming convention: FuTRES_taxon_contributor_locality_time.period_version number or date
+            - Naming convention: FuTRES_taxon_contributor_locality_time.period_version number or date
       - expedition code 
 3. Name your expedition:
   * FuTRES_taxon_contributor_locality_time.period and version number or date
