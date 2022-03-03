@@ -19,6 +19,7 @@ We ask researchers wishing to contribute data to FuTRES to use the following pro
     * Naming convention: FuTRES_taxon_contributor_locality_time.period
     * It is up to the user to choose projects / expeditions (datasets) as necessary
         + e.g., each expedition could be a site and each project a collection
+        + the organization of expedition (datasets) can be however you would like (e.g., by site or time). FuTRES API already searches based on taxonomy and measurement.
 3. Fill in project metadata
     * project title
     * project description
@@ -35,7 +36,7 @@ We ask researchers wishing to contribute data to FuTRES to use the following pro
             - Template (required field in red)
             - Controlled vocabulary
             - Definition for attributes
-     * Determine organization of expedition (datasets) however you would like (e.g., site). FuTRES API already searches based on taxonomy and measurement.
+        + Note that licensing is assumed to be CC0, unless specified as CCBY or BSD
 5. Fill in expedition (dataset) metadata
      * expedition title
          + Naming convention: FuTRES_taxon_contributor_locality_time.period_version number or date
