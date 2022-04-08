@@ -28,6 +28,7 @@ We ask researchers wishing to contribute data to FuTRES to use the following pro
     * principle investigator
     * principle investigator affiliation
     * citation
+       + This is needed if your license is CC-BY or BSD 
 4. Select the template generator to create a spreadsheet for entering data
     * Select terms
     * Export to a spreadsheet application
