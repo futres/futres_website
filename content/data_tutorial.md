@@ -28,7 +28,7 @@ We ask researchers wishing to contribute data to FuTRES to use the following pro
     * principle investigator
     * principle investigator affiliation
     * citation
-       + This is needed if your license is CC-BY or BSD 
+       + This is needed if your license is CC BY or BSD 
 4. Select the template generator to create a spreadsheet for entering data
     * Select terms
     * Export to a spreadsheet application
@@ -37,7 +37,7 @@ We ask researchers wishing to contribute data to FuTRES to use the following pro
             - Template (required field in red)
             - Controlled vocabulary
             - Definition for attributes
-        + Note that licensing is assumed to be CC0, unless specified as CCBY or BSD
+        + Note that licensing is assumed to be <a href="https://creativecommons.org/publicdomain/zero/1.0/legalcode">CC0</a>, unless specified as <a href="https://creativecommons.org/licenses/by/4.0/">CC BY</a> or <a href="https://opensource.org/licenses/BSD-3-Clause">BSD</a>
 5. Fill in expedition (dataset) metadata
      * expedition title
          + Naming convention: FuTRES_taxon_contributor_locality_time.period_version number or date
