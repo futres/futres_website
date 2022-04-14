@@ -5,7 +5,7 @@ slug: how_it_works
 ---
 <p>The purpose of FuTRES is to make trait data from biological and paleontological specimens accessible in a format that improves discoverability and promotes novel research. By following a few steps and using new tools developed by the FuTRES team, these data can be shared on the FuTRES platform, which is backed by an ontological framework that enables logical reasoning. Here is a <a href="https://youtu.be/r2LNKU9hQEE">quick introduction to FuTRES</a>.</p>
 
-<p>FuTRES data is available to all. If you do not want your data shared and in FuTRES immediately, data providers can still create a project and upload it to GEOME and set their project or expedition as "private" so that it will not be ingested to FuTRES; change to "public" when ready and the dataset (expeditions) will be findable in the FuTRES datastore. All data is assumed to be CC0 licensing, unless otherwise specified as CC-BY or BSD.</p>.
+<p>FuTRES data is available to all. If you do not want your data shared and in FuTRES immediately, data providers can still create a project and upload it to GEOME and set their project or expedition as "private" so that it will not be ingested to FuTRES; change to "public" when ready and the dataset (expeditions) will be findable in the FuTRES datastore. All data is assumed to be <a href="https://creativecommons.org/publicdomain/zero/1.0/legalcode'>CC0</a> licensing, unless otherwise specified as <a href="https://creativecommons.org/licenses/by/4.0/">CC BY</a> or <a href="https://opensource.org/licenses/BSD-3-Clause">BSD</a>.</p>.
 
 <p><figure><img src="/media/FuTRESworkflow.png"/></figure></p>
 
