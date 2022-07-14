@@ -99,11 +99,11 @@ googleAnalytics = "G-CPLCJWRNNH"
     url = "/products/"
 
   [[menu.main]]
-    name = "Contribute Data"
+    name = "Contributed Data"
     parent = "products"
     weight = 2
-    identifier = "contribute-data"
-    url = "/contribute-data/"
+    identifier = "contributed-data"
+    url = "/contributed-data/"
 
   [[menu.main]]
     name = "Talks & Papers"
