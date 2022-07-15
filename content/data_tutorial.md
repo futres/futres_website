@@ -7,6 +7,7 @@ We ask researchers wishing to contribute data to FuTRES to use the following pro
 
 <h2>Contents:</h2>
 <b><a href="#Generating a template">Generating a template</a></b> <br>
+<b><a href="#Formatting data">Formatting data</a></b> <br>
 <b><a href="#Uploading and validating data">Uploading and validating data</a></b> <br>
 <b><a href="#Requesting trait terms">Requesting trait terms</a></b> <br>
 
@@ -43,6 +44,14 @@ We ask researchers wishing to contribute data to FuTRES to use the following pro
          + Naming convention: FuTRES_taxon_contributor_locality_time.period_version number or date
      * expedition code
      * if expedition can be public or private
+
+<h3 id="Formatting data">Formatting data</h3>
+
+1. Check out the <a href="
+http://futres.shinyapps.io/pyConvApp">RShinyApp</a> developed by P. Gyawali.
+2. Read the <a href="https://github.com/futres/RShinyFuTRES/blob/main/README.md">"readme" file</a> to learn the data formats we can use, dependencies needed, and limits of the app.
+3. For now, we cannot map your terms to the accepted trait terms, please see the term list on GEOME (see above).
+4. Please send recommendations or issues to the <a href="https://github.com/futres/RShinyFuTRES/issues">RShinyFuTRES</a> repository.
 
 <h3 id="Uploading and validating data"> Uploading and validating data</h3>
 
