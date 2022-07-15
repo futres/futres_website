@@ -5,6 +5,13 @@ slug: data_tutorial
 ---
 We ask researchers wishing to contribute data to FuTRES to use the following procedure to provide data.  
 
+## <a href="https://futres.org/data_tutorial/">Tutorial</a>
+
+##Contributing Data to FuTRES
+FuTRES is partnering with <a href="https://geome-db.org/">GEOME</a> to help users load and validate data. General instructions on using GEOME are available on the <a href="https://geome-db.org/about">GEOME Getting Started</a> and a short youtube video on <a href="https://www.youtube.com/watch?v=WyJKmFsUVKc&feature=youtu.be">Loading FuTRES data into GEOME</a>. Please reach out to our team with any questions!
+
+FuTRES will deliver all processed trait data via an application programming interface (API), web interface, and R package by Summer of 2019. Currently, code and configuration files for our data processing pipeline can be found at <a href="https://github.com/futres/fovt-data-pipeline">fovt-data-pipeline</a>, which contains all of the settings for processing incoming datasets and aligning with the <a href="https://github.com/futres/fovt">FuTRES ontology for vertebrate traits</a> (FOVT).
+
 <h2>Contents:</h2>
 <b><a href="#Generating a template">Generating a template</a></b> <br>
 <b><a href="#Formatting data">Formatting data</a></b> <br>
