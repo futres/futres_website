@@ -11,3 +11,10 @@ When you are done making changes, you will need to wait a couple of minutes for 
 
 How does this system work?  Pages on our site are first written in markdown, and when changes are committed to github, the build site netlify is notified, which then runs  "hugo" (a static site generator) to build the FuTRES website.   The site uses the "Kube" theme for Hugo, which we have written some additional small customizations to control rendering.
 
+How to build site:
+First, make sure you have Hugo installed locally.  Once that is done:
+```
+hugo server -D
+```
+
+Please note that you should make changes to the develop branch first and then make a PR to master to deploy to production site
