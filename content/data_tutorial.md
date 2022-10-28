@@ -54,7 +54,7 @@ For the FuTRES datastore, data are expected to be in "long" format, where each r
 #### Formating
 
 - All column headers use camelCase
-- See the <a href="https://github.com/futres/template/blob/master/template.csv">template</a> for suggested and required values under "example".
+- See the <a href="https://raw.githubusercontent.com/futres/template/910ecba9dd8159793a674de4fa5d582a40ebf8f7/template.csv">template</a> for suggested and required values under "example".
 - All non-required columns need to be removed (not recommended) or moved into a "dynamicProperties" field (recommended)
 - Three unique IDs are required:
     * diagnosticID
