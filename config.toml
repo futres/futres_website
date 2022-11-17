@@ -24,6 +24,13 @@ googleAnalytics = "G-CPLCJWRNNH"
     url = "https://futreswebsite.netlify.com/data_tutorial/"
 
   [[menu.main]]
+    name = "Term Request"
+    parent = "get_involved"
+    weight = 1
+    identifier = "term_request"
+    url = "https://github.com/futres/fovt/issues/new"
+
+  [[menu.main]]
     name = "About Us"
     identifier = "about_us"
     weight = 2
@@ -60,8 +67,8 @@ googleAnalytics = "G-CPLCJWRNNH"
     name = "Contact Us"
     parent = "about_us"
     weight = 2 
-    identifier = "news"
-    url = "https://futreswebsite.netlify.com/news/"
+    identifier = "contact"
+    url = "https://futreswebsite.netlify.com/contact/"
 
   [[menu.main]]
     name = "Research"
@@ -73,7 +80,7 @@ googleAnalytics = "G-CPLCJWRNNH"
     parent = "research"
     weight = 3
     identifier = "community_projects"
-    url = "https://futreswebsite.netlify.com/community_projects/"
+    url = "https://futreswebsite.netlify.com/projects/"
 
   [[menu.main]]
     name = "Contributed Data"
@@ -113,7 +120,7 @@ googleAnalytics = "G-CPLCJWRNNH"
     parent = "resources"
     weight = 4
     identifier = "rshiny"
-    url = "https://github.com/futres/RShinyFuTRES"
+    url = "https://futres.shinyapps.io/pyConvApp/"
 
   [[menu.main]]
     name = "Teaching Resources"
@@ -155,9 +162,4 @@ googleAnalytics = "G-CPLCJWRNNH"
     identifier = "codeofconduct"
     url = "https://futreswebsite.netlify.com/codeofconduct/"
 
-  [[menu.main]]
-    name = "Projects"
-    weight = 6
-    identifier = "projects"
-    url = "https://futreswebsite.netlify.com/projects/"
 
