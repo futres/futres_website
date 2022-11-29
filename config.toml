@@ -143,18 +143,11 @@ googleAnalytics = "G-CPLCJWRNNH"
     
   [[menu.main]]
     parent = "workshop"
-    name = "2019 Participants & Organizers"
+    name = "Past Workshops"
     weight = 5
-    identifier = "biosketch2019"
-    url = "https://futreswebsite.netlify.com/biosketch2019/"
+    identifier = "past_workshops"
+    url = "https://futreswebsite.netlify.com/past_workshops/"
   
-  [[menu.main]]
-    parent = "workshop"
-    name = "2020 Participants & Organizers"
-    weight = 5
-    identifier = "biosketch2020"
-    url = "https://futreswebsite.netlify.com/biosketch2020/"
-
   [[menu.main]]
     name = "Code of Conduct"
     parent = "workshop"

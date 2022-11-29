@@ -1,3 +1,9 @@
+---
+title: Past Workshops
+language: en
+slug: past_workshops
+---
+
 <h1>Past workshop themes:</h1>
 
 <b>2019</b>: Understand types of data and potential collaborations
