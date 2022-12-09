@@ -123,11 +123,11 @@ googleAnalytics = "G-CPLCJWRNNH"
     url = "https://futres.shinyapps.io/pyConvApp/"
 
   [[menu.main]]
-    name = "Teaching Resources"
+    name = "Youtube Channel"
     parent = "resources"
     weight = 4
-    identifier = "teaching_resources"
-    url = "https://futreswebsite.netlify.com/teaching_resources/"
+    identifier = "youtube"
+    url = "https://futreswebsite.netlify.com/youtube/"
 
   [[menu.main]]
     name = "Workshops"
