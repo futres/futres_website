@@ -1,7 +1,7 @@
 ---
 title: Projects
 language: en
-slug: projects 
+slug: usecases
 ---
 
 FuTRES is designed to be expandable, and we expect many novel uses for trait data to come from its implementation. We present here a set of example use cases that we will pursue, using the results both to inform process-based research and to publicize the presence and utility of FuTRES. These use cases focus on mammal data, because we have chosen to focus on this lineage for our initial data ingestion. 

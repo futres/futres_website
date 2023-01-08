@@ -38,9 +38,9 @@ googleAnalytics = "G-CPLCJWRNNH"
   [[menu.main]]
     name = "About"
     parent = "about_us"
-    identifier = "about"
+    identifier = "read_more"
     weight = 2
-    url = "https://futreswebsite.netlify.com/about/"
+    url = "https://futreswebsite.netlify.com/read_more/"
 
   [[menu.main]]
     name = "How It Works"
@@ -80,7 +80,7 @@ googleAnalytics = "G-CPLCJWRNNH"
     parent = "research"
     weight = 3
     identifier = "community_projects"
-    url = "https://futreswebsite.netlify.com/projects/"
+    url = "https://futreswebsite.netlify.com/usecases/"
 
   [[menu.main]]
     name = "Contributed Data"
