@@ -40,7 +40,7 @@ googleAnalytics = "G-CPLCJWRNNH"
     parent = "about_us"
     identifier = "read_more"
     weight = 2
-    url = "https://futreswebsite.netlify.com/read_more/"
+    url = "/read_more/"
 
   [[menu.main]]
     name = "How It Works"
