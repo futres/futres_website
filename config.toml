@@ -1,4 +1,3 @@
-baseURL = "https://futreswebsite.netlify.com/"
 languageCode = "en-us"
 title = "FuTRES"
 theme = ["futres", "kube"]
@@ -7,128 +6,153 @@ publishDir = "docs"
 sectionPagesMenu = "main"
 googleAnalytics = "G-CPLCJWRNNH"
 
-
 [markup.goldmark.renderer] 
   unsafe= true
 
 [menu]
+
   [[menu.main]]
-    name = "How It Works"
-    identifier = "how_it_works"
+    name = "Get Involved"
+    identifier = "get_involved"
     weight = 1
-    url = "/how_it_works/"
 
   [[menu.main]]
     name = "Data Tutorial"
-    parent = "how_it_works"
+    parent = "get_involved"
     weight = 1
     identifier = "data_tutorial"
     url = "/data_tutorial/"
 
   [[menu.main]]
+    name = "Term Request"
+    parent = "get_involved"
+    weight = 1
+    identifier = "term_request"
+    url = "https://github.com/futres/fovt/issues/new"
+
+  [[menu.main]]
+    name = "About Us"
+    identifier = "about_us"
+    weight = 2
+
+  [[menu.main]]
+    name = "About"
+    parent = "about_us"
+    identifier = "read_more"
+    weight = 2
+    url = "/read_more/"
+
+  [[menu.main]]
+    name = "How It Works"
+    parent = "about_us"
+    identifier = "how_it_works"
+    weight = 2
+    url = "/how_it_works/"
+
+    [[menu.main]]
     name = "Team"
-    weight = 4
+    parent = "about_us"
+    weight = 2
     identifier = "team"
     url = "/team/"
 
   [[menu.main]]
-    name = "Workshops"
-    weight = 3
-    identifier = "workshop"
-    url = "/workshop/"
-    
-  [[menu.main]]
-    name = "2019 Workshop"
-    parent = "workshop"
-    weight = 3
-    identifier = "workshop2019"
-    url = "/workshop2019/"
+    name = "News"
+    parent = "about_us"
+    weight = 2 
+    identifier = "news"
+    url = "/news/"
 
   [[menu.main]]
-    parent = "workshop"
-    name = "2019 Participants & Organizers"
-    weight = 3
-    identifier = "biosketch2019"
-    url = "/biosketch2019/"
-  
-  [[menu.main]]
-    name = "2020 Workshop"
-    parent = "workshop"
-    weight = 3
-    identifier = "workshop2020"
-    url = "/workshop2020/"
-    
-  [[menu.main]]
-    parent = "workshop"
-    name = "2020 Participants & Organizers"
-    weight = 3
-    identifier = "biosketch2020"
-    url = "/biosketch2020/"
-   
-  [[menu.main]]
-    parent = "workshop"
-    name = "2021 Workshop"
-    weight = 3
-    identifier = "workshop2021"
-    url = "/workshop2021/"
-    
-  [[menu.main]]
-    parent = "workshop"
-    name = "Proposals"
-    weight = 3
-    identifier = "proposals"
-    url = "/proposals/"
+    name = "Contact Us"
+    parent = "about_us"
+    weight = 2 
+    identifier = "contact"
+    url = "/contact/"
 
   [[menu.main]]
-    name = "Code of Conduct"
-    parent = "workshop"
+    name = "Research"
+    identifier = "research"
     weight = 3
-    identifier = "codeofconduct"
-    url = "/codeofconduct/"
 
   [[menu.main]]
-    name = "Projects"
-    weight = 4
-    identifier = "projects"
-    url = "/projects/"
-
-  [[menu.main]]
-    name = "Products"
-    weight = 2
-    identifier = "products"
-    url = "/products/"
+    name = "Community Projects"
+    parent = "research"
+    weight = 3
+    identifier = "community_projects"
+    url = "/usecases/"
 
   [[menu.main]]
     name = "Contributed Data"
-    parent = "products"
-    weight = 2
+    parent = "research"
+    weight = 3
     identifier = "contributed-data"
     url = "/contributed-data/"
 
   [[menu.main]]
     name = "Talks & Papers"
-    parent = "products"
+    parent = "research"
     weight = 3
     identifier = "publish"
     url = "/publish/"
-    
-  [[menu.main]]
-    name = "News"
-    parent = "products"
-    weight = 4 
-    identifier = "news"
-    url = "/news/"
 
   [[menu.main]]
-    name = "Dashboard"
-    parent = "products"
-    weight = 1
+    name = "Resources"
+    identifier = "resources"
+    weight = 4
+
+  [[menu.main]]
+    name = "Data Dashboard"
+    parent = "resources"
+    weight = 4
     identifier = "dashboard"
     url = "/dashboard/"
 
   [[menu.main]]
-    name = "Outreach"
-    parent = "products"
+    name = "rFuTRES"
+    parent = "resources"
+    weight = 4
+    identifier = "rfutres"
+    url = "https://github.com/futres/rfutres"
+
+  [[menu.main]]
+    name = "RShiny App"
+    parent = "resources"
+    weight = 4
+    identifier = "rshiny"
+    url = "https://futres.shinyapps.io/pyConvApp/"
+
+  [[menu.main]]
+    name = "Youtube Channel"
+    parent = "resources"
+    weight = 4
+    identifier = "youtube"
+    url = "/youtube/"
+
+  [[menu.main]]
+    name = "Workshops"
     weight = 5
-    identifier = "outreach"
-    url = "/outreach/"
+    identifier = "workshop"
+
+  [[menu.main]]
+    parent = "workshop"
+    name = "Workshop Information"
+    weight = 5
+    identifier = "workshopinfo"
+    url = "/workshop/"
+    
+  [[menu.main]]
+    parent = "workshop"
+    name = "Past Workshops"
+    weight = 5
+    identifier = "past_workshops"
+    url = "/past_workshops/"
+  
+  [[menu.main]]
+    name = "Code of Conduct"
+    parent = "workshop"
+    weight = 5
+    identifier = "codeofconduct"
+    url = "/codeofconduct/"
+
+
