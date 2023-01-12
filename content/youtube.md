@@ -4,7 +4,9 @@ language: en
 slug: youtube
 ---
 
-## Youtube Resources
+## Youtube Resources 
+
+<b></b>
 
 <b>Introduction to FuTRES: https://www.youtube.com/watch?v=r2LNKU9hQEE</b>
 
