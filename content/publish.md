@@ -4,35 +4,22 @@ language: en
 slug: publish
 ---
 
-## Talks
-O. Cirilli, M. Melchionna, C. Serio, <b>R.L. Bernor</b>, M. Bukhsianidze, D. Lordkipanidze, L. Rook, A. Profico, P. Raia. 2020. Target deformation of the Equus stenonis holotype skull: a new protocol for 3D virtual reconstructions. The Paleontological Association Annual Meeting. Poster.
-
-<b>M.A. Balk</b>, <b>R.L. Walls</b>, <b>R.P. Guralnick</b>, <b>E.B. Davis</b>, <b>J. Deck</b>, <b>K.F. Emery</b>, <b> R.L. Bernor</b>, <b>L. Brenskelle</b>, <b>A. Boileau</b> 2019. FuTRES: functional trait resource for environmental studies. Biodiversity_Next, Leiden, Netherlands. Oral Presentation.
-
-O. Cirilli, L. Pandolfi, <b>R.L. Bernor</b>, and L. Rook.  2019.  Lights and shadows on the Villafranchian perissodactyls of Italy.  EAVP 2019 (European Association of Vertebrate Paleontology) - 17th Conference of the EAVP - 2019- Bruxelles - July 2-6 - Royal Belgian Institute of Natural Sciences. Abstract Volume to be printed. 
-
-O. Cirilli, <b>R.L. Bernor</b>, and L. Rook.  2019.  New Evidence on the Equidae from the Late Miocene of As Sahabi (MN13; Libya, North Africa). 2019 meeting of the Paleontological Society of Italy, Naples, May 22-24, 2019.
-
-O. Cirilli, A.M. Jukar, R. Potts, L. Rook and <b>R.L. Bernor</b>.  2019 The Deep Time Origin of African Zebras Through the Eurasian “Equus Stenonine” Lineage.  Society of Vertebrate Paleontology. Abstract 163, Brisbane, Australia, Oct. 9-12, 2019.
-
-<b>E.B. Davis</b>. 2018. Keeping your data alive with harmonized repositories. Society of Vertebrate Paleontology Meeting, Albuquerque, NM.
-
-<b>E.B. Davis</b>. 2019. Keeping your data alive with harmonized repositories. Western Association of Vertebrate Paleontology, Keynote presentation, Eugene OR.
-
 ## Publications
-(28) S. Bartolini-Lucenti, O. Cirilli, L. Pandolfi, <b>R.L. Bernor</b>, M. Bukhsianidze, F. Carotenuto, D. Lordkipanidze, N. Tsikaridze, L. Rook. Zoogeographic significance of Dmanisi large mammal assemblage. Journal of Human Evolution, in press.
+(29) <b>M.A. Balk</b>, <b>J. Deck</b>, <b>K.F. Emery</b>, <b>R.L. Walls</b>, D. Reuter, R. LaFrance, J. Arroyo-Cabrales, P. Barrett, J. Blois, A. Boileau, L. Brenskelle, N.R. Cannarozzi, J.A. Cruz, L. Dávalos, N.U. de la Sancha, P. Gyawali, M.M. Hantak, S.. Hopkins, B. Kohli, J.N. King, M.S. Koo, A.M. Lawing, H. Machado, S.M. McCrane, B. McLEan, M.E. Morgan, S. Pilaar Birch, D. Reed, E.J. Reitz, N. Sewnath, N.S. Upham, A. Villaseñor, L. Yohe, <b>E.B. Davis</b>, <b>R.P. Guralnick</b>. 2022. <h ref="https://www.sciencedirect.com/science/article/pii/S2589004222013736">A solution to the challenges of interdisciplinary aggregation and use of specimen-level trait data</a>. iSciece, 25(10): 105101. <a href="https://doi.org/10.1016/j.isci.2022.105101">doi:10.1016/j.isci.2022.105101</a>
 
-(27) M. Hantak, B. McLean, D. Li, and <b>R. Guralnick</b>. 2020. <a href="https://www.nature.com/articles/s42003-021-02505-3">Mammalian body size is determined by interactions between climate, urbanization and traits.</a> Communication Biology, 4(972). <a href="https://doi.org/10.1038/s42003-021-02505-3">doi:10.1038/s42003-021-02505-3</a>
+(28) S. Bartolini-Lucenti, O. Cirilli, L. Pandolfi, <b>R.L. Bernor</b>, M. Bukhsianidze, F. Carotenuto, D. Lordkipanidze, N. Tsikaridze, L. Rook. 2022. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0047248421001779">Zoogeographic significance of Dmanisi large mammal assemblage</a>. Journal of Human Evolution, 163: 103125. <a href="https://doi.org/10.1016/j.jhevol.2021.103125">doi:10.1016/j.jhevol.2021.103125</a>
 
-(26) O. Cirilli, J. Saarinen, L. Pandolfi, L. Rook, and <b>R.L. Bernor</b>. <a href="https://www.sciencedirect.com/science/article/pii/S0277379121003620?casa_token=rvr2P9XvHzMAAAAA:VjMx6to76KqBZen5SLB1T2GzAyP37vc8ojZciQI8BvWY-_jj29J9ZgthOIQJhTdTN8a38q3D">An updated review on <i>Equus stenonis</i> (Mammalia, Perissodactyla): new implications for the European Early Pleistocene Equus taxonomy and paleoecology, and remarks on the Old World Equus evolution.</a> Quaternary Science Reviews, in revision.
+(27) M. Hantak, B. McLean, D. Li, and <b>R. Guralnick</b>. 2021. <a href="https://www.nature.com/articles/s42003-021-02505-3">Mammalian body size is determined by interactions between climate, urbanization and traits</a>. Communication Biology, 4(972). <a href="https://doi.org/10.1038/s42003-021-02505-3">doi:10.1038/s42003-021-02505-3</a>
 
-(25) O. Cirilli. <i>Equus stehlini</i> Azzaroli, 1964 (Perissodactyla, Equidae). A revision of the  most enigmatic horse from the Early Pleistocene of Europe, with new insights on the evolutionary history of European medium- and small-sized horses. Rivista Italiana di Paleontologia e Stratigraphia, Milano, in revision.
+(26) O. Cirilli, J. Saarinen, L. Pandolfi, L. Rook, and <b>R.L. Bernor</b>. 2021. <a href="https://www.sciencedirect.com/science/article/pii/S0277379121003620?casa_token=rvr2P9XvHzMAAAAA:VjMx6to76KqBZen5SLB1T2GzAyP37vc8ojZciQI8BvWY-_jj29J9ZgthOIQJhTdTN8a38q3D">An updated review on <i>Equus stenonis</i> (Mammalia, Perissodactyla): new implications for the European Early Pleistocene Equus taxonomy and paleoecology, and remarks on the Old World Equus evolution</a>. Quaternary Science Reviews, 269: 107155. <a href="https://doi.org/10.1016/j.quascirev.2021.107155">doi:10.1016/j.quascirev.2021.107155</a>
 
-(24) <b>R.L. Bernor</b>, F. Kaya, A. Kaakinen, J. Saarinen, amd M. Fortelius. Old World Hipparionine evolution, biogeography, climatology and ecology. Earth Science Reviews, accepted.
+(25) O. Cirilli. 2022. <a href="https://www.researchgate.net/profile/Omar-Cirilli/publication/358751878_EQUUS_STEHLINI_AZZAROLI_1964_PERISSODACTYLA_EQUIDAE_A_REVISION_OF_THE_MOST_ENIGMATIC_HORSE_FROM_THE_EARLY_PLEISTOCENE_OF_EUROPE_WITH_NEW_INSIGHTS_ON_THE_EVOLUTIONARY_HISTORY_OF_EUROPEAN_MEDIUM-_AND_SM/links/6213d8fd08bee946f3943cb4/EQUUS-STEHLINI-AZZAROLI-1964-PERISSODACTYLA-EQUIDAE-A-REVISION-OF-THE-MOST-ENIGMATIC-HORSE-FROM-THE-EARLY-PLEISTOCENE-OF-EUROPE-WITH-NEW-INSIGHTS-ON-THE-EVOLUTIONARY-HISTORY-OF-EUROPEAN-MEDIUM-AND.pdf"><i>Equus stehlini</i> Azzaroli, 1964 (Perissodactyla, Equidae). A revision of the  most enigmatic horse from the Early Pleistocene of Europe, with new insights on the evolutionary history of European medium- and small-sized horses</a>. Research in Paleontology and Stratigraphy, 128(1): 241-265. 
 
-(23) <b>R.L. Bernor</b>, O. Cirilli, M. Bushkhianidze, D. Lordkipanidze, and L. Rook. 2021. The Dmanisi Equus: Systematics, biogeography and paleoecology. Journal of Human Evolution Special Volume: The Biotic Context of the Early Pleistocene Hominins from Dmanisi (Georgia, Southern Caucasus). Journal of Human Evolution 158: 1-14. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0047248421001032?via%3Dihub">doi:10.1016/j.jhevol.2021.103051</a>
+(24) <b>R.L. Bernor</b>, F. Kaya, A. Kaakinen, J. Saarinen, amd M. Fortelius. 2021. <a href="https://www.sciencedirect.com/science/article/pii/S0012825221002853">Old World Hipparionine evolution, biogeography, climatology and ecology</a>. Earth Science Reviews, 221: 103784. <a href="https://doi.org/10.1016/j.earscirev.2021.103784">doi:10.1016.j.earscirev.2021.103784</a>
 
-(22) O. Cirilli, L. Pandolfi, L. Rook, and <b>R.L. Bernor</b>. 2021. <a href= "https://www.nature.com/articles/s41598-021-89440-9">Evolution of Old World <i>Equus</i> and origin of the zebra-ass clade</a>. Scientific Reports. 11(10156).
+(23) <b>R.L. Bernor</b>, O. Cirilli, M. Bushkhianidze, D. Lordkipanidze, and L. Rook. 2021. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0047248421001032">The Dmanisi Equus: Systematics, biogeography and paleoecology. Journal of Human Evolution Special Volume: The Biotic Context of the Early Pleistocene Hominins from Dmanisi (Georgia, Southern Caucasus)</a>. Journal of Human Evolution 158: 1-14. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0047248421001032?via%3Dihub">doi:10.1016/j.jhevol.2021.103051</a>
+
+(22) O. Cirilli, L. Pandolfi, L. Rook, and <b>R.L. Bernor</b>. 2021. <a href= "https://www.nature.com/articles/s41598-021-89440-9">Evolution of Old World <i>Equus</i> and origin of the zebra-ass clade</a>. Scientific Reports. 11(1): 1-11.
 
 (21) J. Saarinen, O. Cirilli, K. Meshida, F. Strani, and <b>R.L. Bernor</b>. 2021. <a href="https://www.frontiersin.org/articles/10.3389/fevo.2021.622412/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Ecology_and_Evolution&id=622412">Testing equid body mass estiamte equations on modern zebras - with implications to understanding the relationship of body size, diet, and habitats of <i>Equus</i> in the Pleistocene of Europe.</a> Frontiers in Ecology and Evolution, 9(90). <a href="https://doi.org/10.3389/fevo.2021.622412">doi:10.3389/fevo/2021</a>
 
@@ -40,7 +27,7 @@ O. Cirilli, A.M. Jukar, R. Potts, L. Rook and <b>R.L. Bernor</b>.  2019 The Deep
 
 (19) C. Omar, <b>R.L. Bernor</b>, and L. Rook. 2020. <a href="https://www.cambridge.org/core/journals/journal-of-paleontology/article/new-insights-on-the-early-pleistocene-equids-from-rocaneyra-france-central-europe-implications-for-the-hipparion-lad-and-the-equus-fad-in-europe/45B7BF15437A128D822A72B3C2F9522D"New insights on the early Pleistocene equids from Roca-Neyra (France, Central Europe); implications for the <i>Hipparion</i> LAD and the <i>Equus</i> FAD in Europe</a>. Journal of Paleontology, 95(2): 406-425.
 
-(18) <b>R.L. Bernor</b>,, M. Beech, and F. Bibi. 2021. Equidae from the Baynunah Equidae. In: F. Bibi, B. Kraatz, M.Beech, and A. Hill (Eds.), <i>Sands of Time: Late Miocene fossils from the Baynunah Formation, U.A.E.</i> pp. 259-280. <i>In press.</i>
+(18) <b>R.L. Bernor</b>,, M. Beech, and F. Bibi. 2021. Equidae from the Baynunah Equidae. In: F. Bibi, B. Kraatz, M.Beech, and A. Hill (Eds.), <i>Sands of Time: Late Miocene fossils from the Baynunah Formation, U.A.E.</i> pp. 259-280.
 
 (17) D.M. Reuter, S.S.B. Hopkins, and E.B. Davis. 2021 <a href="https://academic.oup.com/jmammal/article/102/1/236/6175216?casa_token=d53T2AwnJ4EAAAAA:ROsTjdeqHUTbPEbYQeOVWwKvE1jgZxL056diQNJOquabygXzsNExB3Pn4Y5xEDTv0a99h72Nk13Z">Carnivoran intraspecific tooth-size variation shows heterogeneity along the tooth row and among species.</a> Journal of Mammalogy, 102(1): 236-249. <a href="https://doi.org/10.1093/jmammal/gyaa157">doi:10.1093/jmammal/gyaa157</a>
 
@@ -75,3 +62,19 @@ O. Cirilli, A.M. Jukar, R. Potts, L. Rook and <b>R.L. Bernor</b>.  2019 The Deep
 (2) L. Rook, <b>R.L. Bernor</b>, L.D. Avillla, O. Cirilli, L.J. Flynn, A.M. Jukar, W. Sanders, E. Scott, and X. Wang. 2019. <a href="https://www.frontiersin.org/articles/10.3389/fevo.2019.00278/full?=&field=&id=451815&journalName=Frontiers_in_Ecology_and_Evolution">Mammal biochronology (Land Mammal Ages) around the World from Late Miocene to Middle Pleistocene and major events in Horse evolutionary history</a>. Frontiers in Ecology and Evolution, 7: 279. doi:10.3389/fevo.2019.00278
  
 (1) A.M. Jukar, B. Sun, A.C. Nanda, and <b>R.L. Bernor</b>. 2019. <a href="https://par.nsf.gov/servlets/purl/10152595">The first occurrence of Eurygnathohippus (Mammalia, Perissodatyla, Equidae) outside Africa and its biogeographic significance</a>. Bollettino della Societa Paleontologica Italiana, Modena, 58: 171-179. 
+
+## Talks
+O. Cirilli, M. Melchionna, C. Serio, <b>R.L. Bernor</b>, M. Bukhsianidze, D. Lordkipanidze, L. Rook, A. Profico, P. Raia. 2020. Target deformation of the Equus stenonis holotype skull: a new protocol for 3D virtual reconstructions. The Paleontological Association Annual Meeting. Poster.
+
+<b>M.A. Balk</b>, <b>R.L. Walls</b>, <b>R.P. Guralnick</b>, <b>E.B. Davis</b>, <b>J. Deck</b>, <b>K.F. Emery</b>, <b> R.L. Bernor</b>, <b>L. Brenskelle</b>, <b>A. Boileau</b> 2019. FuTRES: functional trait resource for environmental studies. Biodiversity_Next, Leiden, Netherlands. Oral Presentation.
+
+O. Cirilli, L. Pandolfi, <b>R.L. Bernor</b>, and L. Rook.  2019.  Lights and shadows on the Villafranchian perissodactyls of Italy.  EAVP 2019 (European Association of Vertebrate Paleontology) - 17th Conference of the EAVP - 2019- Bruxelles - July 2-6 - Royal Belgian Institute of Natural Sciences. Abstract Volume to be printed. 
+
+O. Cirilli, <b>R.L. Bernor</b>, and L. Rook.  2019.  New Evidence on the Equidae from the Late Miocene of As Sahabi (MN13; Libya, North Africa). 2019 meeting of the Paleontological Society of Italy, Naples, May 22-24, 2019.
+
+O. Cirilli, A.M. Jukar, R. Potts, L. Rook and <b>R.L. Bernor</b>.  2019 The Deep Time Origin of African Zebras Through the Eurasian “Equus Stenonine” Lineage.  Society of Vertebrate Paleontology. Abstract 163, Brisbane, Australia, Oct. 9-12, 2019.
+
+<b>E.B. Davis</b>. 2018. Keeping your data alive with harmonized repositories. Society of Vertebrate Paleontology Meeting, Albuquerque, NM.
+
+<b>E.B. Davis</b>. 2019. Keeping your data alive with harmonized repositories. Western Association of Vertebrate Paleontology, Keynote presentation, Eugene OR.
+
