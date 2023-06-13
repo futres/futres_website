@@ -16,3 +16,5 @@ slug: youtube
 
 <b>Data pipeline: https://www.youtube.com/watch?v=tn_Rf9CQX3Y</b>
 
+<b> FuTRES R Shiny App Tutorial: https://youtu.be/XhnCefQw0wI </b>
+
